@@ -4,10 +4,14 @@ using UnityEngine;
 using UnityEngine.Android;
 using UnityEngine.UI;
 
-public class GetDeviceLocation : MonoBehaviour
+public class GetLocationRelativeToCampus : MonoBehaviour
 {
+
+    public Transform userObject;
     public Text displayText;
 
+    private float corX, corZ, locX, locZ;
+    private float orgX = 63.7538178f, orgZ = 11.3129061f;
 
     private void Awake()
     {
@@ -49,10 +53,15 @@ public class GetDeviceLocation : MonoBehaviour
             }
         }
     }
-    private void Start()
+
+    // Start is called before the first frame update
+    void Start()
     {
+        
+
         StartCoroutine("FindLocation");
     }
+
     IEnumerator FindLocation()
     {
             // Starts the location service.
@@ -95,7 +104,8 @@ public class GetDeviceLocation : MonoBehaviour
     {
         Input.location.Stop();
     }
-    private void Update()
+
+   private void Update()
     {
         if (Input.location.status == LocationServiceStatus.Failed)
         {
@@ -104,9 +114,14 @@ public class GetDeviceLocation : MonoBehaviour
         }
         else
         {
-
+            corX = Input.location.lastData.latitude;//63.755141f;
+            corZ = Input.location.lastData.longitude;//11.313448f;
+        
+            locX = (corX - orgX) * 111139;
+            locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
+            userObject.transform.position = new Vector3(locX, 0f, locZ);
             // If the connection succeeded, this retrieves the device's current location and displays it in the Console window.
-            displayText.text = ("Location: " + Input.location.lastData.latitude + " " + Input.location.lastData.longitude + " " + Input.location.lastData.altitude + " " + Input.location.lastData.horizontalAccuracy + " " + Input.location.lastData.timestamp);
+            //displayText.text = ("Location: " + Input.location.lastData.latitude + " " + Input.location.lastData.longitude + " " + Input.location.lastData.altitude + " " + Input.location.lastData.horizontalAccuracy + " " + Input.location.lastData.timestamp);
 
         }
     }
