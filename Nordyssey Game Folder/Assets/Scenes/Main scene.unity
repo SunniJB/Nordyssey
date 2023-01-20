@@ -370,7 +370,7 @@ GameObject:
   - component: {fileID: 49015564}
   - component: {fileID: 49015563}
   - component: {fileID: 49015562}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Goal_Nordl\xE5na"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -757,7 +757,7 @@ RectTransform:
   m_Children:
   - {fileID: 2067935532}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -776,7 +776,7 @@ GameObject:
   - component: {fileID: 252778036}
   - component: {fileID: 252778035}
   - component: {fileID: 252778034}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: User
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -854,13 +854,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 252778033}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.5, z: -187.70001}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1559086051}
-  m_Father: {fileID: 1598536936}
-  m_RootOrder: 2
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &295380344
 GameObject:
@@ -874,7 +874,7 @@ GameObject:
   - component: {fileID: 295380348}
   - component: {fileID: 295380347}
   - component: {fileID: 295380346}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Nordl\xE5na"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -970,7 +970,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 493992663}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Goals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -995,7 +995,7 @@ Transform:
   - {fileID: 1384879792}
   - {fileID: 1015154992}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &611537269
 GameObject:
@@ -1131,7 +1131,7 @@ GameObject:
   - component: {fileID: 618125359}
   - component: {fileID: 618125358}
   - component: {fileID: 618125357}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Nyl\xE5na_Connector"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1305,7 +1305,7 @@ GameObject:
   - component: {fileID: 673023097}
   - component: {fileID: 673023096}
   - component: {fileID: 673023095}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Goal_Nyl\xE5na"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1896,7 +1896,7 @@ GameObject:
   - component: {fileID: 950681280}
   - component: {fileID: 950681279}
   - component: {fileID: 950681278}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Goal_Canteen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2116,7 +2116,7 @@ GameObject:
   - component: {fileID: 1007722829}
   - component: {fileID: 1007722828}
   - component: {fileID: 1007722827}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Nyl\xE5na"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2216,7 +2216,7 @@ GameObject:
   - component: {fileID: 1015154995}
   - component: {fileID: 1015154994}
   - component: {fileID: 1015154993}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Goal_IT
   m_TagString: waypoint
   m_Icon: {fileID: 0}
@@ -2391,7 +2391,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1249255360}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Campus_Map
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2405,16 +2405,16 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1249255359}
-  m_LocalRotation: {x: 0, y: 0.9959239, z: -0, w: -0.09019804}
-  m_LocalPosition: {x: 0, y: -0.5, z: -171.6}
+  m_LocalRotation: {x: -0, y: 0.9959239, z: -0, w: -0.09019804}
+  m_LocalPosition: {x: 0, y: 0, z: 16.100006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1961423703}
   - {fileID: 1007722826}
   - {fileID: 295380345}
-  m_Father: {fileID: 1598536936}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 190.35, z: 0}
 --- !u!1 &1252335146
 GameObject:
@@ -2428,7 +2428,7 @@ GameObject:
   - component: {fileID: 1252335150}
   - component: {fileID: 1252335149}
   - component: {fileID: 1252335148}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Nyl\xE5na_Teachers_Wing"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2526,7 +2526,7 @@ GameObject:
   - component: {fileID: 1384879795}
   - component: {fileID: 1384879794}
   - component: {fileID: 1384879793}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Goal_Library
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3103,7 +3103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1559086051}
   - component: {fileID: 1559086050}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: MinimapCamera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3180,7 +3180,7 @@ GameObject:
   - component: {fileID: 1579593965}
   - component: {fileID: 1579593964}
   - component: {fileID: 1579593963}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: "Nyl\xE5na_3_Wing"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3318,7 +3318,7 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 55
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -3394,8 +3394,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1469257047}
-  - {fileID: 1249255360}
-  - {fileID: 252778037}
   m_Father: {fileID: 1668911825}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4177,7 +4175,7 @@ GameObject:
   - component: {fileID: 1961423706}
   - component: {fileID: 1961423705}
   - component: {fileID: 1961423704}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Main_Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
