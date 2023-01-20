@@ -15,6 +15,7 @@ public class arrowPointToPoint : MonoBehaviour
     {
         waypoint = GameObject.FindGameObjectWithTag("waypoint");
         gameObject.transform.LookAt(waypoint.transform, cam.transform.up);
+        
     }
 
 }
