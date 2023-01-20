@@ -17,5 +17,5 @@ public class arrowPointToPoint : MonoBehaviour
         gameObject.transform.LookAt(waypoint.transform, cam.transform.up);
         
     }
-
+ 
 }
