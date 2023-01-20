@@ -1231,7 +1231,7 @@ GameObject:
   - component: {fileID: 1449083280}
   - component: {fileID: 1449083281}
   m_Layer: 0
-  m_Name: ArrowScaler
+  m_Name: ArrowWithScaler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
