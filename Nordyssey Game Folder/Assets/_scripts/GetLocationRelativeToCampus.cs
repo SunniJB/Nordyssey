@@ -117,7 +117,7 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             corX = Input.location.lastData.latitude;//63.755141f;
             corZ = Input.location.lastData.longitude;//11.313448f;
         
-            locX = (corX - orgX) * 111139;
+            locX = (orgX - corX) * 111139;
             locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
             userObject.transform.position = new Vector3(locX, 0f, locZ);
             // If the connection succeeded, this retrieves the device's current location and displays it in the Console window.
