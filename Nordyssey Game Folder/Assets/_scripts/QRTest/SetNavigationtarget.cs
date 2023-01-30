@@ -37,7 +37,7 @@ public class SetNavigationtarget : MonoBehaviour
     {
         targetPosition = Vector3.zero;
         string selectedText = navigationtargetDropdown.options[selectedValue].text;
-        Target currentTarget = navigationTargetObjects.Find(x => x.Name.Equals(selectedText));
+        Target currentTarget = navigationTargetObjects.Find(x => x.Name.ToLower().Equals(selectedText.ToLower()));
         if (currentTarget != null) 
         {
             targetPosition = currentTarget.positionObject.transform.position;
