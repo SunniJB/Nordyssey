@@ -15,16 +15,18 @@ public class DestinationManager : MonoBehaviour
     private string[] destinationNames = new string[3]
     {
         "Hovedbygg/Main Building", // 0
-        "Nylåna", // 1
-        "Nordlåna" // 2
+        "Nordlåna", // 1
+        "Nylåna" // 2
+        
 
     };
     //public destinations choice;
 
     private Vector3[] destinationCoordinates = new Vector3[] {
         new Vector3(-21.3f, 0f, 85.9f), // 0
-        new Vector3(31.3f, 0f, 4.1f), // 1
-        new Vector3(200f, 0f, 53f) // 2
+        new Vector3(200f, 0f, 53f), // 1
+        new Vector3(31.3f, 0f, 4.1f) // 2
+        
     };
 
 
@@ -32,6 +34,7 @@ public class DestinationManager : MonoBehaviour
     public void SwitchWaypoint(int de)
     {
         arrow.waypoint.transform.position = destinationCoordinates[de];
+        Debug.Log(destinationNames[de]);
     }
 
     public void SearchList(string input)
@@ -42,11 +45,12 @@ public class DestinationManager : MonoBehaviour
         int idButton = 0;
         foreach (string des in destinationNames)
         {
-            if (des.Contains(input))
+            if (des.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
             {
                 GameObject b = listContent.GetChild(idButton).gameObject;
+                idButton++;
                 b.SetActive(true);
-                b.GetComponent<Text>().text = destinationNames[id];
+                b.transform.GetChild(0).GetComponent<Text>().text = destinationNames[id];
                 b.GetComponent<InfoHolder>().num = id;
             }
             id++;
