@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c89a679d704c7c04fba9abc359d5c5aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Acumin Variable Concept
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92a50930261ff96458d2e688fb38987f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
