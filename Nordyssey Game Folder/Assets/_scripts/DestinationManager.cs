@@ -17,8 +17,33 @@ public class DestinationManager : MonoBehaviour
         "Hovedbygg/Main Building", // 0
         "Nordlåna", // 1
         "Nylåna" // 2
-        
-
+        //"Servicetorg", // 3
+        //"Bibliotek lager / Library storage", // 4
+        //"Kopirom / Copier room", // 5
+        //"4.161", // 6
+        //"4.192", // 7
+        //"4.186", // 8
+        //"1.111", // 9
+        //"1.112", // 10
+        //"1.113", // 11
+        //"1.114", // 12
+        //"1.115", // 13
+        //"1.116", // 14
+        //"1.117", // 15
+        //"1.118", // 16
+        //"1.119", // 17
+        //"4.261", // 18
+        //"Stille lesesal / Quiet reading-room", // 19
+        //"1.221", // 20
+        //"Grupperom 1 / Group room 1", // 21
+        //"Grupperom 2 / Group room 2", // 22
+        //"Grupperom 3 / Group room 3", // 23
+        //"Grupperom 4 / Group room 4", // 24
+        //"Møterom 2 / Meeting room 2", // 25
+        //"1.120", // 26
+        //"",
+        //"",
+        //"",
     };
     //public destinations choice;
 
