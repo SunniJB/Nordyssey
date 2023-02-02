@@ -15,6 +15,8 @@ public class SetNavigationtarget : MonoBehaviour
 
     public bool lineToggle = false;
 
+    public Text debugLogText;
+
     private void Start()
     {
         path = new NavMeshPath();
@@ -41,7 +43,7 @@ public class SetNavigationtarget : MonoBehaviour
         if (currentTarget != null) 
         {
             targetPosition = currentTarget.positionObject.transform.position;
-            Debug.Log("Target position is now " + targetPosition);
+            debugLogText.text = ("Target position is now " + targetPosition);
         }
     }
 
