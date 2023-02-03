@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
+using TMPro;
 
 public class DestinationManager : MonoBehaviour
 {
@@ -65,17 +66,17 @@ public class DestinationManager : MonoBehaviour
     public void SearchList(string input)
     {
         foreach (Transform c in listContent)
-        {c.gameObject.SetActive(false);}
+        {c.GetChild(0).gameObject.SetActive(false);}
         int id = 0;
         int idButton = 0;
         foreach (string des in destinationNames)
         {
             if (des.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
             {
-                GameObject b = listContent.GetChild(idButton).gameObject;
+                GameObject b = listContent.GetChild(idButton).GetChild(0).gameObject;
                 idButton++;
                 b.SetActive(true);
-                b.transform.GetChild(0).GetComponent<Text>().text = destinationNames[id];
+                b.transform.GetChild(0).GetComponent<TMP_Text>().text = destinationNames[id];
                 b.GetComponent<InfoHolder>().num = id;
             }
             id++;

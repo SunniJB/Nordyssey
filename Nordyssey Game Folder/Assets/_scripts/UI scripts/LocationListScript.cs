@@ -4,10 +4,21 @@ using UnityEngine;
 
 public class LocationListScript : MonoBehaviour
 {
-    public GameObject activeCanvas;
+    public GameObject buildingList, roomList;
     
-    public void whenButtonClicked()
+    public void activeBuildingList()
     {
-        activeCanvas.SetActive(true);
+        buildingList.SetActive(true);
+        roomList.SetActive(false);
+    }
+
+    public void activeRoomList()
+    {
+        roomList.SetActive(true);
+    }
+    public void backToMainScreen()
+    {
+        buildingList.SetActive(false);
+        roomList.SetActive(false);
     }
 }
