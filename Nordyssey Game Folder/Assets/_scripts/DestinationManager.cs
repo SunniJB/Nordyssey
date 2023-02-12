@@ -11,6 +11,8 @@ public class DestinationManager : MonoBehaviour
     public arrowPointToPoint arrow;
     public InputField inputField;
     public Transform waypointsRoot;
+    [Tooltip("The buttons in question are the ones you select from after writing in the input field.")]
+    public Transform buttonsParent;
     //public Button button1;
 
 
@@ -56,13 +58,13 @@ public class DestinationManager : MonoBehaviour
         
     };*/
 
-    public Transform[] destinations;
+    public Transform[] destinations = new Transform[20];
 
     // The destination waypoint is moved to the Vector3 location when an entry is selected
-    public void SwitchWaypoint(Transform des)
+    public void SwitchWaypoint(int des)
     {
-        arrow.waypoint.transform.position = des.position;
-        Debug.Log("Destination: " + des.name);
+        arrow.waypoint.transform.position = destinations[des].position;
+        Debug.Log("Destination: " + destinations[des].name);
     }
 
     public void SearchList(string input)
@@ -77,7 +79,8 @@ public class DestinationManager : MonoBehaviour
         // Their direct children will be all the rooms in those buildings. So that the hiearchy is only three levels deep.
 
         
-        int id = 0;
+        int desId = 0;
+
         
         foreach (Transform building in waypointsRoot)
         {
@@ -87,13 +90,15 @@ public class DestinationManager : MonoBehaviour
             {
                 if (room.name.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
                 {
-                    //button1.onClick.Invoke();
+                    if (desId > destinations.Length -1)
+                    {return;} // For now we will only be able to display a limited number of options
+                    destinations[desId] = room;
+                    buttonsParent.GetChild(desId).GetChild(0).GetComponent<TMP_Text>().text = room.name;
+                    desId++;
                     //idButton++;
                     //b.SetActive(true);
                     //b.transform.GetChild(0).GetComponent<TMP_Text>().text = destinations[id].name;
-                    //b.GetComponent<InfoHolder>().num = id;
                 }
-                id++;
             }
         }
     }

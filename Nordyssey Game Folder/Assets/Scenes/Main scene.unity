@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3427,7 +3427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27eab0d173fc263408e5f01628804296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num: 0
+  des: 0
   dm: {fileID: 2027956304}
 --- !u!1 &236820167
 GameObject:
@@ -11514,7 +11514,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 42.45
+  m_fontSize: 38.1
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -12545,7 +12545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27eab0d173fc263408e5f01628804296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num: 0
+  des: 0
   dm: {fileID: 2027956304}
 --- !u!114 &1042958476
 MonoBehaviour:
@@ -13386,7 +13386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27eab0d173fc263408e5f01628804296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num: 0
+  des: 0
   dm: {fileID: 2027956304}
 --- !u!114 &1122523704
 MonoBehaviour:
@@ -15194,7 +15194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27eab0d173fc263408e5f01628804296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num: 0
+  des: 0
   dm: {fileID: 2027956304}
 --- !u!1 &1241781237
 GameObject:
@@ -18285,10 +18285,10 @@ MonoBehaviour:
       - m_Target: {fileID: 2027956304}
         m_TargetAssemblyTypeName: DestinationManager, Assembly-CSharp
         m_MethodName: SwitchWaypoint
-        m_Mode: 3
+        m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
           m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
@@ -18368,7 +18368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27eab0d173fc263408e5f01628804296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num: 0
+  des: 0
   dm: {fileID: 2027956304}
 --- !u!114 &1536993012
 MonoBehaviour:
@@ -23602,7 +23602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27eab0d173fc263408e5f01628804296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num: 0
+  des: 0
   dm: {fileID: 2027956304}
 --- !u!1 &2008861596
 GameObject:
@@ -23812,6 +23812,7 @@ MonoBehaviour:
   arrow: {fileID: 1469257049}
   inputField: {fileID: 311767554}
   waypointsRoot: {fileID: 0}
+  buttonsParent: {fileID: 0}
   destinations: []
 --- !u!114 &2027956305
 MonoBehaviour:
