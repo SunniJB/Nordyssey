@@ -9,6 +9,8 @@ public class GetLocationRelativeToCampus : MonoBehaviour
 
     public Transform userObject;
     public Text displayText;
+    public GameObject scriptManager;
+    private DebugTextController debugController;
 
     private float corX, corZ, locX, locZ;
     private float orgX = 63.7538178f, orgZ = 11.3129061f;
@@ -57,9 +59,18 @@ public class GetLocationRelativeToCampus : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        debugController = scriptManager.GetComponent<DebugTextController>();
 
         StartCoroutine("FindLocation");
+    }
+
+    public void RestartLocationFinding()
+    {
+        if (Input.location.status == LocationServiceStatus.Stopped
+        ||  Input.location.status == LocationServiceStatus.Failed)
+        {
+            StartCoroutine("FindLocation");
+        }
     }
 
     IEnumerator FindLocation()
@@ -68,7 +79,7 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             Input.location.Start();
 
             // Waits until the location service initializes
-            int maxWait = 20;
+            int maxWait = 10;
             while (Input.location.status == LocationServiceStatus.Initializing && maxWait > 0)
             {
                 yield return new WaitForSeconds(1);
@@ -80,6 +91,7 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             if (maxWait < 1)
             {
                 displayText.text = ("Timed out");
+                debugController.ShowDebugWarning("Location service timed out");
                 yield break;
             }
 
@@ -87,6 +99,7 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             if (Input.location.status == LocationServiceStatus.Failed)
             {
                 displayText.text = ("Unable to determine device location");
+                debugController.ShowDebugError("Location service failed");
                 yield break;
             }
             else
