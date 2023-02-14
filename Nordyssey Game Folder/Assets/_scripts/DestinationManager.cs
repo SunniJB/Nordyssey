@@ -58,6 +58,12 @@ public class DestinationManager : MonoBehaviour
         
     };*/
 
+    private void Start()
+    {
+        foreach (Transform button in buttonsParent)
+        {button.gameObject.SetActive(false);}
+    }
+
     public Transform[] destinations = new Transform[20];
 
     // The destination waypoint is moved to the Vector3 location when an entry is selected
@@ -90,16 +96,28 @@ public class DestinationManager : MonoBehaviour
             {
                 if (room.name.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
                 {
-                    if (desId > destinations.Length -1)
+                    if (desId > destinations.Length -1 || desId > buttonsParent.childCount -1)
                     {return;} // For now we will only be able to display a limited number of options
+
+
                     destinations[desId] = room;
-                    buttonsParent.GetChild(desId).GetChild(0).GetComponent<TMP_Text>().text = room.name;
+                    GameObject button = buttonsParent.GetChild(desId).gameObject;
+                    button.SetActive(true);
+                    button.transform.GetChild(0).GetComponent<TMP_Text>().text = room.name;
+                    if (room.TryGetComponent<Alt_Languages>(out Alt_Languages altLang))
+                    {
+                        //Debug.Log("Found Alternate Title");
+                        button.transform.GetChild(1).GetComponent<TMP_Text>().text = altLang.norwegian;
+                    }
                     desId++;
-                    //idButton++;
-                    //b.SetActive(true);
-                    //b.transform.GetChild(0).GetComponent<TMP_Text>().text = destinations[id].name;
                 }
             }
+        }
+
+        for (int i = desId; i < buttonsParent.childCount -1; i++)
+        {
+            // Turn off the extra buttons we don't need.
+            buttonsParent.GetChild(i).gameObject.SetActive(false);
         }
     }
 }

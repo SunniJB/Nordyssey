@@ -20,11 +20,12 @@ public class Swipe : MonoBehaviour
 
     }
     public bool moveUp, moveDown;
+    private bool up = false;
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        /*if (Input.GetMouseButtonDown(0))
         {
             x1 = Input.mousePosition.y;
         }
@@ -47,15 +48,16 @@ public class Swipe : MonoBehaviour
                 Debug.Log("move = 2f;");
                 //searchMenu.transform.Translate(Vector2.up * (1000 * Time.deltaTime));
             }
-        }
+        }*/
 
         if (moveDown == true)
         {
-            Debug.Log("Move down was activated");
+            //Debug.Log("Move down was activated");
             searchMenu.transform.Translate(Vector2.down * (1000 * Time.deltaTime));
             if (searchMenu.transform.position.y < 962)
             {
                 moveDown = false;
+                up = false;
             }
         }
         else if (moveUp == true)
@@ -64,8 +66,27 @@ public class Swipe : MonoBehaviour
             if (searchMenu.transform.position.y > 1761)
             {
                 moveUp = false;
+                up = true;
             }
         }
         
+    }
+
+    public void MoveDown()
+    {
+        moveDown = true;
+    }
+
+    public void MoveUp()
+    {
+        moveUp = true;
+    }
+
+    public void ToggleUpDown()
+    {
+        if (up == false)
+        {moveUp = true;}
+        else
+        {moveDown = true;}
     }
 }
