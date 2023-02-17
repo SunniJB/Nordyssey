@@ -10,11 +10,11 @@ public class Swipe : MonoBehaviour
     public float x1;
     public float x2;
 
-    //public float move = 0;
+    public float move = 0;
 
-    //LocationListScript locationListScript;
+    LocationListScript locationListScript;
 
-    // Start is called before the first frame update
+    //Start is called before the first frame update
     void Start()
     {
 
@@ -25,7 +25,7 @@ public class Swipe : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0))
         {
             x1 = Input.mousePosition.y;
         }
@@ -48,7 +48,7 @@ public class Swipe : MonoBehaviour
                 Debug.Log("move = 2f;");
                 //searchMenu.transform.Translate(Vector2.up * (1000 * Time.deltaTime));
             }
-        }*/
+        }
 
         if (moveDown == true)
         {
@@ -89,4 +89,9 @@ public class Swipe : MonoBehaviour
         else
         {moveDown = true;}
     }
+
+    //public void PositionReset()
+    //{
+    //    searchMenu.transform.position = new Vector3(searchMenu.transform.position.x, 962f, searchMenu.transform.position.z);
+    //}
 }

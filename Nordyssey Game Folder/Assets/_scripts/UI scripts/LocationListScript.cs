@@ -4,25 +4,30 @@ using UnityEngine;
 
 public class LocationListScript : MonoBehaviour
 {
-    public GameObject buildingList, roomList;
-    public GameObject searchCanvas;
+    public GameObject buildingList;
+    //public GameObject searchCanvas;
 
-    
+
     public void activeBuildingList()
     {
         buildingList.SetActive(true);
-        roomList.SetActive(false);
-        searchCanvas.GetComponent<Swipe>().moveDown = true;
+        //searchCanvas.GetComponent<Swipe>().moveDown = true;
     }
 
-    public void activeRoomList()
-    {
-        roomList.SetActive(true);
-    }
+   
     public void backToMainScreen()
     {
-        buildingList.SetActive(false);
-        roomList.SetActive(false);
         
+        buildingList.SetActive(false);
+        
+    }
+
+    public void deactiveRoomList()
+    {
+        GameObject[] gameObjectArray = GameObject.FindGameObjectsWithTag("RoomList");
+        foreach (GameObject go in gameObjectArray)
+        {
+            go.SetActive(false);
+        }
     }
 }
