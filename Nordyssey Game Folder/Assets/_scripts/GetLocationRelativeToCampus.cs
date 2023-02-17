@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Android;
 using UnityEngine.UI;
+using TMPro;
 
 public class GetLocationRelativeToCampus : MonoBehaviour
 {
 
     public Transform userObject;
-    public Text displayText;
+    public TMP_Text displayText;
     public GameObject scriptManager;
     private DebugTextController debugController;
 
@@ -54,6 +55,8 @@ public class GetLocationRelativeToCampus : MonoBehaviour
                 Permission.RequestUserPermission(Permission.FineLocation, callbacks);
             }
         }
+
+        Input.compass.enabled = true;
     }
 
     // Start is called before the first frame update
@@ -66,6 +69,8 @@ public class GetLocationRelativeToCampus : MonoBehaviour
 
     public void RestartLocationFinding()
     {
+        userObject.Rotate(0f, 90f, 0f);
+        debugController.ShowDebugWarning("Current Rotation: " + userObject.rotation.y);
         if (Input.location.status == LocationServiceStatus.Stopped
         ||  Input.location.status == LocationServiceStatus.Failed)
         {
@@ -106,11 +111,22 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             {
                 // If the connection succeeded, this retrieves the device's current location and displays it in the Console window.
                 displayText.text = ("Location: " + Input.location.lastData.latitude + " " + Input.location.lastData.longitude /*+ " " + Input.location.lastData.altitude + " " + Input.location.lastData.horizontalAccuracy + " "*/ + Input.location.lastData.timestamp);
+                //userObject.rotation = Quaternion.Euler(0, Input.compass.trueHeading, 0);
+                
             }
 
             // Stops the location service if there is no need to query location updates continuously.
             //Input.location.Stop();
 
+    }
+
+    public void FindRotation()
+    {
+        if (Input.location.status == LocationServiceStatus.Running)
+        {
+            debugController.ShowDebugWarning("Rotation Relative to North: " + Input.compass.trueHeading);
+            userObject.rotation = Quaternion.Euler(0, -Input.compass.trueHeading, 0);
+        }
     }
 
     public void StopLocation()
@@ -125,8 +141,9 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             displayText.text = ("Unable to determine device location");
             return;
         }
-        else
+        else if (Input.location.status == LocationServiceStatus.Running)
         {
+            //debugController.ShowDebugWarning("Rotation Relative to North: " + Input.compass.trueHeading);
             corX = Input.location.lastData.latitude;//63.755141f;
             corZ = Input.location.lastData.longitude;//11.313448f;
         
