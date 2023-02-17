@@ -73,6 +73,12 @@ public class DestinationManager : MonoBehaviour
         Debug.Log("Destination: " + destinations[des].name);
     }
 
+    public void SwitchWaypoint(Transform tran)
+    {
+        arrow.waypoint.transform.position = tran.position;
+        Debug.Log("Destination: " + tran.name);
+    }
+
     public void SearchList(string input)
     {
         // Each waypoint will have a script that only exists to store the name of the-
