@@ -1,18 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class AR_GPS_Combiner : MonoBehaviour
 {
-    private bool gps = true;
+    private bool constantUpdate = false;
     public GetLocationRelativeToCampus getgps;
     public GameObject scriptManager;
     private DebugTextController debugController;
+    public TMP_Text constantNavText;
 
     // Start is called before the first frame update
     void Start()
     {
         debugController = scriptManager.GetComponent<DebugTextController>();
+        getgps.orientPlayer = true;
+        getgps.orientOnce = true;
     }
 
     // Update is called once per frame
@@ -23,17 +27,18 @@ public class AR_GPS_Combiner : MonoBehaviour
 
     public void SwapLocationFindingMethod()
     {
-        if (gps)
+        if (constantUpdate)
         {
-            gps = false;
-            getgps.StopLocation();
-            debugController.ShowDebugWarning("AR guidance not yet integrated");
+            constantUpdate = false;
+            getgps.orientOnce = false;
+            constantNavText.text = "Constant Navigation: OFF";
             // Start running AR based guidance
         }
         else
         {
-            gps = true;
-            getgps.RestartLocationFinding();
+            constantUpdate = true;
+            getgps.orientOnce = true;
+            constantNavText.text = "Constant Navigation: ON";
             // Stop running AR based guidance
         }
     }
