@@ -85,7 +85,7 @@ public class GetLocationRelativeToCampus : MonoBehaviour
     IEnumerator FindLocation()
     {
             // Starts the location service.
-            Input.location.Start();
+            Input.location.Start(5f, 5f);
 
             // Waits until the location service initializes
             int maxWait = 10;
