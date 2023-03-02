@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Android;
+using UnityEngine.XR.ARFoundation;
 using UnityEngine.UI;
 using TMPro;
 
@@ -12,6 +13,9 @@ public class GetLocationRelativeToCampus : MonoBehaviour
     public TMP_Text displayText;
     public GameObject scriptManager;
     private DebugTextController debugController;
+    public ARSession session;
+    
+    public bool orientPlayer, orientOnce;
 
     private float corX, corZ, locX, locZ;
     private float orgX = 63.7538178f, orgZ = 11.3129061f;
@@ -81,7 +85,7 @@ public class GetLocationRelativeToCampus : MonoBehaviour
     IEnumerator FindLocation()
     {
             // Starts the location service.
-            Input.location.Start();
+            Input.location.Start(5f, 5f);
 
             // Waits until the location service initializes
             int maxWait = 10;
@@ -112,7 +116,21 @@ public class GetLocationRelativeToCampus : MonoBehaviour
                 // If the connection succeeded, this retrieves the device's current location and displays it in the Console window.
                 displayText.text = ("Location: " + Input.location.lastData.latitude + " " + Input.location.lastData.longitude /*+ " " + Input.location.lastData.altitude + " " + Input.location.lastData.horizontalAccuracy + " "*/ + Input.location.lastData.timestamp);
                 //userObject.rotation = Quaternion.Euler(0, Input.compass.trueHeading, 0);
+                if (orientPlayer)
+                {
+                    session.Reset();
+                    FindRotation();
+                    corX = Input.location.lastData.latitude;//63.755141f;
+                    corZ = Input.location.lastData.longitude;//11.313448f;
                 
+                    locX = (corX - orgX) * 111139;
+                    locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
+                    userObject.transform.position = new Vector3(locX, userObject.transform.position.y, locZ);
+                    if (orientOnce)
+                    {
+                        StopLocation();
+                    }
+                }
             }
 
             // Stops the location service if there is no need to query location updates continuously.
@@ -141,15 +159,16 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             displayText.text = ("Unable to determine device location");
             return;
         }
-        else if (Input.location.status == LocationServiceStatus.Running)
+        else if (Input.location.status == LocationServiceStatus.Running && orientOnce == false)
         {
+            session.Reset();
             //debugController.ShowDebugWarning("Rotation Relative to North: " + Input.compass.trueHeading);
             corX = Input.location.lastData.latitude;//63.755141f;
             corZ = Input.location.lastData.longitude;//11.313448f;
         
             locX = (corX - orgX) * 111139;
             locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
-            userObject.transform.position = new Vector3(locX, 0f, locZ);
+            userObject.transform.position = new Vector3(locX, userObject.transform.position.y, locZ);
             // If the connection succeeded, this retrieves the device's current location and displays it in the Console window.
             //displayText.text = ("Location: " + Input.location.lastData.latitude + " " + Input.location.lastData.longitude + " " + Input.location.lastData.altitude + " " + Input.location.lastData.horizontalAccuracy + " " + Input.location.lastData.timestamp);
 

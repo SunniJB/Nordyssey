@@ -13,6 +13,8 @@ public class DestinationManager : MonoBehaviour
     public Transform waypointsRoot;
     [Tooltip("The buttons in question are the ones you select from after writing in the input field.")]
     public Transform buttonsParent;
+
+    public Transform[] destinations = new Transform[20];
     //public Button button1;
 
 
@@ -64,7 +66,7 @@ public class DestinationManager : MonoBehaviour
         {button.gameObject.SetActive(false);}
     }
 
-    public Transform[] destinations = new Transform[20];
+    
 
     // The destination waypoint is moved to the Vector3 location when an entry is selected
     public void SwitchWaypoint(int des)
