@@ -122,10 +122,16 @@ public class GetLocationRelativeToCampus : MonoBehaviour
                     FindRotation();
                     corX = Input.location.lastData.latitude;//63.755141f;
                     corZ = Input.location.lastData.longitude;//11.313448f;
+
+                    if (corX > 63.7578 || corX < 63.7499
+                    || corZ < 11.3021 || corZ > 11.3172)
+                    {
+                        debugController.ShowDebugWarning("Outside of Campus!");
+                    }
                 
-                    locX = (corX - orgX) * 111139;
-                    locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
-                    userObject.transform.position = new Vector3(locX, userObject.transform.position.y, locZ);
+                    //locX = (corX - orgX) * 111139;
+                    //locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
+                    //userObject.transform.position = new Vector3(locX, userObject.transform.position.y, locZ)
                     if (orientOnce)
                     {
                         StopLocation();
@@ -165,10 +171,16 @@ public class GetLocationRelativeToCampus : MonoBehaviour
             //debugController.ShowDebugWarning("Rotation Relative to North: " + Input.compass.trueHeading);
             corX = Input.location.lastData.latitude;//63.755141f;
             corZ = Input.location.lastData.longitude;//11.313448f;
+
+            if (corX > 63.7578 || corX < 63.7499
+            || corZ < 11.3021 || corZ > 11.3172)
+            {
+                debugController.ShowDebugWarning("Outside of Campus!");
+            }
         
-            locX = (corX - orgX) * 111139;
-            locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
-            userObject.transform.position = new Vector3(locX, userObject.transform.position.y, locZ);
+            //locX = (corX - orgX) * 111139;
+            //locZ = (orgZ - corZ) * 111139; //In Unity, left is positive. On the map, right is positive.
+            //userObject.transform.position = new Vector3(locX, userObject.transform.position.y, locZ);
             // If the connection succeeded, this retrieves the device's current location and displays it in the Console window.
             //displayText.text = ("Location: " + Input.location.lastData.latitude + " " + Input.location.lastData.longitude + " " + Input.location.lastData.altitude + " " + Input.location.lastData.horizontalAccuracy + " " + Input.location.lastData.timestamp);
 

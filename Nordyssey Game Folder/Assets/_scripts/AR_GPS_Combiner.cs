@@ -15,7 +15,7 @@ public class AR_GPS_Combiner : MonoBehaviour
     void Start()
     {
         debugController = scriptManager.GetComponent<DebugTextController>();
-        getgps.orientPlayer = false;
+        getgps.orientPlayer = true;
         getgps.orientOnce = true;
     }
 
