@@ -4,9 +4,9 @@ using System.Collections;
 public class FrameLock : MonoBehaviour
 {
 
-    private int FramesPerSec;
-    private float frequency = 1.0f;
-    private string fps;
+   // private int FramesPerSec;
+   // private float frequency = 1.0f;
+   // private string fps;
 
     void Awake()
     {
@@ -17,10 +17,10 @@ public class FrameLock : MonoBehaviour
 
     void Start()
     {
-        StartCoroutine(FPS());
+       // StartCoroutine(FPS());
     }
 
-    private IEnumerator FPS()
+  /*  private IEnumerator FPS()
     {
         for (; ; )
         {
@@ -42,4 +42,5 @@ public class FrameLock : MonoBehaviour
     {
         GUI.Label(new Rect(Screen.width - 100, 10, 150, 20), fps);
     }
+  */
 }
