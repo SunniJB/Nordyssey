@@ -24,7 +24,7 @@ public class MoveMinimap : MonoBehaviour
         mX = arCamera.position.z;
         mY = -arCamera.position.x;
 
-        Vector3 offset = new Vector3((mX - 130f) * scaleCompensationX, (mY + 30f) * scaleCompensationY, 0f);
+        Vector3 offset = new Vector3((mX - 110f) * scaleCompensationX, (mY + 40f) * scaleCompensationY, 0f);
         minimap.localPosition = offset;
     }
 }
