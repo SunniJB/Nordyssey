@@ -5,6 +5,7 @@ using UnityEngine;
 public class LocationListScript : MonoBehaviour
 {
     public GameObject buildingList, helpCanvas;
+
     //public GameObject searchCanvas;
 
 
@@ -35,4 +36,10 @@ public class LocationListScript : MonoBehaviour
     {
         helpCanvas.SetActive(true);
     }
+
+    public void deactivateHelpCanvas()
+    {
+        helpCanvas.SetActive(false);
+    }
+
 }
