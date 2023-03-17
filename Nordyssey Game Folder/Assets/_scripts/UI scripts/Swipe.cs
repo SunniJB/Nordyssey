@@ -7,6 +7,8 @@ public class Swipe : MonoBehaviour
 {
     public GameObject searchMenu;
 
+    public HelpCanvas helpCanvas;
+
     public float x1;
     public float x2;
 
@@ -50,7 +52,7 @@ public class Swipe : MonoBehaviour
             }
         }
 
-        if (moveDown == true)
+        if (moveDown == true && helpCanvas.help1.activeSelf == false && helpCanvas.help2.activeSelf == false && helpCanvas.help3.activeSelf == false)
         {
             //Debug.Log("Move down was activated");
             searchMenu.transform.Translate(Vector2.down * (1000 * Time.deltaTime));
@@ -60,7 +62,7 @@ public class Swipe : MonoBehaviour
                 up = false;
             }
         }
-        else if (moveUp == true)
+        else if (moveUp == true && helpCanvas.help1.activeSelf == false && helpCanvas.help2.activeSelf == false && helpCanvas.help3.activeSelf == false)
         {
             searchMenu.transform.Translate(Vector2.up * (1000 * Time.deltaTime));
             if (searchMenu.transform.position.y > Screen.height / 1.2)
@@ -74,20 +76,30 @@ public class Swipe : MonoBehaviour
 
     public void MoveDown()
     {
-        moveDown = true;
+        if (helpCanvas.help1.activeSelf == false && helpCanvas.help2.activeSelf == false && helpCanvas.help3.activeSelf == false)
+        {
+            moveDown = true;
+        }
+        
     }
 
     public void MoveUp()
     {
-        moveUp = true;
+        if (helpCanvas.help1.activeSelf == false && helpCanvas.help2.activeSelf == false && helpCanvas.help3.activeSelf == false)
+        {
+            moveUp = true;
+        }
     }
 
     public void ToggleUpDown()
     {
-        if (up == false)
-        {moveUp = true;}
-        else
-        {moveDown = true;}
+        if (helpCanvas.help1.activeSelf == false && helpCanvas.help2.activeSelf == false && helpCanvas.help3.activeSelf == false)
+        {
+            if (up == false)
+            { moveUp = true; }
+            else
+            { moveDown = true; }
+        }
     }
 
     //public void PositionReset()
