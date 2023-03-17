@@ -15,8 +15,8 @@ public class AR_GPS_Combiner : MonoBehaviour
     void Start()
     {
         debugController = scriptManager.GetComponent<DebugTextController>();
-        getgps.orientPlayer = true;
-        getgps.orientOnce = true;
+        //getgps.orientPlayer = true;
+        //getgps.orientOnce = true;
     }
 
     // Update is called once per frame

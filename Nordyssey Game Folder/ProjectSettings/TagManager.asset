@@ -6,6 +6,7 @@ TagManager:
   tags:
   - waypoint
   - RoomList
+  - linePoint
   layers:
   - Default
   - TransparentFX

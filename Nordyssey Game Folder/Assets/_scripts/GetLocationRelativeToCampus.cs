@@ -68,13 +68,13 @@ public class GetLocationRelativeToCampus : MonoBehaviour
     {
         debugController = scriptManager.GetComponent<DebugTextController>();
 
-        StartCoroutine("FindLocation");
+        //StartCoroutine("FindLocation");
     }
 
     public void RestartLocationFinding()
     {
-        userObject.Rotate(0f, 90f, 0f);
-        debugController.ShowDebugWarning("Current Rotation: " + userObject.rotation.y);
+        //userObject.Rotate(0f, 90f, 0f);
+        //debugController.ShowDebugWarning("Current Rotation: " + userObject.rotation.y);
         if (Input.location.status == LocationServiceStatus.Stopped
         ||  Input.location.status == LocationServiceStatus.Failed)
         {
