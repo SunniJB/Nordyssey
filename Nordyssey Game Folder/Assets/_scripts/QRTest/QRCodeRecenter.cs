@@ -98,6 +98,7 @@ public class QRCodeRecenter : MonoBehaviour
         // Do something with the result
         if (result != null)
         {
+            Handheld.Vibrate();
             SetQrCodeRecenterTarget(result.Text);
             ToggleScanning();
         }
