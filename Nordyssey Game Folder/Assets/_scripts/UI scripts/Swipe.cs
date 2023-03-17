@@ -44,7 +44,7 @@ public class Swipe : MonoBehaviour
                 Debug.Log("move = 1f;");
                 //searchMenu.transform.Translate(Vector2.down * (1000 * Time.deltaTime));
             }
-            else if (x1 > x2 && searchMenu.transform.position.y > Screen.height / 1.8)
+            else if (x1 > x2 && searchMenu.transform.position.y > Screen.height / 2)
             {
                 moveDown = true;
                 Debug.Log("move = 2f;");
@@ -56,7 +56,7 @@ public class Swipe : MonoBehaviour
         {
             //Debug.Log("Move down was activated");
             searchMenu.transform.Translate(Vector2.down * (1000 * Time.deltaTime));
-            if (searchMenu.transform.position.y < Screen.height / 1.8)
+            if (searchMenu.transform.position.y < Screen.height / 2)
             {
                 moveDown = false;
                 up = false;

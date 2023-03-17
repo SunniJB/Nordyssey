@@ -11661,7 +11661,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -71115,6 +71115,7 @@ GameObject:
   - component: {fileID: 1401713093}
   - component: {fileID: 1401713092}
   - component: {fileID: 1401713091}
+  - component: {fileID: 1401713095}
   m_Layer: 5
   m_Name: Minimap Visible
   m_TagString: Untagged
@@ -71159,6 +71160,7 @@ MonoBehaviour:
   minimap: {fileID: 2115286599}
   arCamera: {fileID: 1598536936}
   miniIcon: {fileID: 763532562}
+  uiLine: {fileID: 7015699862317155188, guid: ecc560991fc3f76409fe1f3ca221342d, type: 3}
   scaleCompensationX: 7.05
   scaleCompensationY: 7.12
   scaleCompensationLineX: 2.8
@@ -71214,6 +71216,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ShowMaskGraphic: 1
+--- !u!114 &1401713095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1401713089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bcacc975a326df469edd12594ed09ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sessionCamera: {fileID: 1598536936}
+  lineToggle: 1
 --- !u!1 &1402239649
 GameObject:
   m_ObjectHideFlags: 0
@@ -80609,6 +80625,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  drawLineOnMinimap: {fileID: 1401713095}
 --- !u!114 &2027956305
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -15,6 +15,7 @@ public class DestinationManager : MonoBehaviour
     public Transform buttonsParent;
 
     public Transform[] destinations = new Transform[20];
+    public DrawLineOnMinimap drawLineOnMinimap;
     //public Button button1;
 
 
@@ -73,12 +74,14 @@ public class DestinationManager : MonoBehaviour
     {
         arrow.waypoint.transform.position = destinations[des].position;
         Debug.Log("Destination: " + destinations[des].name);
+        drawLineOnMinimap.SetTarget(destinations[des].position);
     }
 
     public void SwitchWaypoint(Transform tran)
     {
         arrow.waypoint.transform.position = tran.position;
         Debug.Log("Destination: " + tran.name);
+        drawLineOnMinimap.SetTarget(tran.position);
     }
 
     public void SearchList(string input)
