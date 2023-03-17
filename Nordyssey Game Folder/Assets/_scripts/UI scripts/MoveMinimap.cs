@@ -12,8 +12,13 @@ public class MoveMinimap : MonoBehaviour
 
 
     private float mX, mY;
-    public float scaleCompensationX = 1f, scaleCompensationY = 1f;
-    public float scaleCompensationLineX = 1f, scaleCompensationLineY = 1f;
+    private float scaleCompensationSmall = 7.23f;
+    private float scaleCompensationBig = 12.9f;
+    private float scaleCompensationLineSmall = 2.85f;
+
+
+    public bool bigMap = false;
+
     private GameObject[] linePoints = new GameObject[50];
     private GameObject[] lineLines = new GameObject[50];
 
@@ -30,7 +35,17 @@ public class MoveMinimap : MonoBehaviour
         mX = arCamera.position.z;
         mY = -arCamera.position.x;
 
-        Vector3 offset = new Vector3((mX * scaleCompensationX) - 565f, (mY * scaleCompensationY) + 577f, 0f);
+        Vector3 offset;
+
+        if (!bigMap)
+        {
+            offset = new Vector3((mX * scaleCompensationSmall) - 574f, (mY * scaleCompensationSmall) + 584f, 0f); 
+        }
+        else 
+        {
+            offset = new Vector3((mX * scaleCompensationBig) - 1034f, (mY * scaleCompensationBig) + 1052f, 0f); 
+        }
+
         minimap.GetComponent<RectTransform>().anchoredPosition = offset;
     }
 
@@ -56,7 +71,7 @@ public class MoveMinimap : MonoBehaviour
         {
             float objX = -corners[i].z;
             float objY = corners[i].x;
-            Vector3 offset = new Vector3((objX * scaleCompensationLineX), (objY * scaleCompensationLineY), 0f);
+            Vector3 offset = new Vector3((objX * scaleCompensationLineSmall), (objY * scaleCompensationLineSmall), 0f);
 
             Image point = GameObject.Instantiate(miniIcon, Vector3.zero, Quaternion.identity);
             point.color = new Color(0f, 0f, 1f, 0f);
@@ -84,6 +99,22 @@ public class MoveMinimap : MonoBehaviour
             line.rectTransform.rotation = Quaternion.Euler(new Vector3(0, 0, 180 * Mathf.Atan(dif.y / dif.x) / Mathf.PI));
 
             lineLines[g] = line.gameObject;
+        }
+    }
+
+    public void ResizeMinimap()
+    {
+        if (bigMap == false)
+        {
+            bigMap = true;
+            gameObject.GetComponent<RectTransform>().sizeDelta = new Vector2(1200, 1200);
+            minimap.localScale = new Vector3(4.5f, 4.5f, 4.5f);
+        }
+        else
+        {
+            bigMap = false;
+            gameObject.GetComponent<RectTransform>().sizeDelta = new Vector2(400, 400);
+            minimap.localScale = new Vector3(2.5f, 2.5f, 2.5f);
         }
     }
 }
