@@ -6,16 +6,17 @@ using UnityEngine.UI;
 
 public class SetNavigationtarget : MonoBehaviour
 {
-    [SerializeField] Dropdown navigationtargetDropdown;
-    [SerializeField] List<Target> navigationTargetObjects = new List<Target>();
+    //[SerializeField] Dropdown navigationtargetDropdown;
+    //[SerializeField] List<Target> navigationTargetObjects = new List<Target>();
 
     public NavMeshPath path; //current calculated path
     public LineRenderer line; //linerenderer to display path
     private Vector3 targetPosition = Vector3.zero; //Current target position
+    public Transform playerCamera;
 
-    public bool lineToggle = false;
+    public bool lineToggle = true;
 
-    public Text debugLogText;
+    //public Text debugLogText;
 
     private void Start()
     {
@@ -28,29 +29,29 @@ public class SetNavigationtarget : MonoBehaviour
     {
         if (lineToggle && targetPosition!= Vector3.zero) 
         {
-            NavMesh.CalculatePath(transform.position, targetPosition, NavMesh.AllAreas, path);
+            NavMesh.CalculatePath(playerCamera.position, targetPosition, NavMesh.AllAreas, path);
             line.positionCount = path.corners.Length;
             line.SetPositions(path.corners);
-            Debug.Log("Path was calculated, there are " + path.corners.Length + " corners.");
+            //Debug.Log("Path was calculated, there are " + path.corners.Length + " corners.");
         }
     }
 
-    public void SetCurrentNavigationTarget(int selectedValue)
+    public void SetCurrentNavigationTarget(Transform targetDestination)
     {
-        targetPosition = Vector3.zero;
-        string selectedText = navigationtargetDropdown.options[selectedValue].text;
+        targetPosition = targetDestination.transform.position;
+        /*string selectedText = navigationtargetDropdown.options[selectedValue].text;
         Target currentTarget = navigationTargetObjects.Find(x => x.Name.ToLower().Equals(selectedText.ToLower()));
         if (currentTarget != null) 
         {
             targetPosition = currentTarget.positionObject.transform.position;
             debugLogText.text = ("Target position is now " + targetPosition);
-        }
+        }*/
     }
 
-    public void ToggleVisibility()
+    public void ToggleVisibility(bool t)
     {
-        Debug.Log("Line visibility was set to " + lineToggle);
-        lineToggle = !lineToggle;
+        //Debug.Log("Line visibility was set to " + lineToggle);
+        lineToggle = t;
         line.enabled = lineToggle;
     }
 }
