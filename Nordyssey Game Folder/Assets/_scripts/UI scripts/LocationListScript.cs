@@ -42,4 +42,9 @@ public class LocationListScript : MonoBehaviour
         helpCanvas.SetActive(false);
     }
 
+    public void closeBuildingList()
+    {
+        buildingList.SetActive(false);
+    }
+
 }
