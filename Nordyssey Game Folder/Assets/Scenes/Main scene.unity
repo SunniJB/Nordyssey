@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3375,6 +3375,10 @@ MonoBehaviour:
     positionObject: {fileID: 132068887}
   - Name: Pavilion2
     positionObject: {fileID: 794991118}
+  - Name: Cafeteria
+    positionObject: {fileID: 1446637987}
+  - Name: DanielMortenssonAuditorium
+    positionObject: {fileID: 584962807}
   qrCodeScanningPanel: {fileID: 915533153}
 --- !u!4 &190041728
 Transform:
@@ -6402,9 +6406,9 @@ RectTransform:
   m_Father: {fileID: 1381698692}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 540, y: -410}
   m_SizeDelta: {x: 1080, y: 1920}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &419794714
@@ -10225,6 +10229,37 @@ Transform:
   m_Father: {fileID: 380241695}
   m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &584962807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 584962808}
+  m_Layer: 0
+  m_Name: Daniel Mortensson Auditorium
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &584962808
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584962807}
+  m_LocalRotation: {x: 0, y: -0.63580877, z: 0, w: 0.7718466}
+  m_LocalPosition: {x: 160.78, y: 5.462, z: -67.05}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1322600001}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: -78.96, z: 0}
 --- !u!1 &590553047
 GameObject:
   m_ObjectHideFlags: 0
@@ -13005,9 +13040,9 @@ RectTransform:
   m_Father: {fileID: 1381698692}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 540, y: -750}
   m_SizeDelta: {x: 1080, y: 1920}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &711401867
@@ -66309,7 +66344,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &915533154
 RectTransform:
   m_ObjectHideFlags: 0
@@ -68641,7 +68676,7 @@ PrefabInstance:
     - target: {fileID: 3146862521189189775, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3149902129849585112, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68980,6 +69015,7 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     m_RemovedComponents:
     - {fileID: 850199025572125144, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
+    - {fileID: 1003426468, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
 --- !u!224 &1003426464 stripped
 RectTransform:
@@ -72118,7 +72154,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1183865268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74964,6 +75000,8 @@ Transform:
   - {fileID: 9180142}
   - {fileID: 132068888}
   - {fileID: 794991119}
+  - {fileID: 1446637988}
+  - {fileID: 584962808}
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -76101,7 +76139,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0.000012478696}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 634}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1381698693
 MonoBehaviour:
@@ -77548,6 +77586,37 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1446637987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1446637988}
+  m_Layer: 0
+  m_Name: Cafeteria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1446637988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446637987}
+  m_LocalRotation: {x: 0, y: 0.78173816, z: 0, w: 0.62360686}
+  m_LocalPosition: {x: 48.27, y: 5.178, z: 9.51}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1322600001}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 102.84, z: 0}
 --- !u!1 &1452160334
 GameObject:
   m_ObjectHideFlags: 0
@@ -81709,9 +81778,9 @@ RectTransform:
   m_Father: {fileID: 1381698692}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 540, y: -580}
   m_SizeDelta: {x: 1080, y: 1920}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1662713427
