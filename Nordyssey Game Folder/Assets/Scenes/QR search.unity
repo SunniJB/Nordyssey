@@ -338,7 +338,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Scaning QR \ncode ..."
+  m_text: "Scanning QR \ncode ..."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b6024449ba0757941b3cb1a1b088a0c0, type: 2}
   m_sharedMaterial: {fileID: -3081303229463443088, guid: b6024449ba0757941b3cb1a1b088a0c0,
