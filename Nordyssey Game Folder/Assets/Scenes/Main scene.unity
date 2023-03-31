@@ -80486,7 +80486,7 @@ MonoBehaviour:
   help1: {fileID: 35219135}
   help2: {fileID: 876039441}
   help3: {fileID: 1591475960}
-  helpBg: {fileID: 0}
+  helpBg: {fileID: 1655178990}
   locationListScript: {fileID: 1854468871}
 --- !u!1 &1591475960
 GameObject:
