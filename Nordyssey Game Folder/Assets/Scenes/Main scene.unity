@@ -3507,7 +3507,7 @@ MonoBehaviour:
     positionObject: {fileID: 1446637987}
   - Name: DanielMortenssonAuditorium
     positionObject: {fileID: 584962807}
-  qrCodeScanningPanel: {fileID: 0}
+  qrCodeScanningPanel: {fileID: 1387538990}
 --- !u!4 &190041728
 Transform:
   m_ObjectHideFlags: 0
