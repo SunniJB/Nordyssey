@@ -18,6 +18,7 @@ public class RoomListCanvasActivate : MonoBehaviour
 
     public void activeNylanaList()
     {
+        Debug.Log("Nylana was clickedddd");
         NylanaList.SetActive(true);
     }
 }
