@@ -18,13 +18,6 @@ public class QRCodeRecenter : MonoBehaviour
     private IBarcodeReader reader = new BarcodeReader(); // create a barcode reader instance
     private bool scanningEnabled = false;
 
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            SetQrCodeRecenterTarget("Grouproom1");
-        }
-    }
     private void OnEnable()
     {
         cameraManager.frameReceived += OnCameraFrameReceived;

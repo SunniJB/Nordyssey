@@ -2114,6 +2114,7 @@ GameObject:
   - component: {fileID: 1829162443707556491}
   - component: {fileID: 1829162443707556488}
   - component: {fileID: 6277574081550824443}
+  - component: {fileID: 399722605404892158}
   m_Layer: 5
   m_Name: FindDestination InputField (Legacy)
   m_TagString: Untagged
@@ -2235,10 +2236,16 @@ MonoBehaviour:
   m_CharacterLimit: 0
   m_OnSubmit:
     m_PersistentCalls:
+      m_Calls: []
+  m_OnDidEndEdit:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnValueChanged:
+    m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 572366313}
-        m_TargetAssemblyTypeName: AnimatedSwipe, Assembly-CSharp
-        m_MethodName: MoveCanvas
+      - m_Target: {fileID: 399722605404892158}
+        m_TargetAssemblyTypeName: InputFieldStayUp, Assembly-CSharp
+        m_MethodName: OnInput
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2248,12 +2255,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  m_OnDidEndEdit:
-    m_PersistentCalls:
-      m_Calls: []
-  m_OnValueChanged:
-    m_PersistentCalls:
-      m_Calls: []
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
@@ -2291,6 +2292,18 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+--- !u!114 &399722605404892158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1829162443707556486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07d21e4d17ba43b4ea24fcd9867c22a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1829162443716896237
 GameObject:
   m_ObjectHideFlags: 0
