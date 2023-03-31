@@ -69405,6 +69405,56 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 63386209846648978, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 63386209846648978, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 63386209846648978, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 63386209846648978, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 63386209846648978, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 112631080819530690, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 112631080819530690, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 112631080819530690, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 112631080819530690, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 112631080819530690, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 626437456482266001, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69444,6 +69494,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1829162443478323265, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 1829162443478323265, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 1829162443478323265, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 1829162443478323265, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 1829162443478323265, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -69670,6 +69745,31 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2289833763015763700, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 2289833763015763700, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 2289833763015763700, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 2289833763015763700, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2289833763015763700, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 2331991582543205675, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69690,6 +69790,106 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2457263492948595911, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 2457263492948595911, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 2457263492948595911, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 2457263492948595911, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2457263492948595911, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2726871820021347684, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 2726871820021347684, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 2726871820021347684, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 2726871820021347684, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2726871820021347684, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3075766778970278126, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 3075766778970278126, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 3075766778970278126, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3075766778970278126, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3075766778970278126, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108792088210902509, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 3108792088210902509, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 3108792088210902509, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108792088210902509, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108792088210902509, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 3109901646220754694, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69710,6 +69910,106 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3149902129849585112, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 3149902129849585112, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 3149902129849585112, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3149902129849585112, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3149902129849585112, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3185823070341043872, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 3185823070341043872, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 3185823070341043872, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3185823070341043872, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3185823070341043872, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3192372328037549136, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 3192372328037549136, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 3192372328037549136, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3192372328037549136, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3192372328037549136, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3357336794407738511, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 3357336794407738511, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 3357336794407738511, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 3357336794407738511, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3357336794407738511, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 3762104098169987897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69729,6 +70029,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4522626218658495546, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 4522626218658495546, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 4522626218658495546, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 4522626218658495546, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4522626218658495546, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 4759266864821078869, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -69840,6 +70165,56 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6643154497893601525, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 6643154497893601525, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 6643154497893601525, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643154497893601525, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6643154497893601525, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689048741454778674, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 6689048741454778674, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 6689048741454778674, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689048741454778674, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6689048741454778674, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 6811787667434993738, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69859,6 +70234,56 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6925464411046037977, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 6925464411046037977, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 6925464411046037977, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 6925464411046037977, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6925464411046037977, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7012441888755553847, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 7012441888755553847, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 7012441888755553847, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 7012441888755553847, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 7012441888755553847, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7430072372972196615, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -69920,6 +70345,31 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8261260577918236365, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 8261260577918236365, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 8261260577918236365, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 8261260577918236365, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8261260577918236365, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 8368865210755869591, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69940,6 +70390,31 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8590235231821014034, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 8590235231821014034, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 8590235231821014034, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 8590235231821014034, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8590235231821014034, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 8924182325622596799, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -69959,6 +70434,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109500210212446717, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2027956304}
+    - target: {fileID: 9109500210212446717, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1218566467}
+    - target: {fileID: 9109500210212446717, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SwitchWaypoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109500210212446717, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: MoveCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 9109500210212446717, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: AnimatedSwipe, Assembly-CSharp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
@@ -74211,6 +74711,18 @@ MonoBehaviour:
   norwegian: No 3218 - Kontor
   english: No 3218 - Office
   spanish: 
+--- !u!114 &1218566467 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 572366313, guid: 66695b26e1393b740a93456ef4ebc5cd,
+    type: 3}
+  m_PrefabInstance: {fileID: 1003426463}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c93a8939fde10bc4782a1579c08a8679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1223453212
 GameObject:
   m_ObjectHideFlags: 0
