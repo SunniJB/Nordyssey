@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
 using ZXing;
+using Vuforia;
 
 public class QRCodeRecenter : MonoBehaviour
 {

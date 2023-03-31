@@ -57100,54 +57100,6 @@ MonoBehaviour:
   norwegian: Ny 2.105 - Seminarrom
   english: Ny 2.105 - Auditorium
   spanish: 
---- !u!1 &828494531
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 828494533}
-  - component: {fileID: 828494532}
-  m_Layer: 0
-  m_Name: Swipe
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &828494532
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 828494531}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a50a4d7d56bfba4b881e7423a9f9307, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hasMoved: 0
-  pulledAnim: {fileID: 0}
-  moveUp: 0
-  moveDown: 0
---- !u!4 &828494533
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 828494531}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -260.64255, y: 33.955322, z: 1418.2738}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &829962660
 GameObject:
   m_ObjectHideFlags: 0
@@ -65706,7 +65658,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1562248607
 GameObject:
@@ -70187,6 +70139,7 @@ GameObject:
   - component: {fileID: 2027956304}
   - component: {fileID: 2027956306}
   - component: {fileID: 2027956305}
+  - component: {fileID: 2027956307}
   m_Layer: 0
   m_Name: ScriptManager
   m_TagString: Untagged
@@ -70294,6 +70247,18 @@ MonoBehaviour:
   getgps: {fileID: 2027956302}
   scriptManager: {fileID: 2027956301}
   constantNavText: {fileID: 780529297}
+--- !u!114 &2027956307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2027956301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef5d611d88738449918635bd8d29ffe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2028255211
 GameObject:
   m_ObjectHideFlags: 0
