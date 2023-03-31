@@ -469,8 +469,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6739460}
+  - component: {fileID: 6739461}
   m_Layer: 0
-  m_Name: Room 3101 - Kontor/Office
+  m_Name: No 3101 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -484,13 +485,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6739459}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 161.8674, y: 3.0130615, z: 171.51791}
+  m_LocalPosition: {x: 161.8674, y: 4, z: 171.51791}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6739461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6739459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3101 - Kontor
+  english: No 3101 - Office
+  spanish: 
 --- !u!1 &9180141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1635,8 +1651,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 61078828}
+  - component: {fileID: 61078829}
   m_Layer: 0
-  m_Name: Room 3116 A-B - Kontor/Office
+  m_Name: No 3116 A-B - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1650,13 +1667,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 61078827}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 167.18726, y: 3.0130615, z: 183.42816}
+  m_LocalPosition: {x: 167.18726, y: 3.89, z: 183.42816}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &61078829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 61078827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3116 A, B - Kontor
+  english: No 3116 A, B - Office
+  spanish: 
 --- !u!1 &63292772
 GameObject:
   m_ObjectHideFlags: 0
@@ -3404,8 +3436,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 194509099}
+  - component: {fileID: 194509100}
   m_Layer: 0
-  m_Name: Room 3208 - Kontor/Office
+  m_Name: No 3208 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3426,6 +3459,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &194509100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 194509098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3208 - Kontor
+  english: No 3208 - Office
+  spanish: 
 --- !u!1 &195099682
 GameObject:
   m_ObjectHideFlags: 0
@@ -3466,8 +3514,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 203705816}
+  - component: {fileID: 203705817}
   m_Layer: 0
-  m_Name: Room 3201 - Kontor/Office
+  m_Name: No 3201 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3488,6 +3537,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &203705817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203705815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3201 - Kontor
+  english: No 3201 - Office
+  spanish: 
 --- !u!1 &226928371
 GameObject:
   m_ObjectHideFlags: 0
@@ -4073,8 +4137,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 274792030}
+  - component: {fileID: 274792031}
   m_Layer: 0
-  m_Name: Room 3110 - Kontor/Office
+  m_Name: No 3110 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4088,13 +4153,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274792029}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 184.70892, y: 3.0130615, z: 172.95587}
+  m_LocalPosition: {x: 184.70892, y: 4, z: 172.95587}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &274792031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274792029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3110 - Kontor
+  english: No 3110 - Office
+  spanish: 
 --- !u!1 &276801002
 GameObject:
   m_ObjectHideFlags: 0
@@ -4104,8 +4184,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 276801003}
+  - component: {fileID: 276801004}
   m_Layer: 0
-  m_Name: Room 3212 - Kontor/Office
+  m_Name: No 3212 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4126,6 +4207,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &276801004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 276801002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3212 - Kontor
+  english: No 3212 - Office
+  spanish: 
 --- !u!1 &278860168
 GameObject:
   m_ObjectHideFlags: 0
@@ -6004,8 +6100,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 393945700}
+  - component: {fileID: 393945701}
   m_Layer: 0
-  m_Name: Room 3202 - Kontor/Office
+  m_Name: No 3202 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6026,6 +6123,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &393945701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393945699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3202 - Kontor
+  english: No 3202 - Office
+  spanish: 
 --- !u!1 &399485503
 GameObject:
   m_ObjectHideFlags: 0
@@ -6066,8 +6178,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 399750703}
+  - component: {fileID: 399750704}
   m_Layer: 0
-  m_Name: Room 3213 - Kontor/Office
+  m_Name: No 3213 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6088,6 +6201,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &399750704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 399750702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3213 - Kontor
+  english: No 3213 - Office
+  spanish: 
 --- !u!1 &405765777
 GameObject:
   m_ObjectHideFlags: 0
@@ -7361,7 +7489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 463817037}
   m_Layer: 11
-  m_Name: Room 1215 - Seminarrom
+  m_Name: No 1215 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7422,8 +7550,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 471743563}
+  - component: {fileID: 471743564}
   m_Layer: 0
-  m_Name: Room 3211 - Kontor/Office
+  m_Name: No 3211 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7444,6 +7573,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &471743564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471743562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3211 - Kontor
+  english: No 3211 - Office
+  spanish: 
 --- !u!1 &472048315
 GameObject:
   m_ObjectHideFlags: 0
@@ -7757,8 +7901,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 479105736}
+  - component: {fileID: 479105737}
   m_Layer: 0
-  m_Name: Room 3113 - Kontor/Office
+  m_Name: No 3113 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7772,13 +7917,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 479105735}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 191.3982, y: 3.0130615, z: 171.5054}
+  m_LocalPosition: {x: 191.3982, y: 4, z: 171.5054}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &479105737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 479105735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3113 - Kontor
+  english: No 3113 - Office
+  spanish: 
 --- !u!1 &480809163
 GameObject:
   m_ObjectHideFlags: 0
@@ -8152,8 +8312,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 494109512}
+  - component: {fileID: 494109513}
   m_Layer: 0
-  m_Name: Room 3215 - Kontor/Office
+  m_Name: No 3215 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8174,6 +8335,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &494109513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494109511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3215 - Kontor
+  english: No 3215 - Office
+  spanish: 
 --- !u!1 &494931831
 GameObject:
   m_ObjectHideFlags: 0
@@ -8183,8 +8359,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 494931832}
+  - component: {fileID: 494931833}
   m_Layer: 0
-  m_Name: Room 3217 - Kontor/Office
+  m_Name: No 3217 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8205,6 +8382,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &494931833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494931831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3217 - Kontor
+  english: No 3217 - Office
+  spanish: 
 --- !u!1 &495283649
 GameObject:
   m_ObjectHideFlags: 0
@@ -8451,7 +8643,7 @@ GameObject:
   m_Component:
   - component: {fileID: 500904482}
   m_Layer: 11
-  m_Name: Room 3229 - Skyperom
+  m_Name: No 3229 - Skyperoom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8465,7 +8657,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 500904481}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 154.37625, y: 8.482361, z: 175.37448}
+  m_LocalPosition: {x: 154.37625, y: 7.583, z: 175.37448}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10555,8 +10747,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 594262283}
+  - component: {fileID: 594262284}
   m_Layer: 0
-  m_Name: Room 3108 - Kontor/Office
+  m_Name: No 3108 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10570,13 +10763,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 594262282}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 179.69012, y: 3.0130615, z: 174.46371}
+  m_LocalPosition: {x: 179.69012, y: 4, z: 174.46371}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &594262284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594262282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3108 - Kontor
+  english: No 3108 - Office
+  spanish: 
 --- !u!1 &596511382
 GameObject:
   m_ObjectHideFlags: 0
@@ -10755,8 +10963,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 603646289}
+  - component: {fileID: 603646290}
   m_Layer: 0
-  m_Name: Room 3102 - Kontor/Office
+  m_Name: No 3102 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10770,13 +10979,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 603646288}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 164.60202, y: 3.0130615, z: 172.11731}
+  m_LocalPosition: {x: 164.60202, y: 4, z: 172.11731}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &603646290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 603646288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3102 - Kontor
+  english: No 3102 - Office
+  spanish: 
 --- !u!1 &607017274
 GameObject:
   m_ObjectHideFlags: 0
@@ -12019,8 +12243,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 675433881}
+  - component: {fileID: 675433882}
   m_Layer: 0
-  m_Name: Room 3106 - Kontor/Office
+  m_Name: No 3106 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12034,13 +12259,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 675433880}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 173.75995, y: 3.0130615, z: 174.46841}
+  m_LocalPosition: {x: 173.75995, y: 4, z: 174.46841}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &675433882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675433880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3106 - Kontor
+  english: No 3106 - Office
+  spanish: 
 --- !u!1 &676272431
 GameObject:
   m_ObjectHideFlags: 0
@@ -12688,8 +12928,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 703266250}
+  - component: {fileID: 703266251}
   m_Layer: 0
-  m_Name: Room 3216 - Kontor/Office
+  m_Name: No 3216 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12710,6 +12951,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &703266251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 703266249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3216 - Kontor
+  english: No 3216 - Office
+  spanish: 
 --- !u!1 &706771023
 GameObject:
   m_ObjectHideFlags: 0
@@ -13115,8 +13371,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 712263687}
+  - component: {fileID: 712263688}
   m_Layer: 0
-  m_Name: Room 3111 - Kontor/Office
+  m_Name: No 3111 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13130,13 +13387,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 712263686}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 186.98438, y: 3.0130615, z: 172.3487}
+  m_LocalPosition: {x: 186.98438, y: 4, z: 172.3487}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &712263688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 712263686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3111 - Kontor
+  english: No 3111 - Office
+  spanish: 
 --- !u!1 &715830574
 GameObject:
   m_ObjectHideFlags: 0
@@ -13177,8 +13449,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 719644845}
+  - component: {fileID: 719644846}
   m_Layer: 11
-  m_Name: Room 1115 - Kontor/Office
+  m_Name: No 1115 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13192,13 +13465,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 719644844}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 146.78693, y: 3.4830627, z: 173.07156}
+  m_LocalPosition: {x: 146.78693, y: 3.588, z: 173.07156}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &719644846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719644844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 1115 - Kontor
+  english: No 1115 - Office
+  spanish: 
 --- !u!1 &721680987
 GameObject:
   m_ObjectHideFlags: 0
@@ -13605,8 +13893,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 727183642}
+  - component: {fileID: 727183643}
   m_Layer: 0
-  m_Name: Room 3131-3132 - Kontor/Office
+  m_Name: No 3131-3132 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13620,13 +13909,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 727183641}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 184.75299, y: 3.0130615, z: 176.15561}
+  m_LocalPosition: {x: 189.65, y: 3.78, z: 177.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &727183643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727183641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3131-3132 - Kontor
+  english: No 3131-3132 - Office
+  spanish: 
 --- !u!1 &733340425
 GameObject:
   m_ObjectHideFlags: 0
@@ -14098,8 +14402,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 744463145}
+  - component: {fileID: 744463146}
   m_Layer: 0
-  m_Name: Room 3115 A, B, C, D - Kontor/Office
+  m_Name: No 3115 A, B, C, D - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14113,13 +14418,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 744463144}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 171.5542, y: 3.0130615, z: 181.67523}
+  m_LocalPosition: {x: 171.5542, y: 3.94, z: 179.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &744463146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744463144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3115 A, B, C, D - Kontor
+  english: No 3115 A, B, C, D - Office
+  spanish: 
 --- !u!1 &744730227
 GameObject:
   m_ObjectHideFlags: 0
@@ -66645,8 +66965,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 922923661}
+  - component: {fileID: 922923662}
   m_Layer: 0
-  m_Name: Room 3220 - Kontor/Office
+  m_Name: No 3220 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -66667,6 +66988,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &922923662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 922923660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3220 - Kontor
+  english: No 3220 - Office
+  spanish: 
 --- !u!1 &923106470
 GameObject:
   m_ObjectHideFlags: 0
@@ -67206,8 +67542,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 940861963}
+  - component: {fileID: 940861964}
   m_Layer: 0
-  m_Name: 'Room 3129 - Kontor/Office '
+  m_Name: 'No 3129 - Office '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67221,13 +67558,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940861962}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 174.25098, y: 3.0130615, z: 181.23486}
+  m_LocalPosition: {x: 173.94, y: 3.96, z: 181.23486}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &940861964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940861962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3219 - Kontor
+  english: No 3219 - Office
+  spanish: 
 --- !u!1 &942276184
 GameObject:
   m_ObjectHideFlags: 0
@@ -68231,8 +68583,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1002009268}
+  - component: {fileID: 1002009269}
   m_Layer: 0
-  m_Name: Room 3206 - Kontor/Office
+  m_Name: No 3206 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -68253,6 +68606,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1002009269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002009267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3206 - Kontor
+  english: No 3206 - Office
+  spanish: 
 --- !u!1001 &1003426463
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -68271,22 +68639,22 @@ PrefabInstance:
     - target: {fileID: 20171283124065981, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 20171283124065981, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 20171283124065981, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 20171283124065981, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -2351.78
       objectReference: {fileID: 0}
     - target: {fileID: 63386209846648978, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68301,42 +68669,42 @@ PrefabInstance:
     - target: {fileID: 626437456482266001, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 626437456482266001, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 626437456482266001, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 626437456482266001, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -511.81
       objectReference: {fileID: 0}
     - target: {fileID: 1179993376156828568, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1179993376156828568, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1179993376156828568, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 1179993376156828568, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -3188.1301
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323265, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68346,22 +68714,22 @@ PrefabInstance:
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323389, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68381,7 +68749,7 @@ PrefabInstance:
     - target: {fileID: 1829162443681042164, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 3354.1301
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443681042164, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68411,7 +68779,7 @@ PrefabInstance:
     - target: {fileID: 1829162444635532597, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162444635532601, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68571,42 +68939,42 @@ PrefabInstance:
     - target: {fileID: 1939567814119967979, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1939567814119967979, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1939567814119967979, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 1939567814119967979, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -3020.86
       objectReference: {fileID: 0}
     - target: {fileID: 2169947514770844415, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2169947514770844415, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2169947514770844415, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 2169947514770844415, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1348.16
       objectReference: {fileID: 0}
     - target: {fileID: 2289833763015763700, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68616,22 +68984,22 @@ PrefabInstance:
     - target: {fileID: 2331991582543205675, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2331991582543205675, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2331991582543205675, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 2331991582543205675, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -846.35004
       objectReference: {fileID: 0}
     - target: {fileID: 2457263492948595911, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68656,22 +69024,22 @@ PrefabInstance:
     - target: {fileID: 3109901646220754694, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3109901646220754694, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3109901646220754694, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 3109901646220754694, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1180.89
       objectReference: {fileID: 0}
     - target: {fileID: 3146862521189189775, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68701,22 +69069,22 @@ PrefabInstance:
     - target: {fileID: 3762104098169987897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3762104098169987897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3762104098169987897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 3762104098169987897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -2853.59
       objectReference: {fileID: 0}
     - target: {fileID: 4522626218658495546, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68726,22 +69094,22 @@ PrefabInstance:
     - target: {fileID: 4759266864821078869, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4759266864821078869, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4759266864821078869, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 4759266864821078869, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1515.43
       objectReference: {fileID: 0}
     - target: {fileID: 5496151564375439963, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68781,82 +69149,82 @@ PrefabInstance:
     - target: {fileID: 6036578013599477214, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6036578013599477214, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6036578013599477214, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 6036578013599477214, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -2017.2401
       objectReference: {fileID: 0}
     - target: {fileID: 6065369157235334325, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6065369157235334325, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6065369157235334325, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 6065369157235334325, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -2686.32
       objectReference: {fileID: 0}
     - target: {fileID: 6217021270814902506, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6217021270814902506, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6217021270814902506, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 6217021270814902506, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1682.7001
       objectReference: {fileID: 0}
     - target: {fileID: 6268206958768536897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6268206958768536897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6268206958768536897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 6268206958768536897, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1849.9701
       objectReference: {fileID: 0}
     - target: {fileID: 6643154497893601525, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68871,22 +69239,22 @@ PrefabInstance:
     - target: {fileID: 6811787667434993738, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6811787667434993738, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6811787667434993738, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 6811787667434993738, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -2184.51
       objectReference: {fileID: 0}
     - target: {fileID: 6925464411046037977, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68901,62 +69269,62 @@ PrefabInstance:
     - target: {fileID: 7430072372972196615, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7430072372972196615, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7430072372972196615, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 7430072372972196615, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -2519.05
       objectReference: {fileID: 0}
     - target: {fileID: 7555451706827430646, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7555451706827430646, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7555451706827430646, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 7555451706827430646, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -344.54
       objectReference: {fileID: 0}
     - target: {fileID: 8077783141465689512, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8077783141465689512, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8077783141465689512, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 8077783141465689512, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -1013.62006
       objectReference: {fileID: 0}
     - target: {fileID: 8261260577918236365, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68966,22 +69334,22 @@ PrefabInstance:
     - target: {fileID: 8368865210755869591, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8368865210755869591, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8368865210755869591, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 8368865210755869591, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -177.27
       objectReference: {fileID: 0}
     - target: {fileID: 8590235231821014034, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68991,22 +69359,22 @@ PrefabInstance:
     - target: {fileID: 8924182325622596799, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8924182325622596799, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8924182325622596799, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 701.5
       objectReference: {fileID: 0}
     - target: {fileID: 8924182325622596799, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -679.08
       objectReference: {fileID: 0}
     - target: {fileID: 9109500210212446717, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -69122,8 +69490,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1012035641}
+  - component: {fileID: 1012035642}
   m_Layer: 0
-  m_Name: Room 3131 - Kontor/Office
+  m_Name: No 3131 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69137,13 +69506,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1012035640}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 178.52252, y: 3.0130615, z: 180.09268}
+  m_LocalPosition: {x: 178.52252, y: 4, z: 180.09268}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1012035642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012035640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3131 - Kontor
+  english: No 3131 - Office
+  spanish: 
 --- !u!1 &1018409195
 GameObject:
   m_ObjectHideFlags: 0
@@ -70011,7 +70395,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1060023996}
   m_Layer: 11
-  m_Name: Room 1202
+  m_Name: No 1202
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70025,7 +70409,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1060023995}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 164.24115, y: 8.333069, z: 184.26218}
+  m_LocalPosition: {x: 164.24115, y: 7.13, z: 184.26218}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -70079,7 +70463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1062561081}
   m_Layer: 11
-  m_Name: Room 3228 - Skyperom
+  m_Name: No 3228 - Skyperoom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70093,7 +70477,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1062561080}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 159.51843, y: 8.86026, z: 175.64572}
+  m_LocalPosition: {x: 159.51843, y: 7.06, z: 175.64572}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -70690,6 +71074,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1108087840}
+  - component: {fileID: 1108087841}
   m_Layer: 11
   m_Name: Bathrooms
   m_TagString: Untagged
@@ -70705,13 +71090,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1108087839}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 157.20325, y: 6.8930664, z: 214.78429}
+  m_LocalPosition: {x: 156.65, y: 3.634, z: 215.36}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1108087841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108087839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Toaletter
+  english: Bathrooms
+  spanish: 
 --- !u!1 &1113412757
 GameObject:
   m_ObjectHideFlags: 0
@@ -70797,8 +71197,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1113798765}
+  - component: {fileID: 1113798766}
   m_Layer: 0
-  m_Name: Room 3112 - Kontor/Office
+  m_Name: No 3112 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70812,13 +71213,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1113798764}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 188.8927, y: 3.0130615, z: 172.11435}
+  m_LocalPosition: {x: 188.8927, y: 4, z: 172.11435}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1113798766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113798764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3112 - Kontor
+  english: No 3112 - Office
+  spanish: 
 --- !u!1 &1117101652
 GameObject:
   m_ObjectHideFlags: 0
@@ -72344,8 +72760,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1187592241}
+  - component: {fileID: 1187592242}
   m_Layer: 0
-  m_Name: Room 3130 - Kontor/Office
+  m_Name: No 3130 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72359,13 +72776,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1187592240}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 176.54944, y: 3.0130615, z: 181.02753}
+  m_LocalPosition: {x: 176.54944, y: 4, z: 181.02753}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1187592242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1187592240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3130 - Kontor
+  english: No 3130 - Office
+  spanish: 
 --- !u!1 &1189302888
 GameObject:
   m_ObjectHideFlags: 0
@@ -72646,8 +73078,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1194159488}
+  - component: {fileID: 1194159489}
   m_Layer: 0
-  m_Name: Room 3203 - Kontor/Office
+  m_Name: No 3203 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72668,6 +73101,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1194159489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194159487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3203 - Kontor
+  english: No 3203 - Office
+  spanish: 
 --- !u!1 &1196355635
 GameObject:
   m_ObjectHideFlags: 0
@@ -73114,8 +73562,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1217446194}
+  - component: {fileID: 1217446195}
   m_Layer: 0
-  m_Name: Room 3218 - Kontor/Office
+  m_Name: No 3218 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73136,6 +73585,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1217446195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1217446193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3218 - Kontor
+  english: No 3218 - Office
+  spanish: 
 --- !u!1 &1223453212
 GameObject:
   m_ObjectHideFlags: 0
@@ -73646,8 +74110,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1232607968}
+  - component: {fileID: 1232607969}
   m_Layer: 0
-  m_Name: Room 3219 - Kontor/Office
+  m_Name: No 3219 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73668,6 +74133,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1232607969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1232607967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3219 - Kontor
+  english: No 3219 - Office
+  spanish: 
 --- !u!1 &1233950595
 GameObject:
   m_ObjectHideFlags: 0
@@ -74399,7 +74879,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1271128648}
   m_Layer: 11
-  m_Name: Room 1214
+  m_Name: No 1214
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74413,7 +74893,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1271128647}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 148.75446, y: 7.7630615, z: 185.77759}
+  m_LocalPosition: {x: 148.75446, y: 7.299, z: 185.77759}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -75367,8 +75847,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1327506656}
+  - component: {fileID: 1327506657}
   m_Layer: 11
-  m_Name: Room 1116 - Datasal/Datalab
+  m_Name: No 1116 - Datalab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75382,13 +75863,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1327506655}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 156.35544, y: 2.8330688, z: 171.27939}
+  m_LocalPosition: {x: 156.35544, y: 4.19, z: 171.27939}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1327506657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327506655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 1116 - Datasal
+  english: No 1116 - Datalab
+  spanish: 
 --- !u!1 &1337184987
 GameObject:
   m_ObjectHideFlags: 0
@@ -77800,7 +78296,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1464470616}
   m_Layer: 11
-  m_Name: Room 1217 - Seminarrom
+  m_Name: No 1217 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78894,8 +79390,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1534822933}
+  - component: {fileID: 1534822934}
   m_Layer: 0
-  m_Name: Room 3204 - Kontor/Office
+  m_Name: No 3204 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78916,6 +79413,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1534822934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1534822932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3204 - Kontor
+  english: No 3204 - Office
+  spanish: 
 --- !u!1 &1537490730
 GameObject:
   m_ObjectHideFlags: 0
@@ -79285,8 +79797,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1552326450}
+  - component: {fileID: 1552326451}
   m_Layer: 0
-  m_Name: Room 3105 - Kontor/Office
+  m_Name: No 3105 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79300,13 +79813,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1552326449}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 171.36505, y: 3.0130615, z: 173.82642}
+  m_LocalPosition: {x: 171.36505, y: 4, z: 173.82642}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1552326451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552326449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3105 - Kontor
+  english: No 3105 - Office
+  spanish: 
 --- !u!1 &1552871681
 GameObject:
   m_ObjectHideFlags: 0
@@ -80850,7 +81378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1605051043}
   m_Layer: 11
-  m_Name: Room 1216
+  m_Name: No 1216
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80864,7 +81392,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1605051042}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 146.78693, y: 8.233063, z: 173.07156}
+  m_LocalPosition: {x: 146.78693, y: 7.318, z: 173.07156}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -82538,8 +83066,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1689464201}
+  - component: {fileID: 1689464202}
   m_Layer: 11
-  m_Name: Room 1113 - Grouproom
+  m_Name: No 1113 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82560,6 +83089,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1689464202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689464200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: 
+  english: 
+  spanish: 
 --- !u!1 &1693523417
 GameObject:
   m_ObjectHideFlags: 0
@@ -83042,8 +83586,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1714049265}
+  - component: {fileID: 1714049266}
   m_Layer: 0
-  m_Name: Room 3209 - Kontor/Office
+  m_Name: No 3209 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83064,6 +83609,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1714049266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714049264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3209 - Kontor
+  english: No 3209 - Office
+  spanish: 
 --- !u!1 &1720088702
 GameObject:
   m_ObjectHideFlags: 0
@@ -83073,8 +83633,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1720088703}
+  - component: {fileID: 1720088704}
   m_Layer: 0
-  m_Name: Room 3214 A, B, C, D - Kontor/Office
+  m_Name: No 3214 A, B, C, D - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83095,6 +83656,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1720088704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720088702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3214 A, B, C, D - Kontor
+  english: No 3214 A, B, C, D - Office
+  spanish: 
 --- !u!1 &1721966796
 GameObject:
   m_ObjectHideFlags: 0
@@ -83709,8 +84285,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1756072566}
+  - component: {fileID: 1756072567}
   m_Layer: 0
-  m_Name: Room 3103 - Kontor/Office
+  m_Name: No 3103 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83724,13 +84301,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1756072565}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 166.58783, y: 3.0130615, z: 172.88235}
+  m_LocalPosition: {x: 166.58783, y: 4, z: 172.88235}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1756072567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1756072565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3103 - Kontor
+  english: No 3103 - Office
+  spanish: 
 --- !u!1 &1761453376
 GameObject:
   m_ObjectHideFlags: 0
@@ -84355,8 +84947,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1793497761}
+  - component: {fileID: 1793497762}
   m_Layer: 0
-  m_Name: Room 3104 - Kontor/Office
+  m_Name: No 3104 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84370,13 +84963,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1793497760}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 169.22784, y: 3.0130615, z: 172.8825}
+  m_LocalPosition: {x: 169.22784, y: 4, z: 172.8825}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1793497762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793497760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3104 - Kontor
+  english: No 3104 - Office
+  spanish: 
 --- !u!1 &1794415490
 GameObject:
   m_ObjectHideFlags: 0
@@ -84633,8 +85241,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1816328593}
+  - component: {fileID: 1816328594}
   m_Layer: 0
-  m_Name: Room 3210 - Kontor/Office
+  m_Name: No 3210 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84655,6 +85264,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1816328594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1816328592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3210 - Kontor
+  english: No 3210 - Office
+  spanish: 
 --- !u!1 &1818828223
 GameObject:
   m_ObjectHideFlags: 0
@@ -84803,7 +85427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1830055204}
   m_Layer: 11
-  m_Name: Room 1114 - Seminarrom
+  m_Name: No 1114 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86230,8 +86854,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1906159881}
+  - component: {fileID: 1906159882}
   m_Layer: 11
-  m_Name: "Room 1220 - Te-kj\xF8kken/Tea-kitchen"
+  m_Name: No 1220 - Tea-kitchen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86245,13 +86870,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1906159880}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 159.12018, y: 8.9149475, z: 179.85886}
+  m_LocalPosition: {x: 159.12018, y: 7.277, z: 179.85886}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1906159882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1906159880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "No 1220 - Te-kj\xF8kken"
+  english: No 1220 - Tea-kitchen
+  spanish: 
 --- !u!1 &1911022442
 GameObject:
   m_ObjectHideFlags: 0
@@ -86967,8 +87607,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1973370458}
+  - component: {fileID: 1973370459}
   m_Layer: 0
-  m_Name: Room 3205 - Kontor/Office
+  m_Name: No 3205 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86989,6 +87630,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1973370459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1973370457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3205 - Kontor
+  english: No 3205 - Office
+  spanish: 
 --- !u!1 &1980993235
 GameObject:
   m_ObjectHideFlags: 0
@@ -87969,8 +88625,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2014338621}
+  - component: {fileID: 2014338622}
   m_Layer: 0
-  m_Name: Room 3109 - Kontor/Office
+  m_Name: No 3109 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -87984,13 +88641,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2014338620}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 181.88205, y: 3.0130615, z: 173.3872}
+  m_LocalPosition: {x: 181.88205, y: 4, z: 173.3872}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1312259169}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2014338622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014338620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 3109 - Kontor
+  english: No 3109 - Office
+  spanish: 
 --- !u!1 &2023867006
 GameObject:
   m_ObjectHideFlags: 0
