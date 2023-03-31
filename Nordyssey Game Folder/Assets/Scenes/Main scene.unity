@@ -2108,8 +2108,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 104530524}
+  - component: {fileID: 104530525}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.206-Natrufag/Natural Science"
+  m_Name: Ny 2.206 - Natural Sciences
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2123,13 +2124,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 104530523}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 66.35858, y: 10.05835, z: 155.20714}
+  m_LocalPosition: {x: 66.35858, y: 8, z: 155.20714}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &104530525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 104530523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.206 - Naturfag
+  english: Ny 2.206 - Natural Sciences
+  spanish: 
 --- !u!1 &116952070
 GameObject:
   m_ObjectHideFlags: 0
@@ -2170,8 +2186,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 122128013}
+  - component: {fileID: 122128014}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.215-Kontor/Office"
+  m_Name: Ny 4.215 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2185,13 +2202,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 122128012}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 49.78186, y: 8.683044, z: 172.5324}
+  m_LocalPosition: {x: 47.53, y: 8, z: 172.92}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &122128014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 122128012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.215 - Kontor
+  english: Ny 4.215 - Office
+  spanish: 
 --- !u!1 &126317380
 GameObject:
   m_ObjectHideFlags: 0
@@ -2494,8 +2526,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 149924168}
+  - component: {fileID: 149924169}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.208-Seminarrom/Seminar Room"
+  m_Name: Ny 2.208 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2509,13 +2542,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 149924167}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 64.69461, y: 10.05835, z: 148.94937}
+  m_LocalPosition: {x: 64.69461, y: 8, z: 148.94937}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &149924169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 149924167}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.208 - Seminarrom
+  english: Ny 2.208 - Auditorium
+  spanish: 
 --- !u!1 &158201123
 GameObject:
   m_ObjectHideFlags: 0
@@ -2941,8 +2989,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 169668994}
+  - component: {fileID: 169668995}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room-Daniel Mortenssonnsalen/Daniel Mortensson Auditorium"
+  m_Name: Ny - Daniel Mortensson Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2956,13 +3005,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 169668993}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 38.31598, y: 5.3030396, z: 154.53824}
+  m_LocalPosition: {x: 37.79, y: 4.5, z: 153.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 75
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &169668995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169668993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny - Daniel Mortenssonsalen
+  english: Ny - Daniel Mortensson Auditorium
+  spanish: 
 --- !u!1 &170581418
 GameObject:
   m_ObjectHideFlags: 0
@@ -2972,8 +3036,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 170581419}
+  - component: {fileID: 170581420}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.201-Kontor/Office"
+  m_Name: Ny 3.201 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2987,13 +3052,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 170581418}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 89.78906, y: 10.05835, z: 156.08052}
+  m_LocalPosition: {x: 89.78906, y: 8, z: 156.08052}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &170581420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170581418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.201 - Kontor
+  english: Ny 3.201 - Office
+  spanish: 
 --- !u!1 &171410702
 GameObject:
   m_ObjectHideFlags: 0
@@ -3340,8 +3420,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 184484951}
+  - component: {fileID: 184484952}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.115-Kontor/Office"
+  m_Name: Ny 1.115 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3355,13 +3436,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 184484950}
   m_LocalRotation: {x: -0, y: -0.655157, z: -0, w: 0.7554928}
-  m_LocalPosition: {x: -4.2471924, y: 5.5300293, z: 175.50955}
+  m_LocalPosition: {x: -4.2471924, y: 4.5, z: 175.50955}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
-  m_RootOrder: 72
+  m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 7.705, z: 0}
+--- !u!114 &184484952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184484950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.115 - Kontor
+  english: Ny 1.115 - Office
+  spanish: 
 --- !u!1 &190041726
 GameObject:
   m_ObjectHideFlags: 0
@@ -3561,8 +3657,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 226928372}
+  - component: {fileID: 226928373}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.203-Kontor/Office"
+  m_Name: Ny 4.203 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3576,13 +3673,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 226928371}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 17.69049, y: 9.213043, z: 179.10435}
+  m_LocalPosition: {x: 17.69049, y: 8, z: 179.10435}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &226928373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226928371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.203 - Kontor
+  english: Ny 4.203 - Office
+  spanish: 
 --- !u!1 &227602238
 GameObject:
   m_ObjectHideFlags: 0
@@ -3769,8 +3881,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 244399038}
+  - component: {fileID: 244399039}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.230-Kontor/Office"
+  m_Name: Ny 4.230 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3784,13 +3897,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 244399037}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 96.17468, y: 9.213043, z: 163.44258}
+  m_LocalPosition: {x: 96.17468, y: 8, z: 163.44258}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &244399039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 244399037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.230 - Kontor
+  english: Ny 4.230 - Office
+  spanish: 
 --- !u!1 &254287071
 GameObject:
   m_ObjectHideFlags: 0
@@ -4090,7 +4218,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 271764240}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 69.5, y: 0, z: 289.1}
+  m_LocalPosition: {x: 69.5, y: 3.98, z: 289.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4231,8 +4359,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 278860169}
+  - component: {fileID: 278860170}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.122-Musikk/Music"
+  m_Name: Ny 3.122 - Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4246,13 +4375,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 278860168}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 116.38934, y: 5.623047, z: 140.08966}
+  m_LocalPosition: {x: 116.38934, y: 4.5, z: 140.08966}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 83
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &278860170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 278860168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.122 - Musikk
+  english: Ny 3.122 - Music
+  spanish: 
 --- !u!1 &280805487
 GameObject:
   m_ObjectHideFlags: 0
@@ -4996,8 +5140,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 302428515}
+  - component: {fileID: 302428516}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.116-Kontor/Office"
+  m_Name: Ny 1.116 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5011,13 +5156,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 302428514}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -21.620972, y: 5.4330444, z: 175.0804}
+  m_LocalPosition: {x: -21.620972, y: 4.5, z: 175.488}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &302428516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 302428514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.116 - Kontor
+  english: Ny 1.116 - Office
+  spanish: 
 --- !u!1 &309900263
 GameObject:
   m_ObjectHideFlags: 0
@@ -5089,8 +5249,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 334100498}
+  - component: {fileID: 334100499}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.225-Kontor/Office"
+  m_Name: Ny 4.225 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5104,13 +5265,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 334100497}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 84.1203, y: 9.213043, z: 165.56346}
+  m_LocalPosition: {x: 84.1203, y: 8, z: 165.56346}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &334100499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334100497}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.225 - Kontor
+  english: Ny 4.225 - Office
+  spanish: 
 --- !u!1 &338257733
 GameObject:
   m_ObjectHideFlags: 0
@@ -5258,8 +5434,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 347882321}
+  - component: {fileID: 347882322}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.112-Kontor/Office"
+  m_Name: Ny 1.112 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5273,13 +5450,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 347882320}
   m_LocalRotation: {x: -0, y: -0.655157, z: -0, w: 0.7554928}
-  m_LocalPosition: {x: -12.481842, y: 5.5300293, z: 177.5816}
+  m_LocalPosition: {x: -12.481842, y: 4.5, z: 177.5816}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
-  m_RootOrder: 69
+  m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 7.705, z: 0}
+--- !u!114 &347882322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 347882320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.112 - Kontor
+  english: Ny 1.112 - Office
+  spanish: 
 --- !u!1 &348591439
 GameObject:
   m_ObjectHideFlags: 0
@@ -6225,8 +6417,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 405765778}
+  - component: {fileID: 405765779}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.221-Kontor/Office"
+  m_Name: Ny 4.221 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6240,13 +6433,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 405765777}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 74.62396, y: 9.213043, z: 167.40509}
+  m_LocalPosition: {x: 74.312, y: 8, z: 167.40509}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &405765779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 405765777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.221 - Kontor
+  english: Ny 4.221 - Office
+  spanish: 
 --- !u!1 &411690564
 GameObject:
   m_ObjectHideFlags: 0
@@ -6383,8 +6591,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 415653294}
+  - component: {fileID: 415653295}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.225-Kontor/Office"
+  m_Name: Ny 3.225 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6398,13 +6607,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 415653293}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 100.24707, y: 10.05835, z: 134.5411}
+  m_LocalPosition: {x: 99.71, y: 8, z: 134.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &415653295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415653293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.225 - Kontor
+  english: Ny 3.225 - Office
+  spanish: 
 --- !u!1 &416833249
 GameObject:
   m_ObjectHideFlags: 0
@@ -6414,8 +6638,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 416833250}
+  - component: {fileID: 416833251}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Stille Lesesal/Silent Reading Hall "
+  m_Name: 'Ny Silent Reading Hall '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6429,13 +6654,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 416833249}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 13.646423, y: 10.04837, z: 163.98439}
+  m_LocalPosition: {x: 13.646423, y: 8.15, z: 163.98439}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &416833251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 416833249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny Stille Lesesal
+  english: Ny Silent Reading Hall
+  spanish: 
 --- !u!1 &417472635
 GameObject:
   m_ObjectHideFlags: 0
@@ -6445,8 +6685,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 417472636}
+  - component: {fileID: 417472637}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Grupperom 4/Group Room 4"
+  m_Name: Ny Group Room 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6460,13 +6701,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 417472635}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -21.620972, y: 10.04837, z: 175.0804}
+  m_LocalPosition: {x: -21.620972, y: 7.88, z: 175.0804}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &417472637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417472635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny Grupperom 4
+  english: Ny Group Room 4
+  spanish: 
 --- !u!1 &419422289
 GameObject:
   m_ObjectHideFlags: 0
@@ -6476,8 +6732,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 419422290}
+  - component: {fileID: 419422291}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.202-Kontor/Office "
+  m_Name: 'Ny 4.202 - Office '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6491,13 +6748,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 419422289}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 16.044067, y: 9.213043, z: 179.58676}
+  m_LocalPosition: {x: 15.702, y: 8, z: 179.58676}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &419422291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419422289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.202 - Kontor
+  english: Ny 4.202 - Office
+  spanish: 
 --- !u!1 &419794711
 GameObject:
   m_ObjectHideFlags: 0
@@ -6988,8 +7260,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 443675562}
+  - component: {fileID: 443675563}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.206-Kontor/Office"
+  m_Name: Ny 4.206 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7003,13 +7276,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 443675561}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 25.044373, y: 9.213043, z: 176.93889}
+  m_LocalPosition: {x: 25.044373, y: 8, z: 176.93889}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &443675563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 443675561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.206 - Kontor
+  english: Ny 4.206 - Office
+  spanish: 
 --- !u!1 &445730864
 GameObject:
   m_ObjectHideFlags: 0
@@ -7426,8 +7714,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 461162745}
+  - component: {fileID: 461162746}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.230-Okkenhaugsalen"
+  m_Name: Ny 3.230 - Okkenhaug Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7441,13 +7730,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 461162744}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 116.38934, y: 9.223053, z: 140.08966}
+  m_LocalPosition: {x: 114.37, y: 8, z: 141.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &461162746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 461162744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.230 - Okkenhaugsalen
+  english: Ny 3.230 - Okkenhaug Auditorium
+  spanish: 
 --- !u!1 &462256200
 GameObject:
   m_ObjectHideFlags: 0
@@ -7488,6 +7792,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 463817037}
+  - component: {fileID: 463817038}
   m_Layer: 11
   m_Name: No 1215 - Auditorium
   m_TagString: Untagged
@@ -7510,6 +7815,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &463817038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 463817036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 1215 - Seminarrom
+  english: No 1215 - Auditorium
+  spanish: 
 --- !u!1 &469059544
 GameObject:
   m_ObjectHideFlags: 0
@@ -7870,8 +8190,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 478992230}
+  - component: {fileID: 478992231}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.209-Lytterom/Listening Room"
+  m_Name: Ny 3.209 - Listening Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7885,13 +8206,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478992229}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 94.07263, y: 10.05835, z: 147.24797}
+  m_LocalPosition: {x: 94.07263, y: 8, z: 147.24797}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &478992231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478992229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.209 - Lytterom
+  english: Ny 3.209 - Listening Room
+  spanish: 
 --- !u!1 &479105735
 GameObject:
   m_ObjectHideFlags: 0
@@ -8611,8 +8947,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 496676829}
+  - component: {fileID: 496676830}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.214-Kontor/Office"
+  m_Name: Ny 4.214 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8626,13 +8963,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 496676828}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 47.343018, y: 9.213043, z: 172.69073}
+  m_LocalPosition: {x: 44.88, y: 8, z: 173.21}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &496676830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 496676828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.214 - Kontor
+  english: Ny 4.214 - Office
+  spanish: 
 --- !u!1 &500904481
 GameObject:
   m_ObjectHideFlags: 0
@@ -9114,8 +9466,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 512179471}
+  - component: {fileID: 512179472}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.203-\xD8vingsrom/Practice Room"
+  m_Name: Ny 3.203 - Practice Room 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9129,13 +9482,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 512179470}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 88.53754, y: 10.05835, z: 150.56978}
+  m_LocalPosition: {x: 88.53754, y: 8, z: 150.94}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &512179472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 512179470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Ny 3.203 - \xD8vingsrom 2"
+  english: Ny 3.203 - Practice Room 2
+  spanish: 
 --- !u!1 &518432273
 GameObject:
   m_ObjectHideFlags: 0
@@ -9533,8 +9901,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 524771472}
+  - component: {fileID: 524771473}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.224-Kontor/Office"
+  m_Name: Ny 4.224 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9548,13 +9917,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 524771471}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 81.39526, y: 9.013031, z: 166.22403}
+  m_LocalPosition: {x: 81.39526, y: 8, z: 166.22403}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &524771473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 524771471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.224 - Kontor
+  english: Ny 4.224 - Office
+  spanish: 
 --- !u!1 &526236014
 GameObject:
   m_ObjectHideFlags: 0
@@ -9733,8 +10117,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 550617656}
+  - component: {fileID: 550617657}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Lesesal/Reading Hall"
+  m_Name: Ny Reading Hall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9748,13 +10133,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 550617655}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -9.397858, y: 10.04837, z: 170.13818}
+  m_LocalPosition: {x: -9.397858, y: 8.01, z: 170.13818}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &550617657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 550617655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny Lesesal
+  english: Ny Reading Hall
+  spanish: 
 --- !u!1 &550637212
 GameObject:
   m_ObjectHideFlags: 0
@@ -11187,8 +11587,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 620858603}
+  - component: {fileID: 620858604}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.219-Kontor/Office"
+  m_Name: Ny 4.219 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11202,13 +11603,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 620858602}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 69.25079, y: 9.213043, z: 168.33557}
+  m_LocalPosition: {x: 69.25079, y: 8, z: 168.33557}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &620858604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620858602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.219 - Kontor
+  english: Ny 4.219 - Office
+  spanish: 
 --- !u!1 &620916919
 GameObject:
   m_ObjectHideFlags: 0
@@ -11579,8 +11995,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 629560710}
+  - component: {fileID: 629560711}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.213-Kontor/Office"
+  m_Name: Ny 4.213 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11594,13 +12011,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 629560709}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 44.575684, y: 8.831055, z: 172.9306}
+  m_LocalPosition: {x: 42.26, y: 8, z: 173.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &629560711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 629560709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.213 - Kontor
+  english: Ny 4.213 - Office
+  spanish: 
 --- !u!1 &631240985
 GameObject:
   m_ObjectHideFlags: 0
@@ -11959,8 +12391,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 654522884}
+  - component: {fileID: 654522885}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room-Oransjesalen/Orange Auditorium"
+  m_Name: Ny - Orange Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11974,13 +12407,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 654522883}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 50.84677, y: 5.3030396, z: 149.28369}
+  m_LocalPosition: {x: 50.84677, y: 4.5, z: 149.28369}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &654522885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654522883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny - Oransjesalen
+  english: Ny - Orange Auditorium
+  spanish: 
 --- !u!1 &658015524
 GameObject:
   m_ObjectHideFlags: 0
@@ -12852,8 +13300,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 702465292}
+  - component: {fileID: 702465293}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.201-Kontor/Office"
+  m_Name: Ny 4.201 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12867,13 +13316,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 702465291}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 12.791199, y: 9.213043, z: 180.54129}
+  m_LocalPosition: {x: 12.791199, y: 7.997, z: 180.54129}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &702465293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702465291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.201 - Kontor
+  english: Ny 4.201 - Office
+  spanish: 
 --- !u!1 &703266249
 GameObject:
   m_ObjectHideFlags: 0
@@ -14404,8 +14868,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 744730228}
+  - component: {fileID: 744730229}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.205-Kontor/Office"
+  m_Name: Ny 4.205 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14419,13 +14884,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 744730227}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 22.430115, y: 9.213043, z: 177.70857}
+  m_LocalPosition: {x: 22.430115, y: 8, z: 177.70857}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &744730229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744730227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.205 - Kontor
+  english: Ny 4.205 - Office
+  spanish: 
 --- !u!1 &763489945
 GameObject:
   m_ObjectHideFlags: 0
@@ -14661,7 +15141,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763946140}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 156.2, y: 0, z: 305.5}
+  m_LocalPosition: {x: 148.55, y: 4.36, z: 305.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14856,7 +15336,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 771460580}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 93, y: 0, z: 340.2}
+  m_LocalPosition: {x: 92.05, y: 3.98, z: 333.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14872,8 +15352,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 772290940}
+  - component: {fileID: 772290941}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.216-Kontor/Office"
+  m_Name: Ny 4.216 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14887,13 +15368,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 772290939}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 52.02008, y: 9.013031, z: 170.29243}
+  m_LocalPosition: {x: 50.24, y: 8, z: 172.37}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &772290941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772290939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.216 - Kontor
+  english: Ny 4.216 - Office
+  spanish: 
 --- !u!1 &777747252
 GameObject:
   m_ObjectHideFlags: 0
@@ -14934,8 +15430,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 779291375}
+  - component: {fileID: 779291376}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.209-Kontor/Office"
+  m_Name: Ny 4.209 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14949,13 +15446,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 779291374}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 34.561157, y: 9.213043, z: 174.48409}
+  m_LocalPosition: {x: 32.49, y: 8, z: 175.68}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &779291376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 779291374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.209 - Kontor
+  english: Ny 4.209 - Office
+  spanish: 
 --- !u!1 &780529295
 GameObject:
   m_ObjectHideFlags: 0
@@ -23012,6 +23524,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 3DCampusBuildings
+      objectReference: {fileID: 0}
+    - target: {fileID: 1456836523602523434, guid: 9c1c2965c7ac92d46849f7184dc248c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1456836523602523434, guid: 9c1c2965c7ac92d46849f7184dc248c0,
         type: 3}
@@ -64354,8 +64871,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 790917324}
+  - component: {fileID: 790917325}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.228-Kontor/Office"
+  m_Name: Ny 4.228 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64369,13 +64887,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 790917323}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 91.31653, y: 9.213043, z: 163.69919}
+  m_LocalPosition: {x: 91.31653, y: 8, z: 163.69919}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &790917325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 790917323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.228 - Kontor
+  english: Ny 4.228 - Office
+  spanish: 
 --- !u!1 &794991118
 GameObject:
   m_ObjectHideFlags: 0
@@ -64416,8 +64949,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 799510257}
+  - component: {fileID: 799510258}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.235-Grupperom/Group Room"
+  m_Name: Ny 4.235 - Group Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64431,13 +64965,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 799510256}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 73.862305, y: 10.05835, z: 160.55061}
+  m_LocalPosition: {x: 73.862305, y: 8, z: 160.55061}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &799510258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 799510256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.235 - Grupperom
+  english: Ny 4.235 - Group Room
+  spanish: 
 --- !u!1 &805000779
 GameObject:
   m_ObjectHideFlags: 0
@@ -64721,8 +65270,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 808803927}
+  - component: {fileID: 808803928}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.218-Kontor/Office"
+  m_Name: Ny 4.218 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64736,13 +65286,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808803926}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 67.522644, y: 8.986053, z: 168.58862}
+  m_LocalPosition: {x: 66.829, y: 8, z: 168.58862}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &808803928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808803926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.218 - Kontor
+  english: Ny 4.218 - Office
+  spanish: 
 --- !u!1 &811165448
 GameObject:
   m_ObjectHideFlags: 0
@@ -64752,8 +65317,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 811165449}
+  - component: {fileID: 811165450}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.206-Kontor/Office"
+  m_Name: Ny 3.206 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64767,13 +65333,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 811165448}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 86.9137, y: 10.05835, z: 143.4318}
+  m_LocalPosition: {x: 86.9137, y: 8, z: 143.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &811165450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811165448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.206 - Kontor
+  english: Ny 3.206 - Office
+  spanish: 
 --- !u!1 &816373863
 GameObject:
   m_ObjectHideFlags: 0
@@ -64950,8 +65531,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 817313050}
+  - component: {fileID: 817313051}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.101-Tegnesal/Drawing Room"
+  m_Name: Ny 3.101 - Drawing Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64965,13 +65547,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 817313049}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 92.66632, y: 5.54303, z: 150.53065}
+  m_LocalPosition: {x: 92.66632, y: 4.5, z: 150.53065}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 81
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &817313051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 817313049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.101 - Tegnesal
+  english: Ny 3.101 - Drawing Room
+  spanish: 
 --- !u!1 &828387886
 GameObject:
   m_ObjectHideFlags: 0
@@ -64981,8 +65578,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 828387887}
+  - component: {fileID: 828387888}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.105-Seminarrom/Seminar Room"
+  m_Name: Ny 2.105 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64996,13 +65594,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 828387886}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 64.09897, y: 5.8810425, z: 150.8539}
+  m_LocalPosition: {x: 64.09897, y: 4.5, z: 152.441}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 78
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &828387888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 828387886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.105 - Seminarrom
+  english: Ny 2.105 - Auditorium
+  spanish: 
 --- !u!1 &828494531
 GameObject:
   m_ObjectHideFlags: 0
@@ -65756,8 +66369,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 873653238}
+  - component: {fileID: 873653239}
   m_Layer: 0
-  m_Name: "Nyl\xE5na Servicetorg"
+  m_Name: "Nyl\xE5na Service Hub"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65771,13 +66385,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 873653237}
   m_LocalRotation: {x: -0, y: -0.655157, z: -0, w: 0.7554928}
-  m_LocalPosition: {x: -0.9579773, y: 5.5300293, z: 167.43452}
+  m_LocalPosition: {x: -0.9579773, y: 4.5, z: 171.54}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 7.705, z: 0}
+--- !u!114 &873653239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873653237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Nyl\xE5na Servicetorg"
+  english: "Nyl\xE5na Service Hub"
+  spanish: 
 --- !u!1 &875207971
 GameObject:
   m_ObjectHideFlags: 0
@@ -66118,8 +66747,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 892066526}
+  - component: {fileID: 892066527}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.117-Kontor/Office"
+  m_Name: Ny 1.117 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -66133,13 +66763,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 892066525}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -21.665405, y: 5.4330444, z: 173.16068}
+  m_LocalPosition: {x: -21.665405, y: 4.5, z: 173.16068}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &892066527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892066525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.117 - Kontor
+  english: Ny 1.117 - Office
+  spanish: 
 --- !u!1 &894163634
 GameObject:
   m_ObjectHideFlags: 0
@@ -66180,8 +66825,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 895832555}
+  - component: {fileID: 895832556}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.104-Keramikksal/Pottery Room"
+  m_Name: Ny 3.104 - Pottery Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -66195,13 +66841,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 895832554}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 88.87225, y: 5.54303, z: 137.9249}
+  m_LocalPosition: {x: 88.87225, y: 4.5, z: 137.9249}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &895832556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 895832554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.104 - Keramikkrom
+  english: Ny 3.104 - Pottery Room
+  spanish: 
 --- !u!1 &903537022
 GameObject:
   m_ObjectHideFlags: 0
@@ -66372,8 +67033,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 906878781}
+  - component: {fileID: 906878782}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.210-Lyd og Opptak/Sound and Recording"
+  m_Name: Ny 3.210 - Sound and Recording
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -66387,13 +67049,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906878780}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 93.028076, y: 10.05835, z: 142.66574}
+  m_LocalPosition: {x: 93.028076, y: 8, z: 142.66574}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &906878782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 906878780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.210 - Lyd og Opptak
+  english: Ny 3.210 - Sound and Recording
+  spanish: 
 --- !u!1 &908299387
 GameObject:
   m_ObjectHideFlags: 0
@@ -67158,8 +67835,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 932315933}
+  - component: {fileID: 932315934}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.113-Kontor/Office"
+  m_Name: Ny 1.113 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67173,13 +67851,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 932315932}
   m_LocalRotation: {x: -0, y: -0.655157, z: -0, w: 0.7554928}
-  m_LocalPosition: {x: -10.09433, y: 5.5300293, z: 177.2436}
+  m_LocalPosition: {x: -10.09433, y: 4.5, z: 177.2436}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 7.705, z: 0}
+--- !u!114 &932315934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 932315932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.113 - Kontor
+  english: Ny 1.113 - Office
+  spanish: 
 --- !u!1 &934121074
 GameObject:
   m_ObjectHideFlags: 0
@@ -67325,8 +68018,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 937272197}
+  - component: {fileID: 937272198}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.208-Kontor/Office"
+  m_Name: Ny 4.208 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67340,13 +68034,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 937272196}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 30.250061, y: 9.013031, z: 176.34964}
+  m_LocalPosition: {x: 30.250061, y: 8, z: 176.34964}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &937272198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 937272196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.208 - Kontor
+  english: Ny 4.208 - Office
+  spanish: 
 --- !u!1 &940778280
 GameObject:
   m_ObjectHideFlags: 0
@@ -67594,8 +68303,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 942625562}
+  - component: {fileID: 942625563}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.224-Kontor/Office"
+  m_Name: Ny 3.224 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67609,13 +68319,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 942625561}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 96.93268, y: 10.05835, z: 135.29608}
+  m_LocalPosition: {x: 96.93268, y: 8, z: 135.29608}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &942625563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 942625561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.224 - Kontor
+  english: Ny 3.224 - Office
+  spanish: 
 --- !u!1 &947308262
 GameObject:
   m_ObjectHideFlags: 0
@@ -67625,8 +68350,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 947308263}
+  - component: {fileID: 947308264}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.106-Seminarrom/Seminar Room"
+  m_Name: Ny 2.106 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67640,13 +68366,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 947308262}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 62.398254, y: 5.8810425, z: 145.59256}
+  m_LocalPosition: {x: 62.398254, y: 4.5, z: 145.59256}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 77
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &947308264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947308262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.106 - Seminarrom
+  english: Ny 2.106 - Auditorium
+  spanish: 
 --- !u!1 &961432127
 GameObject:
   m_ObjectHideFlags: 0
@@ -67656,8 +68397,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 961432128}
+  - component: {fileID: 961432129}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.210-Kontor/Office"
+  m_Name: Ny 4.210 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67671,13 +68413,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961432127}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 37.2984, y: 9.213043, z: 174.37648}
+  m_LocalPosition: {x: 35.31, y: 8, z: 175.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &961432129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 961432127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.210 - Kontor
+  english: Ny 4.210 - Office
+  spanish: 
 --- !u!1 &966521625
 GameObject:
   m_ObjectHideFlags: 0
@@ -67838,8 +68595,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 979190703}
+  - component: {fileID: 979190704}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room-Rosasalen/Pink Auditorium"
+  m_Name: Ny - Pink Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67853,13 +68611,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 979190702}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 41.456238, y: 5.3030396, z: 164.28497}
+  m_LocalPosition: {x: 40.415, y: 4.5, z: 162.161}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &979190704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979190702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny - Rosasalen
+  english: Ny - Pink Auditorium
+  spanish: 
 --- !u!1 &981052831
 GameObject:
   m_ObjectHideFlags: 0
@@ -67869,8 +68642,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 981052832}
+  - component: {fileID: 981052833}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.201-Datalab"
+  m_Name: Ny 2.201 - Datalab 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67884,13 +68658,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981052831}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 41.456238, y: 8.538361, z: 164.28497}
+  m_LocalPosition: {x: 41.456238, y: 8, z: 164.28497}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &981052833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981052831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.201 - Datasal 1
+  english: Ny 2.201 - Datalab 1
+  spanish: 
 --- !u!1 &985327461
 GameObject:
   m_ObjectHideFlags: 0
@@ -68721,6 +69510,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Search Canvas (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1829162444635532597, guid: 66695b26e1393b740a93456ef4ebc5cd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1829162444635532601, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_Pivot.x
@@ -69232,8 +70026,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1018409196}
+  - component: {fileID: 1018409197}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.204-Seminarrom/Seminar Room"
+  m_Name: Ny 2.204 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69247,13 +70042,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1018409195}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 49.75641, y: 10.133057, z: 150.57195}
+  m_LocalPosition: {x: 49.75641, y: 8, z: 150.57195}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1018409197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018409195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.204 - Seminarrom
+  english: Ny 2.204 - Auditorium
+  spanish: 
 --- !u!1 &1019753987
 GameObject:
   m_ObjectHideFlags: 0
@@ -69263,8 +70073,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1019753988}
+  - component: {fileID: 1019753989}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.220-Kontor/Office"
+  m_Name: Ny 4.220 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69278,13 +70089,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1019753987}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 71.55322, y: 9.213043, z: 168.64824}
+  m_LocalPosition: {x: 71.55322, y: 8, z: 168.64824}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1019753989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1019753987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.220 - Kontor
+  english: Ny 4.220 - Office
+  spanish: 
 --- !u!1 &1020720033
 GameObject:
   m_ObjectHideFlags: 0
@@ -69294,8 +70120,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1020720034}
+  - component: {fileID: 1020720035}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.119-Kontor/Office"
+  m_Name: Ny 1.119 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69309,13 +70136,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1020720033}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -22.778595, y: 5.4330444, z: 167.86902}
+  m_LocalPosition: {x: -22.778595, y: 4.5, z: 168.198}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1020720035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1020720033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.119 - Kontor
+  english: Ny 1.119 - Office
+  spanish: 
 --- !u!1 &1021509994
 GameObject:
   m_ObjectHideFlags: 0
@@ -70970,8 +71812,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1117215441}
+  - component: {fileID: 1117215442}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Grupperom 3/Group Room 3"
+  m_Name: Ny Group Room 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70985,13 +71828,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1117215440}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -21.665405, y: 10.04837, z: 173.16068}
+  m_LocalPosition: {x: -21.665405, y: 7.92, z: 173.16068}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1117215442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1117215440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny Grupperom 3
+  english: Ny Group Room 3
+  spanish: 
 --- !u!1 &1121152266
 GameObject:
   m_ObjectHideFlags: 0
@@ -71601,8 +72459,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1132177900}
+  - component: {fileID: 1132177901}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.118-Kontor/Office"
+  m_Name: Ny 1.118 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71616,13 +72475,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1132177899}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -22.533508, y: 5.4330444, z: 170.75716}
+  m_LocalPosition: {x: -22.533508, y: 4.5, z: 170.75716}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1132177901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1132177899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.118 - Kontor
+  english: Ny 1.118 - Office
+  spanish: 
 --- !u!1 &1135379654
 GameObject:
   m_ObjectHideFlags: 0
@@ -72043,8 +72917,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1155149676}
+  - component: {fileID: 1155149677}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.222-Kontor/Office"
+  m_Name: Ny 4.222 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72058,13 +72933,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1155149675}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 76.49927, y: 9.213043, z: 166.78093}
+  m_LocalPosition: {x: 76.49927, y: 8, z: 166.78093}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1155149677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1155149675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.222 - Kontor
+  english: Ny 4.222 - Office
+  spanish: 
 --- !u!1 &1167721992
 GameObject:
   m_ObjectHideFlags: 0
@@ -73164,8 +74054,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1204507413}
+  - component: {fileID: 1204507414}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-M\xF8terom/Meeting Room"
+  m_Name: Ny Meeting Room 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73179,13 +74070,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1204507412}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -20.107422, y: 10.04837, z: 178.19908}
+  m_LocalPosition: {x: -20.107422, y: 8.03, z: 178.19908}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1204507414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204507412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Ny M\xF8terom 2"
+  english: Ny Meeting Room 2
+  spanish: 
 --- !u!1 &1210947131
 GameObject:
   m_ObjectHideFlags: 0
@@ -73774,8 +74680,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1231265042}
+  - component: {fileID: 1231265043}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.205-Seminarrom/Seminar Room"
+  m_Name: Ny 2.205 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73789,13 +74696,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1231265041}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 54.973877, y: 10.583038, z: 147.56258}
+  m_LocalPosition: {x: 54.973877, y: 8, z: 147.56258}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1231265043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1231265041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.205 - Seminarrom
+  english: Ny 2.205 - Auditorium
+  spanish: 
 --- !u!1 &1232607967
 GameObject:
   m_ObjectHideFlags: 0
@@ -74177,8 +75099,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1242872218}
+  - component: {fileID: 1242872219}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.205-Kontor/Office"
+  m_Name: Ny 3.205 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74192,13 +75115,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1242872217}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 87.565155, y: 10.05835, z: 146.277}
+  m_LocalPosition: {x: 87.565155, y: 8, z: 146.277}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1242872219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242872217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.205 - Kontor
+  english: Ny 3.205 - Office
+  spanish: 
 --- !u!1 &1244296111
 GameObject:
   m_ObjectHideFlags: 0
@@ -74208,8 +75146,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1244296112}
+  - component: {fileID: 1244296113}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.212-Kontor/Office"
+  m_Name: Ny 4.212 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74223,13 +75162,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1244296111}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 42.205444, y: 9.213043, z: 173.4305}
+  m_LocalPosition: {x: 39.88, y: 8, z: 173.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &1244296113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1244296111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.212 - Kontor
+  english: Ny 4.212 - Office
+  spanish: 
 --- !u!1 &1247581581
 GameObject:
   m_ObjectHideFlags: 0
@@ -74976,8 +75930,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1311962420}
+  - component: {fileID: 1311962421}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.231-Kontor/Office"
+  m_Name: Ny 4.231 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74991,13 +75946,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1311962419}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 98.65851, y: 8.683044, z: 162.61386}
+  m_LocalPosition: {x: 98.65851, y: 8, z: 162.61386}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1311962421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311962419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.231 - Kontor
+  english: Ny 4.231 - Office
+  spanish: 
 --- !u!1 &1312032608
 GameObject:
   m_ObjectHideFlags: 0
@@ -76040,8 +77010,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1358747861}
+  - component: {fileID: 1358747862}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.223-Kontor/Office"
+  m_Name: Ny 3.223 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76055,13 +77026,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1358747860}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 94.30713, y: 10.05835, z: 135.89587}
+  m_LocalPosition: {x: 94.30713, y: 8, z: 135.89587}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1358747862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1358747860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.223 - Kontor
+  english: Ny 3.223 - Office
+  spanish: 
 --- !u!1 &1365348466
 GameObject:
   m_ObjectHideFlags: 0
@@ -76238,8 +77224,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1369785361}
+  - component: {fileID: 1369785362}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.207-Kontor/Office"
+  m_Name: Ny 4.207 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76253,13 +77240,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1369785360}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 27.329407, y: 9.213043, z: 176.27164}
+  m_LocalPosition: {x: 27.329407, y: 8, z: 176.27164}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &1369785362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1369785360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.207 - Kontor
+  english: Ny 4.207 - Office
+  spanish: 
 --- !u!1 &1372422123
 GameObject:
   m_ObjectHideFlags: 0
@@ -76443,8 +77445,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1393386808}
+  - component: {fileID: 1393386809}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.217-Kontor/Office"
+  m_Name: Ny 4.217 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76458,13 +77461,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1393386807}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 64.633545, y: 9.213043, z: 169.12138}
+  m_LocalPosition: {x: 64.633545, y: 8, z: 169.12138}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1393386809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1393386807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.217 - Kontor
+  english: Ny 4.217 - Office
+  spanish: 
 --- !u!1 &1401713089
 GameObject:
   m_ObjectHideFlags: 0
@@ -77990,6 +79008,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1464470616}
+  - component: {fileID: 1464470617}
   m_Layer: 11
   m_Name: No 1217 - Auditorium
   m_TagString: Untagged
@@ -78012,6 +79031,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1464470617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1464470615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 1217 - Seminarrom
+  english: No 1217 - Auditorium
+  spanish: 
 --- !u!1001 &1469257046
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -78804,8 +79838,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1520457916}
+  - component: {fileID: 1520457917}
   m_Layer: 0
-  m_Name: 'Kantine/Cafeteria '
+  m_Name: 'Cafeteria '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78819,13 +79854,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1520457915}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: 20.358368, y: 5.9483643, z: 176.59428}
+  m_LocalPosition: {x: 20.358368, y: 4.48, z: 176.59428}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1520457917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520457915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Kantine
+  english: Cafeteria
+  spanish: 
 --- !u!1 &1520513621
 GameObject:
   m_ObjectHideFlags: 0
@@ -79054,8 +80104,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1530909414}
+  - component: {fileID: 1530909415}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.204-Kontor/Office"
+  m_Name: Ny 3.204 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79069,13 +80120,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1530909413}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 88.05115, y: 10.05835, z: 148.4034}
+  m_LocalPosition: {x: 88.05115, y: 8, z: 148.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1530909415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530909413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.204 - Kontor
+  english: Ny 3.204 - Office
+  spanish: 
 --- !u!1 &1534822932
 GameObject:
   m_ObjectHideFlags: 0
@@ -79476,7 +80542,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1552102683}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 105, y: 0, z: 291.6}
+  m_LocalPosition: {x: 102.86, y: 4.38, z: 294.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -80047,8 +81113,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1562248608}
+  - component: {fileID: 1562248609}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.104-Seminarrom/Seminar Room"
+  m_Name: Ny 2.104 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80062,13 +81129,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562248607}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 66.32095, y: 5.8810425, z: 157.74738}
+  m_LocalPosition: {x: 66.32095, y: 4.5, z: 158.723}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 79
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &1562248609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562248607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.104 - Seminarrom
+  english: Ny 2.104 - Auditorium
+  spanish: 
 --- !u!1 &1576568093
 GameObject:
   m_ObjectHideFlags: 0
@@ -80078,8 +81160,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1576568094}
+  - component: {fileID: 1576568095}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.223-Kontor/Office"
+  m_Name: Ny 4.223 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80093,13 +81176,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576568093}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 79.006714, y: 9.213043, z: 166.43204}
+  m_LocalPosition: {x: 79.006714, y: 8, z: 166.43204}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1576568095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576568093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.223 - Kontor
+  english: Ny 4.223 - Office
+  spanish: 
 --- !u!1 &1577676990
 GameObject:
   m_ObjectHideFlags: 0
@@ -80630,8 +81728,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1593440375}
+  - component: {fileID: 1593440376}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.207-\xD8vingsrom/Practice Room"
+  m_Name: Ny 3.207 - Practice Room 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80645,13 +81744,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1593440374}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 95.520386, y: 10.05835, z: 153.57726}
+  m_LocalPosition: {x: 95.520386, y: 8, z: 153.57726}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1593440376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593440374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Ny 3.207 - \xD8vingsrom 4"
+  english: Ny 3.207 - Practice Room 4
+  spanish: 
 --- !u!1 &1597662501
 GameObject:
   m_ObjectHideFlags: 0
@@ -81593,7 +82707,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1635622148}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 139.9, y: 0, z: 264.5}
+  m_LocalPosition: {x: 135.91, y: 3.89, z: 272.78}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -81848,8 +82962,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1657033981}
+  - component: {fileID: 1657033982}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 2.202-Datalab"
+  m_Name: Ny 2.202 - Datalab 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81863,13 +82978,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1657033980}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 38.633545, y: 8.538361, z: 155.53589}
+  m_LocalPosition: {x: 38.633545, y: 8, z: 155.53589}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &1657033982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1657033980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 2.202 - Datasal 2
+  english: Ny 2.202 - Datalab 2
+  spanish: 
 --- !u!1 &1659720876
 GameObject:
   m_ObjectHideFlags: 0
@@ -82874,8 +84004,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: 
-  english: 
+  norwegian: No 1113 - Seminarrom
+  english: No 1113 - Auditorium
   spanish: 
 --- !u!1 &1693523417
 GameObject:
@@ -83068,8 +84198,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1702916846}
+  - component: {fileID: 1702916847}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.226-Kontor/Office"
+  m_Name: Ny 3.226 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83083,13 +84214,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1702916845}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 102.87265, y: 10.05835, z: 133.94131}
+  m_LocalPosition: {x: 102.07, y: 8, z: 134.14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1702916847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1702916845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.226 - Kontor
+  english: Ny 3.226 - Office
+  spanish: 
 --- !u!1 &1704818929
 GameObject:
   m_ObjectHideFlags: 0
@@ -83099,8 +84245,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1704818930}
+  - component: {fileID: 1704818931}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.202-\xD8vingsrom/Practice Room"
+  m_Name: Ny 3.202 - Practice Room 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83114,13 +84261,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1704818929}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 89.13739, y: 10.05835, z: 153.20535}
+  m_LocalPosition: {x: 89.13739, y: 8, z: 153.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1704818931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704818929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Ny 3.202 - \xD8vingsrom 1"
+  english: Ny 3.202 - Practice Room 1
+  spanish: 
 --- !u!1 &1706084072
 GameObject:
   m_ObjectHideFlags: 0
@@ -83297,8 +84459,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1712531494}
+  - component: {fileID: 1712531495}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.111-Kontor/Office"
+  m_Name: Ny 1.111 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83312,13 +84475,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1712531493}
   m_LocalRotation: {x: -0, y: -0.655157, z: -0, w: 0.7554928}
-  m_LocalPosition: {x: -15.479218, y: 5.5300293, z: 179.00725}
+  m_LocalPosition: {x: -15.479218, y: 4.5, z: 179.00725}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
-  m_RootOrder: 68
+  m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 7.705, z: 0}
+--- !u!114 &1712531495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1712531493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.111 - Kontor
+  english: Ny 1.111 - Office
+  spanish: 
 --- !u!1 &1713886347
 GameObject:
   m_ObjectHideFlags: 0
@@ -83647,8 +84825,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1736604786}
+  - component: {fileID: 1736604787}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 1.114-Kontor/Office"
+  m_Name: Ny 1.114 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83662,13 +84841,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736604785}
   m_LocalRotation: {x: -0, y: -0.655157, z: -0, w: 0.7554928}
-  m_LocalPosition: {x: -7.653656, y: 5.5300293, z: 175.9952}
+  m_LocalPosition: {x: -7.653656, y: 4.5, z: 175.9952}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
-  m_RootOrder: 71
+  m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 7.705, z: 0}
+--- !u!114 &1736604787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736604785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 1.114 - Kontor
+  english: Ny 1.114 - Office
+  spanish: 
 --- !u!1 &1741403767
 GameObject:
   m_ObjectHideFlags: 0
@@ -84027,8 +85221,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1752539398}
+  - component: {fileID: 1752539399}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.208-\xD8vingsrom/Practice Room"
+  m_Name: Ny 3.208 - Practice Room 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84042,13 +85237,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1752539397}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 94.68274, y: 10.05835, z: 149.91348}
+  m_LocalPosition: {x: 94.68274, y: 8, z: 149.91348}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1752539399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1752539397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Ny 3.208 - \xD8vingsrom 3"
+  english: Ny 3.208 - Practice Room 3
+  spanish: 
 --- !u!1 &1756072565
 GameObject:
   m_ObjectHideFlags: 0
@@ -84105,8 +85315,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1761453377}
+  - component: {fileID: 1761453378}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room Bl\xE5salen/Blue Auditorium"
+  m_Name: Ny - Blue Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84120,13 +85331,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761453376}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 106.98624, y: 6.6030273, z: 145.02063}
+  m_LocalPosition: {x: 105.84, y: 4.5, z: 148.22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1761453378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761453376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: "Ny - Bl\xE5salen"
+  english: Ny - Blue Auditorium
+  spanish: 
 --- !u!1 &1763493299
 GameObject:
   m_ObjectHideFlags: 0
@@ -85168,8 +86394,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1828317392}
+  - component: {fileID: 1828317393}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Grupperom 2/Group Room 2"
+  m_Name: Ny Group Room 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85183,13 +86410,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1828317391}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -22.533508, y: 10.04837, z: 170.75716}
+  m_LocalPosition: {x: -22.533508, y: 7.99, z: 170.75716}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1828317393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1828317391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny Grupperom 2
+  english: Ny Group Room 2
+  spanish: 
 --- !u!1 &1830055203
 GameObject:
   m_ObjectHideFlags: 0
@@ -85199,6 +86441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1830055204}
+  - component: {fileID: 1830055205}
   m_Layer: 11
   m_Name: No 1114 - Auditorium
   m_TagString: Untagged
@@ -85221,6 +86464,21 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1830055205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830055203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: No 1114 - Seminarrom
+  english: No 1114 - Auditorium
+  spanish: 
 --- !u!1 &1842877682
 GameObject:
   m_ObjectHideFlags: 0
@@ -85483,8 +86741,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1858133872}
+  - component: {fileID: 1858133873}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.227-Kontor/Office"
+  m_Name: Ny 3.227 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85498,13 +86757,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1858133871}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 104.9491, y: 10.05835, z: 133.46567}
+  m_LocalPosition: {x: 104.56, y: 8, z: 133.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1858133873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858133871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.227 - Kontor
+  english: Ny 3.227 - Office
+  spanish: 
 --- !u!1 &1864761040
 GameObject:
   m_ObjectHideFlags: 0
@@ -85665,8 +86939,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1864840405}
+  - component: {fileID: 1864840406}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.232-Kontor/Office"
+  m_Name: Ny 4.232 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85680,13 +86955,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1864840404}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 101.57422, y: 9.013031, z: 162.03188}
+  m_LocalPosition: {x: 101.57422, y: 8, z: 162.03188}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1864840406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864840404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.232 - Kontor
+  english: Ny 4.232 - Office
+  spanish: 
 --- !u!1 &1867971725
 GameObject:
   m_ObjectHideFlags: 0
@@ -86103,8 +87393,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1886000249}
+  - component: {fileID: 1886000250}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 3.228-Kontor/Office"
+  m_Name: Ny 3.228 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86118,13 +87409,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1886000248}
   m_LocalRotation: {x: -0, y: -0.6236652, z: -0, w: 0.7816916}
-  m_LocalPosition: {x: 107.65454, y: 10.05835, z: 132.84528}
+  m_LocalPosition: {x: 107.26, y: 8, z: 133.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 12.4, z: 0}
+--- !u!114 &1886000250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886000248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 3.228 - Kontor
+  english: Ny 3.228 - Office
+  spanish: 
 --- !u!1 &1886954175
 GameObject:
   m_ObjectHideFlags: 0
@@ -86402,8 +87708,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898779332}
+  - component: {fileID: 1898779333}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.226-Kontor/Office"
+  m_Name: Ny 4.226 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86417,13 +87724,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1898779331}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 86.66681, y: 9.213043, z: 165.08429}
+  m_LocalPosition: {x: 86.66681, y: 8, z: 165.08429}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1898779333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898779331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.226 - Kontor
+  english: Ny 4.226 - Office
+  spanish: 
 --- !u!1 &1899451831
 GameObject:
   m_ObjectHideFlags: 0
@@ -86433,8 +87755,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1899451832}
+  - component: {fileID: 1899451833}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Grupperom 1/Group Room 1"
+  m_Name: Ny Group Room 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86448,13 +87771,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1899451831}
   m_LocalRotation: {x: -0, y: -0.7044381, z: -0, w: 0.70976543}
-  m_LocalPosition: {x: -22.778595, y: 10.04837, z: 167.86902}
+  m_LocalPosition: {x: -22.778595, y: 8.01, z: 167.86902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1899451833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899451831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny Grupperom 1
+  english: Ny Group Room 1
+  spanish: 
 --- !u!1 &1900719945
 GameObject:
   m_ObjectHideFlags: 0
@@ -86596,8 +87934,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1902309249}
+  - component: {fileID: 1902309250}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.211-Kontor/Office"
+  m_Name: Ny 4.211 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86611,13 +87950,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1902309248}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 39.63495, y: 9.070038, z: 173.63988}
+  m_LocalPosition: {x: 37.27, y: 8, z: 174.93}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &1902309250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1902309248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.211 - Kontor
+  english: Ny 4.211 - Office
+  spanish: 
 --- !u!1 &1906159880
 GameObject:
   m_ObjectHideFlags: 0
@@ -87834,8 +89188,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1994612269}
+  - component: {fileID: 1994612270}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room Storsalen Auditorium"
+  m_Name: Ny - Big Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -87849,13 +89204,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1994612268}
   m_LocalRotation: {x: -0, y: -0.5887911, z: -0, w: 0.8082853}
-  m_LocalPosition: {x: 109.55603, y: 3.9330444, z: 168.87193}
+  m_LocalPosition: {x: 109.55603, y: 4.5, z: 168.87193}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 82
   m_LocalEulerAnglesHint: {x: 0, y: 17.426, z: 0}
+--- !u!114 &1994612270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994612268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny - Storsalen
+  english: Ny - Big Auditorium
+  spanish: 
 --- !u!1 &1994818417
 GameObject:
   m_ObjectHideFlags: 0
@@ -87865,8 +89235,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1994818418}
+  - component: {fileID: 1994818419}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.227-Kontor/Office"
+  m_Name: Ny 4.227 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -87880,13 +89251,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1994818417}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 89.095825, y: 9.070038, z: 164.94598}
+  m_LocalPosition: {x: 88.776, y: 8, z: 164.41}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &1994818419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994818417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.227 - Kontor
+  english: Ny 4.227 - Office
+  spanish: 
 --- !u!1 &1994920477
 GameObject:
   m_ObjectHideFlags: 0
@@ -87958,8 +89344,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1996024313}
+  - component: {fileID: 1996024314}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.204-Kontor/Office"
+  m_Name: Ny 4.204 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -87973,13 +89360,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1996024312}
   m_LocalRotation: {x: -0, y: -0.5991968, z: -0, w: 0.8006018}
-  m_LocalPosition: {x: 20.354675, y: 9.213043, z: 178.32425}
+  m_LocalPosition: {x: 20.354675, y: 8, z: 178.32425}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 15.944, z: 0}
+--- !u!114 &1996024314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996024312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.204 - Kontor
+  english: Ny 4.204 - Office
+  spanish: 
 --- !u!1 &2001352866
 GameObject:
   m_ObjectHideFlags: 0
@@ -88681,11 +90083,11 @@ Transform:
   - {fileID: 1132177900}
   - {fileID: 892066526}
   - {fileID: 302428515}
-  - {fileID: 1712531494}
-  - {fileID: 347882321}
-  - {fileID: 932315933}
-  - {fileID: 1736604786}
   - {fileID: 184484951}
+  - {fileID: 1736604786}
+  - {fileID: 932315933}
+  - {fileID: 347882321}
+  - {fileID: 1712531494}
   - {fileID: 873653238}
   - {fileID: 979190703}
   - {fileID: 169668994}
@@ -88892,8 +90294,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2037611174}
+  - component: {fileID: 2037611175}
   m_Layer: 0
-  m_Name: "Nyl\xE5na-Room 4.229-Kontor/Office"
+  m_Name: Ny 4.229 - Office
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -88907,13 +90310,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037611173}
   m_LocalRotation: {x: -0, y: -0.6305712, z: -0, w: 0.77613145}
-  m_LocalPosition: {x: 93.36481, y: 8.831055, z: 163.46376}
+  m_LocalPosition: {x: 93.36481, y: 8, z: 163.46376}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2027897363}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 11.384, z: 0}
+--- !u!114 &2037611175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2037611173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  norwegian: Ny 4.229 - Kontor
+  english: Ny 4.229 - Office
+  spanish: 
 --- !u!1 &2038173127
 GameObject:
   m_ObjectHideFlags: 0
