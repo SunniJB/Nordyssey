@@ -5,16 +5,16 @@ using UnityEngine.UI;
 
 public class InputFieldStayUp : MonoBehaviour
 {
+    public Animator groupAnimator;
     public void OnInput()
     {
-        Debug.Log("Input is happening");
         if (gameObject.GetComponent<InputField>().text != null)
         {
-            Debug.Log("Input field is not empty");
+            groupAnimator.SetBool("move", true);
         }
         else if (gameObject.GetComponent<InputField>().text == null)
         {
-            Debug.Log("Input field is empty");
+            groupAnimator.SetBool("move", false);
         }
     }
 }
