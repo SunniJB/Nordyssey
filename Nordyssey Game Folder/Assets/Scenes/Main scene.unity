@@ -1964,6 +1964,18 @@ MonoBehaviour:
     positionObject: {fileID: 1446637987}
   - Name: DanielMortenssonAuditorium
     positionObject: {fileID: 584962807}
+  - Name: OranjsalenAuditorium
+    positionObject: {fileID: 1732426769}
+  - Name: 2104Seminarrom
+    positionObject: {fileID: 209443104}
+  - Name: 2105Seminarrom
+    positionObject: {fileID: 480018093}
+  - Name: 2106Seminarrom
+    positionObject: {fileID: 1607597549}
+  - Name: 4102Grupperom
+    positionObject: {fileID: 1860294697}
+  - Name: RosasalenAuditorium
+    positionObject: {fileID: 1844905537}
   qrCodeScanningPanel: {fileID: 1387538990}
 --- !u!4 &190041728
 Transform:
@@ -2199,6 +2211,37 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 8d691765447ca794f895319be1c240f5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cbd7732a38007346b4c33729b978586, type: 3}
+--- !u!1 &209443104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 209443105}
+  m_Layer: 0
+  m_Name: QR_2.104 - Seminarrom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &209443105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 209443104}
+  m_LocalRotation: {x: 0.00477044, y: 0.77755636, z: 0.0033933553, w: 0.628786}
+  m_LocalPosition: {x: 222.66, y: 5.27, z: -50.34}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0.041, y: 102.077, z: 0.67}
 --- !u!1 &226928371
 GameObject:
   m_ObjectHideFlags: 0
@@ -4521,6 +4564,37 @@ MonoBehaviour:
   norwegian: No 3113 - Kontor
   english: No 3113 - Office
   spanish: 
+--- !u!1 &480018093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 480018094}
+  m_Layer: 0
+  m_Name: QR_2.105 - Seminarrom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &480018094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 480018093}
+  m_LocalRotation: {x: 0.00477044, y: 0.77755636, z: 0.0033933553, w: 0.628786}
+  m_LocalPosition: {x: 217.38, y: 5.358, z: -74.99}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0.041, y: 102.077, z: 0.67}
 --- !u!1 &480809163
 GameObject:
   m_ObjectHideFlags: 0
@@ -5847,7 +5921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 584962808}
   m_Layer: 0
-  m_Name: Daniel Mortensson Auditorium
+  m_Name: QR_Daniel Mortensson Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5860,13 +5934,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584962807}
-  m_LocalRotation: {x: 0, y: -0.63580877, z: 0, w: 0.7718466}
-  m_LocalPosition: {x: 160.78, y: 5.462, z: -67.05}
+  m_LocalRotation: {x: -0, y: -0.63580877, z: -0, w: 0.7718466}
+  m_LocalPosition: {x: 160.78001, y: 5.462, z: -67.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1322600001}
-  m_RootOrder: 7
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: -78.96, z: 0}
 --- !u!1 &590553047
 GameObject:
@@ -59998,6 +60072,44 @@ MonoBehaviour:
   norwegian: Ny 3.224 - Kontor
   english: Ny 3.224 - Office
   spanish: 
+--- !u!1 &946472033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 946472034}
+  m_Layer: 0
+  m_Name: QR_Nylana
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &946472034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 946472033}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1844905538}
+  - {fileID: 584962808}
+  - {fileID: 1732426770}
+  - {fileID: 209443105}
+  - {fileID: 480018094}
+  - {fileID: 1607597550}
+  - {fileID: 1860294698}
+  m_Father: {fileID: 1322600001}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &947308262
 GameObject:
   m_ObjectHideFlags: 0
@@ -61093,7 +61205,7 @@ PrefabInstance:
     - target: {fileID: 1829162444635532597, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162444635532598, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -65900,7 +66012,7 @@ Transform:
   - {fileID: 132068888}
   - {fileID: 794991119}
   - {fileID: 1446637988}
-  - {fileID: 584962808}
+  - {fileID: 946472034}
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -69159,6 +69271,37 @@ Transform:
   m_Father: {fileID: 1312259169}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1607597549
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1607597550}
+  m_Layer: 0
+  m_Name: QR_2.106 - Seminarrom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1607597550
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1607597549}
+  m_LocalRotation: {x: 0.00477044, y: 0.77755636, z: 0.0033933553, w: 0.628786}
+  m_LocalPosition: {x: 214.9, y: 5.399, z: -86.57}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0.041, y: 102.077, z: 0.67}
 --- !u!1 &1616619444 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1711140783, guid: 66695b26e1393b740a93456ef4ebc5cd,
@@ -70714,6 +70857,37 @@ Transform:
   m_Father: {fileID: 380241695}
   m_RootOrder: 164
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1732426769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1732426770}
+  m_Layer: 0
+  m_Name: QR_OranjsalenAuditorium
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1732426770
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1732426769}
+  m_LocalRotation: {x: 0.001051379, y: 0.99576044, z: 0.0057590418, w: -0.09179821}
+  m_LocalPosition: {x: 210.39, y: 5.335, z: -66.31}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -0.668, y: 190.534, z: 0.059}
 --- !u!1 &1734227678
 GameObject:
   m_ObjectHideFlags: 0
@@ -71781,6 +71955,37 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -103}
   m_SizeDelta: {x: 480, y: 9}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1844905537
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1844905538}
+  m_Layer: 0
+  m_Name: QR_Rosasalen Auditorium
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1844905538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1844905537}
+  m_LocalRotation: {x: -0, y: -0.63580877, z: -0, w: 0.7718466}
+  m_LocalPosition: {x: 163.66, y: 5.462, z: -52.33}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -78.96, z: 0}
 --- !u!1 &1847058124
 GameObject:
   m_ObjectHideFlags: 0
@@ -72005,6 +72210,37 @@ MonoBehaviour:
   norwegian: Ny 3.227 - Kontor
   english: Ny 3.227 - Office
   spanish: 
+--- !u!1 &1860294697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1860294698}
+  m_Layer: 0
+  m_Name: QR_4.102 - Grupperom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1860294698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860294697}
+  m_LocalRotation: {x: 0.005803487, y: 0.14028056, z: -0.00076909387, w: 0.9900945}
+  m_LocalPosition: {x: 176.78, y: 5.182, z: -12.02}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946472034}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0.671, y: 16.128, z: 0.006}
 --- !u!1 &1864840404
 GameObject:
   m_ObjectHideFlags: 0
