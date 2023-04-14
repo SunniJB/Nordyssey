@@ -4,6 +4,8 @@ using Vuforia;
 
 public class CameraFocus : MonoBehaviour
 {
+    public static CameraFocus instance;
+
     void Start()
     {
         VuforiaApplication.Instance.OnVuforiaStarted += OnVuforiaStarted;
@@ -16,11 +18,10 @@ public class CameraFocus : MonoBehaviour
         VuforiaBehaviour.Instance.CameraDevice.SetCameraMode(Vuforia.CameraMode.MODE_DEFAULT);
     }
 
-    private void OnPaused(bool paused)
+    public void OnPaused(bool paused)
     {
         if (!paused) // Resumed
         {
-            // Set again autofocus mode when app is resumed
             VuforiaBehaviour.Instance.CameraDevice.SetFocusMode(FocusMode.FOCUS_MODE_CONTINUOUSAUTO);
         }
     }
