@@ -117,4 +117,13 @@ public class MoveMinimap : MonoBehaviour
             minimap.localScale = new Vector3(2.5f, 2.5f, 2.5f);
         }
     }
+
+    public void ToggleVisibility(bool toggle)
+    {
+        foreach (GameObject line in lineLines)
+        {
+            if (line != null)
+                {line.SetActive(toggle);}
+        }
+    }
 }

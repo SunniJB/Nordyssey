@@ -36,12 +36,18 @@ public class DrawLineOnMinimap : MonoBehaviour
             //line.SetPositions(path.corners);
             //Debug.Log("Path was calculated, there are " + path.corners.Length + " corners.");
             moveMap.UpdateLineRender(path.corners);
+            if (path.corners.Length <= 2 && path.status == NavMeshPathStatus.PathComplete)
+            {
+                targetPosition = Vector3.zero;
+                moveMap.ToggleVisibility(false);
+            }
         }
     }
 
     public void SetTarget(Vector3 tPos)
     {
         targetPosition = tPos;
+        moveMap.ToggleVisibility(true);
     }
 
     /*public void SetCurrentNavigationTarget(int selectedValue)
