@@ -22,13 +22,11 @@ public class QRCodeRecenter : MonoBehaviour
     private void OnEnable()
     {
         cameraManager.frameReceived += OnCameraFrameReceived;
-        CameraFocus.instance.OnPaused(false);
     }
 
     private void OnDisable()
     {
         cameraManager.frameReceived -= OnCameraFrameReceived;
-        CameraFocus.instance.OnPaused(true);
     }
 
     private void OnCameraFrameReceived(ARCameraFrameEventArgs eventArgs)

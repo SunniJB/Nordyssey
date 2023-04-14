@@ -13,6 +13,7 @@ public class AnimatedSwipe : MonoBehaviour
     void Start()
     {
         groupAnimator = gameObject.GetComponent<Animator>();
+        hasMoved = false;
     }
 
     public void MoveCanvas()

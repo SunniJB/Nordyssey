@@ -18,6 +18,8 @@ public class DestinationManager : MonoBehaviour
     public DrawLineOnMinimap drawLineOnMinimap;
     public SetNavigationtarget pathfindingLineController;
 
+    public GameObject animationGroup;
+
     public ShowMessages sM;
     //public Button button1;
 

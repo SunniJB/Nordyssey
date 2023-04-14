@@ -5,21 +5,24 @@ using UnityEngine.UI;
 
 public class InputFieldStayUp : MonoBehaviour
 {
-    public Animator groupAnimator;
+    public AnimatedSwipe animatedSwipe;
+    public Text inputFieldText;
 
     private void Start()
     {
-        groupAnimator = GameObject.Find("Group").GetComponent<Animator>();
+        animatedSwipe = GameObject.Find("Group").GetComponent<AnimatedSwipe>();
     }
     public void OnInput()
     {
-        if (gameObject.GetComponent<InputField>().text != null)
+        if (inputFieldText.text.Length != 0)
         {
-            groupAnimator.SetBool("move", true);
+            animatedSwipe.MoveCanvas();
+            Debug.Log("There is text here");
         }
-        else if (gameObject.GetComponent<InputField>().text == null)
+        else if (inputFieldText.text.Length == 0)
         {
-            groupAnimator.SetBool("move", false);
+            animatedSwipe.MoveCanvas();
+            Debug.Log("there is no text here");
         }
     }
 }
