@@ -13,6 +13,8 @@ public class SetNavigationtarget : MonoBehaviour
     public LineRenderer line; //linerenderer to display path
     private Vector3 targetPosition = Vector3.zero; //Current target position
     public Transform playerCamera;
+    
+    public ShowMessages sM;
 
     public bool lineToggle = true;
 
@@ -32,6 +34,10 @@ public class SetNavigationtarget : MonoBehaviour
             NavMesh.CalculatePath(playerCamera.position, targetPosition, NavMesh.AllAreas, path);
             line.positionCount = path.corners.Length;
             line.SetPositions(path.corners);
+            if (path.corners.Length <= 2 && path.status == NavMeshPathStatus.PathComplete)
+            {
+                DestinationReached();
+            }
             //Debug.Log("Path was calculated, there are " + path.corners.Length + " corners.");
         }
     }
@@ -39,6 +45,7 @@ public class SetNavigationtarget : MonoBehaviour
     public void SetCurrentNavigationTarget(Transform targetDestination)
     {
         targetPosition = targetDestination.transform.position;
+        ToggleVisibility(false);
         /*string selectedText = navigationtargetDropdown.options[selectedValue].text;
         Target currentTarget = navigationTargetObjects.Find(x => x.Name.ToLower().Equals(selectedText.ToLower()));
         if (currentTarget != null) 
@@ -46,6 +53,13 @@ public class SetNavigationtarget : MonoBehaviour
             targetPosition = currentTarget.positionObject.transform.position;
             debugLogText.text = ("Target position is now " + targetPosition);
         }*/
+    }
+
+    private void DestinationReached()
+    {
+        targetPosition = Vector3.zero;
+        line.enabled = lineToggle = false;
+        sM.ShowMessage("Destination Reached! :D", 2f);
     }
 
     public void ToggleVisibility(bool t)

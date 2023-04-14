@@ -17,6 +17,8 @@ public class DestinationManager : MonoBehaviour
     public Transform[] destinations = new Transform[20];
     public DrawLineOnMinimap drawLineOnMinimap;
     public SetNavigationtarget pathfindingLineController;
+
+    public ShowMessages sM;
     //public Button button1;
 
 
@@ -78,6 +80,7 @@ public class DestinationManager : MonoBehaviour
         drawLineOnMinimap.SetTarget(destinations[des].position);
         pathfindingLineController.SetCurrentNavigationTarget(destinations[des]);
         pathfindingLineController.ToggleVisibility(true);
+        sM.ShowMessage("Current Destination: " + destinations[des].name, 2f);
     }
 
     public void SwitchWaypoint(Transform tran)
@@ -85,6 +88,9 @@ public class DestinationManager : MonoBehaviour
         arrow.waypoint.transform.position = tran.position;
         Debug.Log("Destination: " + tran.name);
         drawLineOnMinimap.SetTarget(tran.position);
+        pathfindingLineController.SetCurrentNavigationTarget(tran);
+        pathfindingLineController.ToggleVisibility(true);
+        sM.ShowMessage("Current Destination: " + tran.name, 2f);
     }
 
     public void SearchList(string input)
