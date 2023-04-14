@@ -13,6 +13,9 @@
 #Don't push the vuforia plugin
 */[Pp]ackages/com.ptc.vuforia.engine-10.13.3.tgz*
 
+#Or that somedata thing
+*/[Nn]ordyssey [Gg]ame [Ff]older/QCAR/somedata16*
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -70,3 +73,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Nordyssey Game Folder/QCAR/somedata16
+Nordyssey Game Folder/QCAR/somedata16
+Nordyssey Game Folder/QCAR/somedata16
