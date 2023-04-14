@@ -74523,14 +74523,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
-<<<<<<< Updated upstream
-=======
       objectReference: {fileID: 0}
     - target: {fileID: 4040468281199354231, guid: 23f286bbaf33e3946bb771d527ecc534,
         type: 3}
       propertyPath: m_UiScaleMode
       value: 1
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 4040468281227684654, guid: 23f286bbaf33e3946bb771d527ecc534,
         type: 3}
@@ -76020,11 +76017,7 @@ PrefabInstance:
     - target: {fileID: 4040468282676006015, guid: 23f286bbaf33e3946bb771d527ecc534,
         type: 3}
       propertyPath: m_SizeDelta.y
-<<<<<<< Updated upstream
-      value: 0
-=======
       value: 129.02338
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 4040468282676006015, guid: 23f286bbaf33e3946bb771d527ecc534,
         type: 3}
