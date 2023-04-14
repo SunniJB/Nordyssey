@@ -7,7 +7,7 @@ public class AnimatedSwipe : MonoBehaviour
     public bool hasMoved;
 
     public Animator groupAnimator;
-    public GameObject qrCodeScanButton;
+    public GameObject qrCodeScanButton, locationListIcon;
 
     // Start is called before the first frame update
     void Start()
@@ -21,5 +21,6 @@ public class AnimatedSwipe : MonoBehaviour
         hasMoved = !hasMoved;
         groupAnimator.SetBool("move", hasMoved);
         qrCodeScanButton.SetActive(!hasMoved);
+        locationListIcon.SetActive(!hasMoved);
     }
 }
