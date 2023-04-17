@@ -45,7 +45,7 @@ public class SetNavigationtarget : MonoBehaviour
     public void SetCurrentNavigationTarget(Transform targetDestination)
     {
         targetPosition = targetDestination.transform.position;
-        ToggleVisibility(false);
+        ToggleVisibility(true);
         /*string selectedText = navigationtargetDropdown.options[selectedValue].text;
         Target currentTarget = navigationTargetObjects.Find(x => x.Name.ToLower().Equals(selectedText.ToLower()));
         if (currentTarget != null) 
