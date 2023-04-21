@@ -8,7 +8,8 @@ using TMPro;
 public class DestinationManager : MonoBehaviour
 {
 
-    public arrowPointToPoint arrow;
+    //public arrowPointToPoint arrow;
+    // This is done in SetNavigationtarget now.
     public InputField inputField;
     public Transform waypointsRoot;
     [Tooltip("The buttons in question are the ones you select from after writing in the input field.")]
@@ -77,7 +78,7 @@ public class DestinationManager : MonoBehaviour
     // The destination waypoint is moved to the Vector3 location when an entry is selected
     public void SwitchWaypoint(int des)
     {
-        arrow.waypoint.transform.position = destinations[des].position;
+        //arrow.waypoint.transform.position = destinations[des].position;
         Debug.Log("Destination: " + destinations[des].name);
         drawLineOnMinimap.SetTarget(destinations[des].position);
         pathfindingLineController.SetCurrentNavigationTarget(destinations[des]);
@@ -87,7 +88,7 @@ public class DestinationManager : MonoBehaviour
 
     public void SwitchWaypoint(Transform tran)
     {
-        arrow.waypoint.transform.position = tran.position;
+        //arrow.waypoint.transform.position = tran.position;
         Debug.Log("Destination: " + tran.name);
         drawLineOnMinimap.SetTarget(tran.position);
         pathfindingLineController.SetCurrentNavigationTarget(tran);

@@ -8,7 +8,8 @@ public class MoveMinimap : MonoBehaviour
 
     public Transform minimap;
     public Transform arCamera;
-    public Image miniIcon, uiLine;
+    public Image miniIcon;
+    public RawImage uiLine;
 
 
     private float mX, mY;
@@ -86,7 +87,7 @@ public class MoveMinimap : MonoBehaviour
         for (int g = 0; g < mapPositions.Length -2; g++)
         {
             Vector3 offset = new Vector3((mapPositions[g].x + mapPositions[g+1].x) / 2, (mapPositions[g].y + mapPositions[g+1].y) / 2, 0f);
-            Image line = Image.Instantiate(uiLine, Vector3.zero, Quaternion.identity);
+            RawImage line = RawImage.Instantiate(uiLine, Vector3.zero, Quaternion.identity);
             line.color = Color.blue;
             line.transform.SetParent(minimap.transform);
             line.rectTransform.anchorMin = new Vector2(0.6883362f, 0.2186585f);

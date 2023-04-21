@@ -13,6 +13,7 @@ public class SetNavigationtarget : MonoBehaviour
     public LineRenderer line; //linerenderer to display path
     private Vector3 targetPosition = Vector3.zero; //Current target position
     public Transform playerCamera;
+    public arrowPointToPoint arrow;
     
     public ShowMessages sM;
 
@@ -34,6 +35,7 @@ public class SetNavigationtarget : MonoBehaviour
             NavMesh.CalculatePath(playerCamera.position, targetPosition, NavMesh.AllAreas, path);
             line.positionCount = path.corners.Length;
             line.SetPositions(path.corners);
+            arrow.waypoint.transform.position = path.corners[1];
             if (path.corners.Length <= 2 && path.status == NavMeshPathStatus.PathComplete)
             {
                 DestinationReached();
