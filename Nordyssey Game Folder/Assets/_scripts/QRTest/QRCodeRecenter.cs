@@ -14,6 +14,9 @@ public class QRCodeRecenter : MonoBehaviour
     [SerializeField] private ARCameraManager cameraManager;
     [SerializeField] private List<Target> navigationTargetObjects = new List<Target>();
     [SerializeField] private GameObject qrCodeScanningPanel;
+    [SerializeField] private GameObject qrCodeNotYetScanned;
+
+  
 
     private Texture2D cameraImageTexture;
     private IBarcodeReader reader = new BarcodeReader(); // create a barcode reader instance
@@ -95,6 +98,7 @@ public class QRCodeRecenter : MonoBehaviour
             Handheld.Vibrate();
             SetQrCodeRecenterTarget(result.Text);
             ToggleScanning();
+
         }
     }
 
@@ -102,6 +106,8 @@ public class QRCodeRecenter : MonoBehaviour
     {
         scanningEnabled = !scanningEnabled;
         qrCodeScanningPanel.SetActive(scanningEnabled);
+       qrCodeNotYetScanned.SetActive(false);
+        CancelInvoke("QrScann");
     }
 
     private void SetQrCodeRecenterTarget(string targetText)

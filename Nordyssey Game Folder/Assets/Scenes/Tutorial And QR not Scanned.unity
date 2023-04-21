@@ -3142,6 +3142,10 @@ MonoBehaviour:
   - Name: SOT
     positionObject: {fileID: 26121190}
   qrCodeScanningPanel: {fileID: 1387538990}
+<<<<<<< Updated upstream
+=======
+  qrCodeNotYetScanned: {fileID: 377367042}
+>>>>>>> Stashed changes
 --- !u!4 &190041728
 Transform:
   m_ObjectHideFlags: 0
