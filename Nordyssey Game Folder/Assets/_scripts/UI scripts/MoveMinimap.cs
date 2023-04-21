@@ -95,7 +95,7 @@ public class MoveMinimap : MonoBehaviour
             line.rectTransform.anchoredPosition = offset;
             line.transform.localScale = 
                 new Vector3(Vector2.Distance(linePoints[g].GetComponent<RectTransform>().anchoredPosition, 
-                linePoints[g+1].GetComponent<RectTransform>().anchoredPosition) / 100, 0.5f, 1f);
+                linePoints[g+1].GetComponent<RectTransform>().anchoredPosition) / -100, 2.5f, 1f);
             Vector3 dif = linePoints[g+1].GetComponent<RectTransform>().anchoredPosition - linePoints[g].GetComponent<RectTransform>().anchoredPosition;
             line.rectTransform.rotation = Quaternion.Euler(new Vector3(0, 0, 180 * Mathf.Atan(dif.y / dif.x) / Mathf.PI));
 

@@ -69658,6 +69658,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 0fcda1f8102c03049bbfb4ee6e533b8f, type: 2}
+    - target: {fileID: 8166942014893911765, guid: 4b09260a2964ca74591ba5c8b992b109,
+        type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].time
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8166942014893911765, guid: 4b09260a2964ca74591ba5c8b992b109,
+        type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].value
+      value: 0.26986027
+      objectReference: {fileID: 0}
     - target: {fileID: 8166942014893911766, guid: 4b09260a2964ca74591ba5c8b992b109,
         type: 3}
       propertyPath: m_RootOrder
