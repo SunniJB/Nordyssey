@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2221214}
   m_Layer: 0
-  m_Name: Ho248
+  m_Name: Main Building 248
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -505,7 +505,7 @@ GameObject:
   m_Component:
   - component: {fileID: 12575938}
   m_Layer: 0
-  m_Name: Ho250 - Auditorium
+  m_Name: Main Building 250 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -728,7 +728,7 @@ GameObject:
   m_Component:
   - component: {fileID: 23217040}
   m_Layer: 0
-  m_Name: Ho128
+  m_Name: Main Building 128
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1022,7 +1022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 55000239}
   m_Layer: 0
-  m_Name: Ho162
+  m_Name: Main Building 162
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1126,9 +1126,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -2856}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &61877306
@@ -1279,7 +1279,7 @@ GameObject:
   m_Component:
   - component: {fileID: 74764205}
   m_Layer: 0
-  m_Name: Ho130
+  m_Name: Main Building 130
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1336,9 +1336,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -1076}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &81335750
@@ -1595,7 +1595,7 @@ GameObject:
   m_Component:
   - component: {fileID: 86733701}
   m_Layer: 0
-  m_Name: Ho323
+  m_Name: Main Building 323
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1626,7 +1626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 93708422}
   m_Layer: 0
-  m_Name: Ho239
+  m_Name: Main Building 239
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1736,7 +1736,7 @@ GameObject:
   m_Component:
   - component: {fileID: 116952071}
   m_Layer: 0
-  m_Name: Ho20
+  m_Name: Main Building 20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1846,7 +1846,7 @@ GameObject:
   m_Component:
   - component: {fileID: 126317381}
   m_Layer: 0
-  m_Name: Ho58
+  m_Name: Main Building 58
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2015,7 +2015,7 @@ GameObject:
   m_Component:
   - component: {fileID: 127204571}
   m_Layer: 0
-  m_Name: Ho142
+  m_Name: Main Building 142
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2046,7 +2046,7 @@ GameObject:
   m_Component:
   - component: {fileID: 130964163}
   m_Layer: 0
-  m_Name: Ho242
+  m_Name: Main Building 242
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2109,7 +2109,7 @@ GameObject:
   m_Component:
   - component: {fileID: 137228794}
   m_Layer: 0
-  m_Name: Ho132
+  m_Name: Main Building 132
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2140,7 +2140,7 @@ GameObject:
   m_Component:
   - component: {fileID: 144907903}
   m_Layer: 0
-  m_Name: Ho115
+  m_Name: Main Building 115
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2307,7 +2307,7 @@ GameObject:
   m_Component:
   - component: {fileID: 149662579}
   m_Layer: 0
-  m_Name: Ho306
+  m_Name: Main Building 306
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2417,7 +2417,7 @@ GameObject:
   m_Component:
   - component: {fileID: 158201124}
   m_Layer: 0
-  m_Name: Ho349
+  m_Name: Main Building 349
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3015,7 +3015,7 @@ GameObject:
   m_Component:
   - component: {fileID: 174554588}
   m_Layer: 0
-  m_Name: Ho154
+  m_Name: Main Building 154
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3046,7 +3046,7 @@ GameObject:
   m_Component:
   - component: {fileID: 175802992}
   m_Layer: 0
-  m_Name: Ho33
+  m_Name: Main Building 33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3185,7 +3185,7 @@ GameObject:
   m_Component:
   - component: {fileID: 183655934}
   m_Layer: 0
-  m_Name: Ho32
+  m_Name: Main Building 32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3289,9 +3289,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -2678}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &188490009
@@ -3557,7 +3557,7 @@ GameObject:
   m_Component:
   - component: {fileID: 195099683}
   m_Layer: 0
-  m_Name: Ho206 - Skill Lab
+  m_Name: Main Building 206 - Skill Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3758,611 +3758,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 54774890451986064, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 132
-      objectReference: {fileID: 0}
-    - target: {fileID: 97858915575429178, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 57
-      objectReference: {fileID: 0}
-    - target: {fileID: 129988526902719677, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 235
-      objectReference: {fileID: 0}
-    - target: {fileID: 156191228591517071, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 214 - Skill Lab
-      objectReference: {fileID: 0}
-    - target: {fileID: 168039868826598839, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 229588894300778973, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 109
-      objectReference: {fileID: 0}
-    - target: {fileID: 274129647630018990, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 124B
-      objectReference: {fileID: 0}
-    - target: {fileID: 365052505257085384, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 203
-      objectReference: {fileID: 0}
-    - target: {fileID: 452049204964233192, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 302
-      objectReference: {fileID: 0}
-    - target: {fileID: 475886389758747040, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 66
-      objectReference: {fileID: 0}
-    - target: {fileID: 483859818675208627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 316
-      objectReference: {fileID: 0}
-    - target: {fileID: 484188224170713975, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 244
-      objectReference: {fileID: 0}
-    - target: {fileID: 505720017400943283, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 250 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 549799741498745468, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 351
-      objectReference: {fileID: 0}
-    - target: {fileID: 581202948775844434, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 348
-      objectReference: {fileID: 0}
-    - target: {fileID: 647712691406853432, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 334
-      objectReference: {fileID: 0}
-    - target: {fileID: 682177224438497659, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 152
-      objectReference: {fileID: 0}
-    - target: {fileID: 782897317901715739, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 344
-      objectReference: {fileID: 0}
-    - target: {fileID: 821308640761691506, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 885993667001967997, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 328
-      objectReference: {fileID: 0}
-    - target: {fileID: 891667045296985536, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 355
-      objectReference: {fileID: 0}
-    - target: {fileID: 897983171153259379, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building  1 Waste Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 970219615256517938, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 59
-      objectReference: {fileID: 0}
-    - target: {fileID: 1002756863717372151, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 221 - Simulator Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 1058200635331922851, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 124A
-      objectReference: {fileID: 0}
-    - target: {fileID: 1140227928228265224, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 145 - Elevator
-      objectReference: {fileID: 0}
-    - target: {fileID: 1229295385109036154, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 41
-      objectReference: {fileID: 0}
-    - target: {fileID: 1247011030351618448, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 110
-      objectReference: {fileID: 0}
-    - target: {fileID: 1254800314759962297, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 251
-      objectReference: {fileID: 0}
-    - target: {fileID: 1295383589851690244, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 312
-      objectReference: {fileID: 0}
-    - target: {fileID: 1310359425236071843, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 304
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352151669207578446, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 39
-      objectReference: {fileID: 0}
-    - target: {fileID: 1367734592680086509, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 116
-      objectReference: {fileID: 0}
-    - target: {fileID: 1405861856284727018, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 326
-      objectReference: {fileID: 0}
-    - target: {fileID: 1457684690965590054, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 329
-      objectReference: {fileID: 0}
-    - target: {fileID: 1508715513466326339, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 226
-      objectReference: {fileID: 0}
-    - target: {fileID: 1551893360319781061, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 242
-      objectReference: {fileID: 0}
-    - target: {fileID: 1586226848610485559, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 130
-      objectReference: {fileID: 0}
-    - target: {fileID: 1598482561848335310, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 111
-      objectReference: {fileID: 0}
-    - target: {fileID: 1716516516492229679, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 225
-      objectReference: {fileID: 0}
-    - target: {fileID: 1731330398508287813, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 202
-      objectReference: {fileID: 0}
-    - target: {fileID: 1805974802956759665, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 206 - Skill Lab
-      objectReference: {fileID: 0}
-    - target: {fileID: 1813356011465479358, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 1935378344813739587, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 1979553095716034700, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 62
-      objectReference: {fileID: 0}
-    - target: {fileID: 2004496108080808349, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 333
-      objectReference: {fileID: 0}
-    - target: {fileID: 2012426015548159795, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 123
-      objectReference: {fileID: 0}
-    - target: {fileID: 2041729787545161356, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 338
-      objectReference: {fileID: 0}
-    - target: {fileID: 2048365344392874298, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 229 - Elevator
-      objectReference: {fileID: 0}
-    - target: {fileID: 2091622084284862249, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 327
-      objectReference: {fileID: 0}
-    - target: {fileID: 2097108033082697654, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 332
-      objectReference: {fileID: 0}
-    - target: {fileID: 2122706555270921223, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 28
-      objectReference: {fileID: 0}
-    - target: {fileID: 2162739439618896935, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building  18
-      objectReference: {fileID: 0}
-    - target: {fileID: 2186988382788460459, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 241
-      objectReference: {fileID: 0}
-    - target: {fileID: 2206951761858959087, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 347
-      objectReference: {fileID: 0}
-    - target: {fileID: 2218046586476753007, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 343
-      objectReference: {fileID: 0}
-    - target: {fileID: 2246989730287762130, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 120
-      objectReference: {fileID: 0}
-    - target: {fileID: 2264487524686180621, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 58
-      objectReference: {fileID: 0}
-    - target: {fileID: 2530945230342419297, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2552886744758372674, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 40
-      objectReference: {fileID: 0}
-    - target: {fileID: 2576501225092161972, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 234
-      objectReference: {fileID: 0}
-    - target: {fileID: 2586228825637631669, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 233
-      objectReference: {fileID: 0}
-    - target: {fileID: 2691688162721599810, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 303
-      objectReference: {fileID: 0}
-    - target: {fileID: 2718931666846516100, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 119
-      objectReference: {fileID: 0}
-    - target: {fileID: 2859501366440239260, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 158
-      objectReference: {fileID: 0}
-    - target: {fileID: 2983240627556436969, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 54
-      objectReference: {fileID: 0}
-    - target: {fileID: 2995230816988275365, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 231
-      objectReference: {fileID: 0}
-    - target: {fileID: 3036767424165468259, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 141
-      objectReference: {fileID: 0}
-    - target: {fileID: 3083078419475827641, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building  1 Lounge
-      objectReference: {fileID: 0}
-    - target: {fileID: 3091254806419115238, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 148
-      objectReference: {fileID: 0}
-    - target: {fileID: 3099270961635538483, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 309 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 3156782625881112145, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 156
-      objectReference: {fileID: 0}
-    - target: {fileID: 3163720306372419102, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 336
-      objectReference: {fileID: 0}
-    - target: {fileID: 3235269424654582571, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 322
-      objectReference: {fileID: 0}
-    - target: {fileID: 3248589178998554151, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 331
-      objectReference: {fileID: 0}
-    - target: {fileID: 3299207695575144281, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 247
-      objectReference: {fileID: 0}
-    - target: {fileID: 3385702239653665491, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 339 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 3392019490057505366, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 3401608490937183795, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 153
-      objectReference: {fileID: 0}
-    - target: {fileID: 3424421060110476214, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 126
-      objectReference: {fileID: 0}
-    - target: {fileID: 3473531341543736367, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 3526803307586382676, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 51
-      objectReference: {fileID: 0}
-    - target: {fileID: 3632476589973514313, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 224
-      objectReference: {fileID: 0}
-    - target: {fileID: 3685482426936728626, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 115
-      objectReference: {fileID: 0}
-    - target: {fileID: 3697655231131562590, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 238
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721442369614150261, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 117
-      objectReference: {fileID: 0}
-    - target: {fileID: 3767324476452020799, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 163 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 3808178126016487000, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 248
-      objectReference: {fileID: 0}
-    - target: {fileID: 3830674117253605324, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 228
-      objectReference: {fileID: 0}
-    - target: {fileID: 3872426050775237082, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 154
-      objectReference: {fileID: 0}
-    - target: {fileID: 3883616678351099964, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 42
-      objectReference: {fileID: 0}
-    - target: {fileID: 3918044651186178627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 53.22409
-      objectReference: {fileID: 0}
-    - target: {fileID: 3918044651186178627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 53.22409
-      objectReference: {fileID: 0}
-    - target: {fileID: 3918044651186178627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 53.22409
-      objectReference: {fileID: 0}
-    - target: {fileID: 3918044651186178627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 229.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3918044651186178627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 355
-      objectReference: {fileID: 0}
-    - target: {fileID: 3918044651186178627, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -367.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3966699293706302345, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building  13
-      objectReference: {fileID: 0}
-    - target: {fileID: 4004549902169015479, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 108
-      objectReference: {fileID: 0}
-    - target: {fileID: 4095567145397266878, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4130864772742184184, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 4140976191832289352, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 27
-      objectReference: {fileID: 0}
-    - target: {fileID: 4239907231741121862, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 223 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 4254558256231352151, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 227
-      objectReference: {fileID: 0}
-    - target: {fileID: 4257682550021336000, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 155
-      objectReference: {fileID: 0}
-    - target: {fileID: 4296469859167174492, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 33
-      objectReference: {fileID: 0}
-    - target: {fileID: 4665869663899207984, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 3rd Floor - Medical Self-help
-      objectReference: {fileID: 0}
-    - target: {fileID: 4677363294351656850, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: b236d1b53b7ad6b4bb37a6a748fa669e, type: 2}
-    - target: {fileID: 4687244358354697348, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 125
-      objectReference: {fileID: 0}
-    - target: {fileID: 4713836655398023016, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 201
-      objectReference: {fileID: 0}
-    - target: {fileID: 4734833551770057611, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 217
-      objectReference: {fileID: 0}
-    - target: {fileID: 4833977844965797249, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 166
-      objectReference: {fileID: 0}
-    - target: {fileID: 4863027415211927635, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 324
-      objectReference: {fileID: 0}
-    - target: {fileID: 4880859772180153786, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 249
-      objectReference: {fileID: 0}
-    - target: {fileID: 4960822507936335039, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 213 - Clean Zone
-      objectReference: {fileID: 0}
-    - target: {fileID: 4987522762251092267, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 32
-      objectReference: {fileID: 0}
-    - target: {fileID: 5064702924462065592, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 102
-      objectReference: {fileID: 0}
-    - target: {fileID: 5065863927987490625, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 160 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 5135555654300977051, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 345
-      objectReference: {fileID: 0}
-    - target: {fileID: 5173799356862042837, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 157
-      objectReference: {fileID: 0}
-    - target: {fileID: 5233785285043705760, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 44
-      objectReference: {fileID: 0}
     - target: {fileID: 5235683482892654339, guid: 3c86e9b5de361e544924eb7e702fe78c,
         type: 3}
       propertyPath: m_RootOrder
@@ -4418,420 +3813,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5272900046400761718, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 240
-      objectReference: {fileID: 0}
-    - target: {fileID: 5449532161679813522, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 311
-      objectReference: {fileID: 0}
-    - target: {fileID: 5469357903677774921, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 319
-      objectReference: {fileID: 0}
-    - target: {fileID: 5566837108940790223, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 353
-      objectReference: {fileID: 0}
-    - target: {fileID: 5608913242043763624, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 325
-      objectReference: {fileID: 0}
-    - target: {fileID: 5636382659174800712, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 220 - Debriefing Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 5788892123839911318, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 70 - Sports Storage
-      objectReference: {fileID: 0}
-    - target: {fileID: 5844761103064360614, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 356
-      objectReference: {fileID: 0}
-    - target: {fileID: 5854460899122897278, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 142
-      objectReference: {fileID: 0}
-    - target: {fileID: 5953263246912172051, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 337
-      objectReference: {fileID: 0}
-    - target: {fileID: 6042105839441536109, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 144
-      objectReference: {fileID: 0}
-    - target: {fileID: 6060564040429197724, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 1 Breakroom Cleaning Staff
-      objectReference: {fileID: 0}
-    - target: {fileID: 6071478669619453479, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 162
-      objectReference: {fileID: 0}
-    - target: {fileID: 6093668167693074464, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 131
-      objectReference: {fileID: 0}
-    - target: {fileID: 6101623190275583222, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 301
-      objectReference: {fileID: 0}
-    - target: {fileID: 6113300611235065839, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 354 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 6171585524400487576, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 22
-      objectReference: {fileID: 0}
-    - target: {fileID: 6195593377017714597, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 208 - Guard Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 6221701897084027213, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 222 - Debriefing Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 6223385394419140188, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 114
-      objectReference: {fileID: 0}
-    - target: {fileID: 6387071980674916157, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 349
-      objectReference: {fileID: 0}
-    - target: {fileID: 6439736104729340028, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 219 - Simulator Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 6570365454644803303, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 341
-      objectReference: {fileID: 0}
-    - target: {fileID: 6582688777969064383, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 314
-      objectReference: {fileID: 0}
-    - target: {fileID: 6587180865319350868, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 323
-      objectReference: {fileID: 0}
-    - target: {fileID: 6617427561794968853, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 357
-      objectReference: {fileID: 0}
-    - target: {fileID: 6643088694351517043, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 159
-      objectReference: {fileID: 0}
-    - target: {fileID: 6677687025108017592, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 43
-      objectReference: {fileID: 0}
     - target: {fileID: 6776402740842726444, guid: 3c86e9b5de361e544924eb7e702fe78c,
         type: 3}
       propertyPath: m_Name
       value: 3DCampusBuildings 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6928102849058247489, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 246
-      objectReference: {fileID: 0}
-    - target: {fileID: 6952875626406178482, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 129
-      objectReference: {fileID: 0}
-    - target: {fileID: 6969655192535635874, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 239
-      objectReference: {fileID: 0}
-    - target: {fileID: 6971613118592127974, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 315
-      objectReference: {fileID: 0}
-    - target: {fileID: 6994616148954854026, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 335
-      objectReference: {fileID: 0}
-    - target: {fileID: 7052181717260462933, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 151
-      objectReference: {fileID: 0}
-    - target: {fileID: 7143047491474109858, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 305
-      objectReference: {fileID: 0}
-    - target: {fileID: 7246456751458144672, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 330
-      objectReference: {fileID: 0}
-    - target: {fileID: 7261053250186903257, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 127
-      objectReference: {fileID: 0}
-    - target: {fileID: 7321191357818243615, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 318
-      objectReference: {fileID: 0}
-    - target: {fileID: 7342271168560526342, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 340
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376647765946171754, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 210
-      objectReference: {fileID: 0}
-    - target: {fileID: 7469452028030510983, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 218
-      objectReference: {fileID: 0}
-    - target: {fileID: 7541142901564778877, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 212
-      objectReference: {fileID: 0}
-    - target: {fileID: 7567049426629822716, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 313
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579552845324460504, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 17
-      objectReference: {fileID: 0}
-    - target: {fileID: 7589665948997352709, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building  161 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 7590747808671610901, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 346
-      objectReference: {fileID: 0}
-    - target: {fileID: 7611795270193336434, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 237
-      objectReference: {fileID: 0}
-    - target: {fileID: 7662031274623033198, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 245 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 7749112837408422091, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 7758432597475487122, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 236
-      objectReference: {fileID: 0}
-    - target: {fileID: 7827163379704866185, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 307
-      objectReference: {fileID: 0}
-    - target: {fileID: 7836567645047940128, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 342
-      objectReference: {fileID: 0}
-    - target: {fileID: 7843076274101103553, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 149
-      objectReference: {fileID: 0}
-    - target: {fileID: 7954131515915522538, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 2nd Floor - Medical Self-Help
-      objectReference: {fileID: 0}
-    - target: {fileID: 7971008247614813724, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 215 - Skill Lab
-      objectReference: {fileID: 0}
-    - target: {fileID: 8060696340228366552, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 143
-      objectReference: {fileID: 0}
-    - target: {fileID: 8100029788141097718, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 306
-      objectReference: {fileID: 0}
-    - target: {fileID: 8113078467160037167, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 321
-      objectReference: {fileID: 0}
-    - target: {fileID: 8133205935286649177, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 118
-      objectReference: {fileID: 0}
-    - target: {fileID: 8184765751894363572, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 101
-      objectReference: {fileID: 0}
-    - target: {fileID: 8236929267637659130, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 164
-      objectReference: {fileID: 0}
-    - target: {fileID: 8255315962729500877, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 128
-      objectReference: {fileID: 0}
-    - target: {fileID: 8319015787539943954, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 112
-      objectReference: {fileID: 0}
-    - target: {fileID: 8336021452404097452, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 113
-      objectReference: {fileID: 0}
-    - target: {fileID: 8395312720302021499, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 216
-      objectReference: {fileID: 0}
-    - target: {fileID: 8451852240908416494, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 29
-      objectReference: {fileID: 0}
-    - target: {fileID: 8520172500264076294, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 232
-      objectReference: {fileID: 0}
-    - target: {fileID: 8532088591539843388, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 352 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 8614625053317352269, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 243
-      objectReference: {fileID: 0}
-    - target: {fileID: 8651939793359724497, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 308
-      objectReference: {fileID: 0}
-    - target: {fileID: 8697123344835216791, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 350 - Auditorium
-      objectReference: {fileID: 0}
-    - target: {fileID: 8697260474539743479, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 8807390591260201929, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 207 - Skill Lab
-      objectReference: {fileID: 0}
-    - target: {fileID: 8816759021155264691, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 63
-      objectReference: {fileID: 0}
-    - target: {fileID: 8823139557006160387, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 37
-      objectReference: {fileID: 0}
-    - target: {fileID: 8859614816751274286, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 310
-      objectReference: {fileID: 0}
-    - target: {fileID: 8881126241373466272, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 209 - Medications Room
-      objectReference: {fileID: 0}
-    - target: {fileID: 8974380131035506300, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 67 - HLR Lab
-      objectReference: {fileID: 0}
-    - target: {fileID: 8999827901483315628, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 317
-      objectReference: {fileID: 0}
-    - target: {fileID: 9087263885813337774, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 9154422651690933771, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 320
-      objectReference: {fileID: 0}
-    - target: {fileID: 9216816706904361940, guid: 3c86e9b5de361e544924eb7e702fe78c,
-        type: 3}
-      propertyPath: m_Name
-      value: Main Building 210 - Skill Lab
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c86e9b5de361e544924eb7e702fe78c, type: 3}
@@ -5449,7 +4434,7 @@ GameObject:
   m_Component:
   - component: {fileID: 254287072}
   m_Layer: 0
-  m_Name: Ho338
+  m_Name: Main Building 338
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5480,7 +4465,7 @@ GameObject:
   m_Component:
   - component: {fileID: 255746952}
   m_Layer: 0
-  m_Name: Ho211
+  m_Name: Main Building 211
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5542,7 +4527,7 @@ GameObject:
   m_Component:
   - component: {fileID: 274074654}
   m_Layer: 0
-  m_Name: Ho327
+  m_Name: Main Building 327
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5714,7 +4699,7 @@ GameObject:
   m_Component:
   - component: {fileID: 280805488}
   m_Layer: 0
-  m_Name: Ho28
+  m_Name: Main Building 28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5745,7 +4730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 283786192}
   m_Layer: 0
-  m_Name: Ho22
+  m_Name: Main Building 22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5776,7 +4761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 295934289}
   m_Layer: 0
-  m_Name: Ho356
+  m_Name: Main Building 356
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5807,7 +4792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 295972655}
   m_Layer: 0
-  m_Name: Ho29
+  m_Name: Main Building 29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5864,9 +4849,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -1966}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &298740358
@@ -6105,7 +5090,7 @@ GameObject:
   m_Component:
   - component: {fileID: 309900264}
   m_Layer: 0
-  m_Name: Ho208 - Guard Room
+  m_Name: Main Building 208 - Guard Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6136,7 +5121,7 @@ GameObject:
   m_Component:
   - component: {fileID: 312770607}
   m_Layer: 0
-  m_Name: Ho108
+  m_Name: Main Building 108
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6905,7 +5890,7 @@ GameObject:
   m_Component:
   - component: {fileID: 356371128}
   m_Layer: 0
-  m_Name: Ho148
+  m_Name: Main Building 148
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7202,7 +6187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 391932093}
   m_Layer: 0
-  m_Name: Ho161 - Auditorium
+  m_Name: Main Building 161 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7418,7 +6403,7 @@ GameObject:
   m_Component:
   - component: {fileID: 399485504}
   m_Layer: 0
-  m_Name: Ho355
+  m_Name: Main Building 355
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7731,7 +6716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 428803493}
   m_Layer: 0
-  m_Name: Ho334
+  m_Name: Main Building 334
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7762,7 +6747,7 @@ GameObject:
   m_Component:
   - component: {fileID: 433437834}
   m_Layer: 0
-  m_Name: Ho41
+  m_Name: Main Building 41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7793,7 +6778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 437111863}
   m_Layer: 0
-  m_Name: Ho151
+  m_Name: Main Building 151
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7897,7 +6882,7 @@ GameObject:
   m_Component:
   - component: {fileID: 442085305}
   m_Layer: 0
-  m_Name: Ho328
+  m_Name: Main Building 328
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7928,7 +6913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 443140704}
   m_Layer: 0
-  m_Name: Ho51
+  m_Name: Main Building 51
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8006,7 +6991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 459027142}
   m_Layer: 0
-  m_Name: Ho59
+  m_Name: Main Building 59
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8110,7 +7095,7 @@ GameObject:
   m_Component:
   - component: {fileID: 460920031}
   m_Layer: 0
-  m_Name: Ho14
+  m_Name: Main Building 14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8286,7 +7271,7 @@ GameObject:
   m_Component:
   - component: {fileID: 462256201}
   m_Layer: 0
-  m_Name: Ho237
+  m_Name: Main Building 237
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8502,7 +7487,7 @@ GameObject:
   m_Component:
   - component: {fileID: 469059545}
   m_Layer: 0
-  m_Name: Ho157
+  m_Name: Main Building 157
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8580,7 +7565,7 @@ GameObject:
   m_Component:
   - component: {fileID: 475017457}
   m_Layer: 0
-  m_Name: Ho314
+  m_Name: Main Building 314
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8611,7 +7596,7 @@ GameObject:
   m_Component:
   - component: {fileID: 475203303}
   m_Layer: 0
-  m_Name: Ho339 - Auditorium
+  m_Name: Main Building 339 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8736,7 +7721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 480809164}
   m_Layer: 0
-  m_Name: Ho222 - Debriefing Room
+  m_Name: Main Building 222 - Debriefing Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8767,7 +7752,7 @@ GameObject:
   m_Component:
   - component: {fileID: 484559223}
   m_Layer: 0
-  m_Name: Ho304
+  m_Name: Main Building 304
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8892,7 +7877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 495837971}
   m_Layer: 0
-  m_Name: Ho249
+  m_Name: Main Building 249
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9001,7 +7986,7 @@ GameObject:
   m_Component:
   - component: {fileID: 501254319}
   m_Layer: 0
-  m_Name: Ho216
+  m_Name: Main Building 216
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9170,7 +8155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 503074268}
   m_Layer: 0
-  m_Name: Ho229 - Elevator
+  m_Name: Main Building 229 - Elevator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9274,9 +8259,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -186}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &517285201
@@ -9540,7 +8525,7 @@ GameObject:
   m_Component:
   - component: {fileID: 526236015}
   m_Layer: 0
-  m_Name: Ho215 - Skill Lab
+  m_Name: Main Building 215 - Skill Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9673,9 +8658,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -542}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &538193497
@@ -9794,7 +8779,7 @@ GameObject:
   m_Component:
   - component: {fileID: 543562783}
   m_Layer: 0
-  m_Name: Ho223 - Auditorium
+  m_Name: Main Building 223 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9961,7 +8946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 546935819}
   m_Layer: 0
-  m_Name: Ho160 - Auditorium
+  m_Name: Main Building 160 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10065,9 +9050,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -2144}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &551346359
@@ -10218,7 +9203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 559317155}
   m_Layer: 0
-  m_Name: Ho203
+  m_Name: Main Building 203
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10249,7 +9234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 567550772}
   m_Layer: 0
-  m_Name: Ho62
+  m_Name: Main Building 62
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10280,7 +9265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 568742462}
   m_Layer: 0
-  m_Name: Ho354 - Auditorium
+  m_Name: Main Building 354 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10337,9 +9322,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -1610}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &569862312
@@ -10458,7 +9443,7 @@ GameObject:
   m_Component:
   - component: {fileID: 571917106}
   m_Layer: 0
-  m_Name: Ho166
+  m_Name: Main Building 166
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10489,7 +9474,7 @@ GameObject:
   m_Component:
   - component: {fileID: 575936205}
   m_Layer: 0
-  m_Name: Ho7
+  m_Name: Main Building 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10520,7 +9505,7 @@ GameObject:
   m_Component:
   - component: {fileID: 579057901}
   m_Layer: 0
-  m_Name: Ho319
+  m_Name: Main Building 319
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10551,7 +9536,7 @@ GameObject:
   m_Component:
   - component: {fileID: 580130146}
   m_Layer: 0
-  m_Name: Ho218
+  m_Name: Main Building 218
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10670,7 +9655,7 @@ GameObject:
   m_Component:
   - component: {fileID: 592787275}
   m_Layer: 0
-  m_Name: Ho102
+  m_Name: Main Building 102
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10701,7 +9686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 593748516}
   m_Layer: 0
-  m_Name: Ho226
+  m_Name: Main Building 226
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10779,7 +9764,7 @@ GameObject:
   m_Component:
   - component: {fileID: 596511383}
   m_Layer: 0
-  m_Name: Ho155
+  m_Name: Main Building 155
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10969,7 +9954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 607103006}
   m_Layer: 0
-  m_Name: Ho353
+  m_Name: Main Building 353
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11098,7 +10083,7 @@ GameObject:
   m_Component:
   - component: {fileID: 619114963}
   m_Layer: 0
-  m_Name: Ho342
+  m_Name: Main Building 342
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11348,7 +10333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 624797147}
   m_Layer: 0
-  m_Name: Ho324
+  m_Name: Main Building 324
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11379,7 +10364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 626432310}
   m_Layer: 0
-  m_Name: Ho18
+  m_Name: Main Building 18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11436,9 +10421,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -1432}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &628997603
@@ -11636,7 +10621,7 @@ GameObject:
   m_Component:
   - component: {fileID: 642291462}
   m_Layer: 0
-  m_Name: Ho44
+  m_Name: Main Building 44
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11751,7 +10736,7 @@ GameObject:
   m_Component:
   - component: {fileID: 654505242}
   m_Layer: 0
-  m_Name: Ho311
+  m_Name: Main Building 311
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11905,7 +10890,7 @@ GameObject:
   m_Component:
   - component: {fileID: 672856211}
   m_Layer: 0
-  m_Name: Ho124A
+  m_Name: Main Building  124A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11983,7 +10968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 676272432}
   m_Layer: 0
-  m_Name: Ho122
+  m_Name: Main Building 122
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12014,7 +10999,7 @@ GameObject:
   m_Component:
   - component: {fileID: 679460363}
   m_Layer: 0
-  m_Name: Ho131
+  m_Name: Main Building 131
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12136,7 +11121,7 @@ GameObject:
   m_Component:
   - component: {fileID: 701226194}
   m_Layer: 0
-  m_Name: Ho352 - Auditorium
+  m_Name: Main Building 352 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12390,7 +11375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 715830575}
   m_Layer: 0
-  m_Name: Ho118
+  m_Name: Main Building 118
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12949,9 +11934,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -898}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &732297883
@@ -13070,7 +12055,7 @@ GameObject:
   m_Component:
   - component: {fileID: 733340426}
   m_Layer: 0
-  m_Name: Ho150
+  m_Name: Main Building 150
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13101,7 +12086,7 @@ GameObject:
   m_Component:
   - component: {fileID: 739715294}
   m_Layer: 0
-  m_Name: Ho329
+  m_Name: Main Building 329
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13639,7 +12624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 770389229}
   m_Layer: 0
-  m_Name: Ho345
+  m_Name: Main Building 345
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13774,9 +12759,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -3390}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &773326877
@@ -13895,7 +12880,7 @@ GameObject:
   m_Component:
   - component: {fileID: 777747253}
   m_Layer: 0
-  m_Name: Ho201
+  m_Name: Main Building 201
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14108,7 +13093,7 @@ GameObject:
   m_Component:
   - component: {fileID: 780748533}
   m_Layer: 0
-  m_Name: Ho303
+  m_Name: Main Building 303
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14241,7 +13226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 784895767}
   m_Layer: 0
-  m_Name: Ho125
+  m_Name: Main Building 125
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14272,7 +13257,7 @@ GameObject:
   m_Component:
   - component: {fileID: 785227167}
   m_Layer: 0
-  m_Name: Ho309 - Auditorium
+  m_Name: Main Building 309 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63589,7 +62574,7 @@ GameObject:
   m_Component:
   - component: {fileID: 816373864}
   m_Layer: 0
-  m_Name: Ho330
+  m_Name: Main Building 330
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63917,7 +62902,7 @@ GameObject:
   m_Component:
   - component: {fileID: 829962661}
   m_Layer: 0
-  m_Name: Ho322
+  m_Name: Main Building 322
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65066,7 +64051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 884024208}
   m_Layer: 0
-  m_Name: Ho321
+  m_Name: Main Building 321
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65280,7 +64265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 894163635}
   m_Layer: 0
-  m_Name: Ho241
+  m_Name: Main Building 241
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65465,7 +64450,7 @@ GameObject:
   m_Component:
   - component: {fileID: 908299388}
   m_Layer: 0
-  m_Name: Ho109
+  m_Name: Main Building 109
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65528,7 +64513,7 @@ GameObject:
   m_Component:
   - component: {fileID: 921253779}
   m_Layer: 0
-  m_Name: Ho246
+  m_Name: Main Building 246
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65559,7 +64544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 922535851}
   m_Layer: 0
-  m_Name: Ho233
+  m_Name: Main Building 233
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65637,7 +64622,7 @@ GameObject:
   m_Component:
   - component: {fileID: 923106471}
   m_Layer: 0
-  m_Name: Ho221 - Simulator Room
+  m_Name: Main Building 221 - Simulator Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65668,7 +64653,7 @@ GameObject:
   m_Component:
   - component: {fileID: 925502415}
   m_Layer: 0
-  m_Name: Ho63
+  m_Name: Main Building 63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65699,7 +64684,7 @@ GameObject:
   m_Component:
   - component: {fileID: 927994946}
   m_Layer: 0
-  m_Name: Ho164
+  m_Name: Main Building 164
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65944,9 +64929,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -720}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &944453255
@@ -66566,7 +65551,7 @@ GameObject:
   m_Component:
   - component: {fileID: 977831610}
   m_Layer: 0
-  m_Name: Ho310
+  m_Name: Main Building 310
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67023,7 +66008,7 @@ GameObject:
   m_Component:
   - component: {fileID: 991768777}
   m_Layer: 0
-  m_Name: Ho153
+  m_Name: Main Building 153
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67054,7 +66039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 993111963}
   m_Layer: 0
-  m_Name: Ho340
+  m_Name: Main Building 340
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67085,7 +66070,7 @@ GameObject:
   m_Component:
   - component: {fileID: 998397259}
   m_Layer: 0
-  m_Name: Ho121
+  m_Name: Main Building 121
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67418,12 +66403,12 @@ PrefabInstance:
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -67438,12 +66423,12 @@ PrefabInstance:
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443681042164, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -68933,9 +67918,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -1788}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1016517132
@@ -69195,7 +68180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1025888124}
   m_Layer: 0
-  m_Name: Ho124B
+  m_Name: Main Building 124B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69497,7 +68482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1041402326}
   m_Layer: 0
-  m_Name: Ho209 - Medications Room
+  m_Name: Main Building 209 - Medications Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69528,7 +68513,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1047051738}
   m_Layer: 0
-  m_Name: Ho217
+  m_Name: Main Building 217
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70046,7 +69031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1099953459}
   m_Layer: 0
-  m_Name: Ho316
+  m_Name: Main Building 316
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70247,7 +69232,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1117101653}
   m_Layer: 0
-  m_Name: Ho123
+  m_Name: Main Building 123
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70325,7 +69310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1121152267}
   m_Layer: 0
-  m_Name: Ho227
+  m_Name: Main Building 227
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70959,7 +69944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1136592262}
   m_Layer: 0
-  m_Name: Ho351
+  m_Name: Main Building 351
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70990,7 +69975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1143207105}
   m_Layer: 0
-  m_Name: Ho119
+  m_Name: Main Building 119
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71021,7 +70006,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1150211887}
   m_Layer: 0
-  m_Name: Ho245 - Auditorium
+  m_Name: Main Building 245 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71188,7 +70173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1153045860}
   m_Layer: 0
-  m_Name: Ho313
+  m_Name: Main Building 313
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71266,7 +70251,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1168059638}
   m_Layer: 0
-  m_Name: Ho347
+  m_Name: Main Building 347
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71323,9 +70308,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -1254}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1180833571
@@ -71450,7 +70435,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1184341207}
   m_Layer: 0
-  m_Name: Ho4
+  m_Name: Main Building 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71481,7 +70466,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1185218214}
   m_Layer: 0
-  m_Name: Ho231
+  m_Name: Main Building 231
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71512,7 +70497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1187231747}
   m_Layer: 0
-  m_Name: Ho234
+  m_Name: Main Building 234
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71679,7 +70664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1190271395}
   m_Layer: 0
-  m_Name: Ho308
+  m_Name: Main Building 308
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71757,7 +70742,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1202642374}
   m_Layer: 0
-  m_Name: Ho111
+  m_Name: Main Building 111
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71911,7 +70896,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1210947132}
   m_Layer: 0
-  m_Name: Ho12
+  m_Name: Main Building 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72078,7 +71063,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1211929451}
   m_Layer: 0
-  m_Name: Ho141
+  m_Name: Main Building 141
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72336,7 +71321,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1225045307}
   m_Layer: 0
-  m_Name: Ho152
+  m_Name: Main Building 152
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72598,7 +71583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1234131855}
   m_Layer: 0
-  m_Name: Ho247
+  m_Name: Main Building 247
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -72629,7 +71614,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1242101405}
   m_Layer: 0
-  m_Name: Ho305
+  m_Name: Main Building 305
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73045,7 +72030,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1258604079}
   m_Layer: 0
-  m_Name: Ho244
+  m_Name: Main Building 244
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73374,7 +72359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1271465052}
   m_Layer: 0
-  m_Name: Ho346
+  m_Name: Main Building 346
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73411,7 +72396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1295694916}
   m_Layer: 0
-  m_Name: Ho42
+  m_Name: Main Building 42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73468,9 +72453,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -3034}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1303282542
@@ -73589,7 +72574,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1303653192}
   m_Layer: 0
-  m_Name: Ho101
+  m_Name: Main Building 101
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73620,7 +72605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1307379802}
   m_Layer: 0
-  m_Name: Ho228
+  m_Name: Main Building 228
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73698,7 +72683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1312032609}
   m_Layer: 0
-  m_Name: Ho110
+  m_Name: Main Building 110
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73810,7 +72795,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1313544678}
   m_Layer: 0
-  m_Name: Ho27
+  m_Name: Main Building 27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74356,7 +73341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1325001746}
   m_Layer: 0
-  m_Name: Ho-1 Waste Room
+  m_Name: Main Building 1st Floor - Waste Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74434,7 +73419,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1339642559}
   m_Layer: 0
-  m_Name: Ho357
+  m_Name: Main Building 357
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74465,7 +73450,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1348190326}
   m_Layer: 0
-  m_Name: Ho350 - Auditorium
+  m_Name: Main Building 350 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74769,7 +73754,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1356784498}
   m_Layer: 0
-  m_Name: Ho+3 - Medical Self-help
+  m_Name: Main Building 3rd Floor - Medical Self-help
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74873,9 +73858,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -2322}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1363693768
@@ -74994,7 +73979,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1365999052}
   m_Layer: 0
-  m_Name: Ho331
+  m_Name: Main Building 331
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75104,7 +74089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1372422124}
   m_Layer: 0
-  m_Name: Ho70 - Sports Storage
+  m_Name: Main Building 70 - Sports Storage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75348,7 +74333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1388711938}
   m_Layer: 0
-  m_Name: Ho318
+  m_Name: Main Building 318
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75379,7 +74364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1391361476}
   m_Layer: 0
-  m_Name: Ho336
+  m_Name: Main Building 336
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75639,7 +74624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1404489345}
   m_Layer: 0
-  m_Name: Ho343
+  m_Name: Main Building 343
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75750,7 +74735,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1409119542}
   m_Layer: 0
-  m_Name: Ho116
+  m_Name: Main Building 116
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75793,7 +74778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1421357640}
   m_Layer: 0
-  m_Name: Ho127
+  m_Name: Main Building 127
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75824,7 +74809,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1434464078}
   m_Layer: 0
-  m_Name: Ho159
+  m_Name: Main Building 159
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75855,7 +74840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1452160335}
   m_Layer: 0
-  m_Name: Ho335
+  m_Name: Main Building 335
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76060,7 +75045,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1456384101}
   m_Layer: 0
-  m_Name: Ho-1 Breakroom Cleaning Staff
+  m_Name: Main Building 1 - Breakroom Cleaning Staff
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76227,7 +75212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1464429907}
   m_Layer: 0
-  m_Name: Ho333
+  m_Name: Main Building 333
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76522,7 +75507,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1475246505}
   m_Layer: 0
-  m_Name: Ho112
+  m_Name: Main Building 112
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76553,7 +75538,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1477664644}
   m_Layer: 0
-  m_Name: Ho240
+  m_Name: Main Building 240
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76584,7 +75569,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1503712254}
   m_Layer: 0
-  m_Name: Ho236
+  m_Name: Main Building 236
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76615,7 +75600,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1503867660}
   m_Layer: 0
-  m_Name: Ho13
+  m_Name: Main Building 13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76646,7 +75631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1510762516}
   m_Layer: 0
-  m_Name: Ho17
+  m_Name: Main Building 17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76730,7 +75715,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1529409024}
   m_Layer: 0
-  m_Name: Ho67 - HLR Lab
+  m_Name: Main Building 67 - HLR Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77222,7 +76207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1552871682}
   m_Layer: 0
-  m_Name: Ho225
+  m_Name: Main Building 225
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77933,7 +76918,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1586931719}
   m_Layer: 0
-  m_Name: Ho341
+  m_Name: Main Building 341
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78446,7 +77431,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1620343810}
   m_Layer: 0
-  m_Name: Ho57
+  m_Name: Main Building 57
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78477,7 +77462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1624835740}
   m_Layer: 0
-  m_Name: Ho54
+  m_Name: Main Building 54
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78508,7 +77493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1629866075}
   m_Layer: 0
-  m_Name: Ho145 - Elevator
+  m_Name: Main Building 145 - Elevator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78602,7 +77587,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1647268583}
   m_Layer: 0
-  m_Name: Ho6
+  m_Name: Main Building 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78709,7 +77694,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656505988}
   m_Layer: 0
-  m_Name: Ho39
+  m_Name: Main Building 39
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79188,7 +78173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1679115173}
   m_Layer: 0
-  m_Name: Ho337
+  m_Name: Main Building 337
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79219,7 +78204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1684385888}
   m_Layer: 0
-  m_Name: Ho251
+  m_Name: Main Building 251
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79250,7 +78235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1684435538}
   m_Layer: 0
-  m_Name: Ho213 - Clean Zone
+  m_Name: Main Building 213 - Clean Zone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79281,7 +78266,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1688226090}
   m_Layer: 0
-  m_Name: Ho214 - Skill Lab
+  m_Name: Main Building 214 - Skill Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79671,7 +78656,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1695339229}
   m_Layer: 0
-  m_Name: Ho144
+  m_Name: Main Building 144
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79876,7 +78861,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1711244218}
   m_Layer: 0
-  m_Name: Ho43
+  m_Name: Main Building 43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79954,7 +78939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1713886348}
   m_Layer: 0
-  m_Name: Ho129
+  m_Name: Main Building 129
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80079,7 +79064,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1721966797}
   m_Layer: 0
-  m_Name: Ho24
+  m_Name: Main Building 24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80122,7 +79107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1728736681}
   m_Layer: 0
-  m_Name: Ho326
+  m_Name: Main Building 326
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80289,7 +79274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1734227679}
   m_Layer: 0
-  m_Name: Ho66
+  m_Name: Main Building 66
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80487,9 +79472,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -364}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1758373208
@@ -80655,7 +79640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1763493300}
   m_Layer: 0
-  m_Name: Ho232
+  m_Name: Main Building 232
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80822,7 +79807,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1773242953}
   m_Layer: 0
-  m_Name: Ho210 - Skill Lab
+  m_Name: Main Building 210 - Skill Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81077,7 +80062,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1794415491}
   m_Layer: 0
-  m_Name: Ho220 - Debriefing Room
+  m_Name: Main Building 220 - Debriefing Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81423,7 +80408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1822508913}
   m_Layer: 0
-  m_Name: Ho1
+  m_Name: Main Building 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81770,7 +80755,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1856424053}
   m_Layer: 0
-  m_Name: Ho207 - Skill Lab
+  m_Name: Main Building 207 - Skill Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81895,7 +80880,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1867971726}
   m_Layer: 0
-  m_Name: Ho317
+  m_Name: Main Building 317
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81926,7 +80911,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1869786912}
   m_Layer: 0
-  m_Name: Ho344
+  m_Name: Main Building 344
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81957,7 +80942,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1870851505}
   m_Layer: 0
-  m_Name: Ho113
+  m_Name: Main Building 113
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81988,7 +80973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1872288544}
   m_Layer: 0
-  m_Name: Ho158
+  m_Name: Main Building 158
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82157,7 +81142,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1879972126}
   m_Layer: 0
-  m_Name: Ho+2 - Medical Self-Help
+  m_Name: Main Building 2nd Floor - Medical Self-Help
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82235,7 +81220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1886954176}
   m_Layer: 0
-  m_Name: Ho238
+  m_Name: Main Building 238
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82360,7 +81345,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1901601758}
   m_Layer: 0
-  m_Name: Ho8
+  m_Name: Main Building 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82659,7 +81644,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1926164565}
   m_Layer: 0
-  m_Name: Ho325
+  m_Name: Main Building 325
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82690,7 +81675,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1931186565}
   m_Layer: 0
-  m_Name: Ho235
+  m_Name: Main Building 235
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82935,7 +81920,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1954648933}
   m_Layer: 0
-  m_Name: Ho2
+  m_Name: Main Building 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83153,7 +82138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1980993236}
   m_Layer: 0
-  m_Name: Ho126
+  m_Name: Main Building 126
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83184,7 +82169,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1985838492}
   m_Layer: 0
-  m_Name: Ho301
+  m_Name: Main Building 301
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83215,7 +82200,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1986070803}
   m_Layer: 0
-  m_Name: Ho-1 Lounge
+  m_Name: Main Building 1 - Lounge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83246,7 +82231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1986459877}
   m_Layer: 0
-  m_Name: Ho202
+  m_Name: Main Building 202
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83277,7 +82262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1991277464}
   m_Layer: 0
-  m_Name: Ho163 - Auditorium
+  m_Name: Main Building 163 - Auditorium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83402,7 +82387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1994920478}
   m_Layer: 0
-  m_Name: Ho332
+  m_Name: Main Building 332
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83433,7 +82418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1994950233}
   m_Layer: 0
-  m_Name: Ho307
+  m_Name: Main Building 307
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83646,7 +82631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2007021929}
   m_Layer: 0
-  m_Name: Ho156
+  m_Name: Main Building 156
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83677,7 +82662,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2011158914}
   m_Layer: 0
-  m_Name: Ho114
+  m_Name: Main Building 114
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84078,7 +83063,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2028255212}
   m_Layer: 0
-  m_Name: Ho243
+  m_Name: Main Building 243
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84109,7 +83094,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2030339338}
   m_Layer: 0
-  m_Name: Ho224
+  m_Name: Main Building 224
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84285,7 +83270,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038173128}
   m_Layer: 0
-  m_Name: Ho149
+  m_Name: Main Building 149
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84316,7 +83301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2049072804}
   m_Layer: 0
-  m_Name: Ho312
+  m_Name: Main Building 312
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84373,9 +83358,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -3212}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &2051313556
@@ -84494,7 +83479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2053303343}
   m_Layer: 0
-  m_Name: Ho219 - Simulator Room
+  m_Name: Main Building 219 - Simulator Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84525,7 +83510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2054969142}
   m_Layer: 0
-  m_Name: Ho117
+  m_Name: Main Building 117
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84556,7 +83541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2063345204}
   m_Layer: 0
-  m_Name: Ho37
+  m_Name: Main Building 37
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84587,7 +83572,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2076696586}
   m_Layer: 0
-  m_Name: Ho40
+  m_Name: Main Building 40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84618,7 +83603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2079115373}
   m_Layer: 0
-  m_Name: Ho302
+  m_Name: Main Building 302
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84747,7 +83732,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2087343031}
   m_Layer: 0
-  m_Name: Ho320
+  m_Name: Main Building 320
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84778,7 +83763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2089286032}
   m_Layer: 0
-  m_Name: Ho143
+  m_Name: Main Building 143
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84809,7 +83794,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2103059340}
   m_Layer: 0
-  m_Name: Ho212
+  m_Name: Main Building 212
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85315,9 +84300,9 @@ RectTransform:
   m_Father: {fileID: 1003426464}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 540, y: -2500}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 952, y: 156}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &2125265494
@@ -85436,7 +84421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2125962636}
   m_Layer: 0
-  m_Name: Ho348
+  m_Name: Main Building 348
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -85565,7 +84550,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2129948984}
   m_Layer: 0
-  m_Name: Ho315
+  m_Name: Main Building 315
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
