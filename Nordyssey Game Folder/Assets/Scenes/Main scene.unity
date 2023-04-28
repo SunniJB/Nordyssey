@@ -3378,7 +3378,6 @@ GameObject:
   - component: {fileID: 316697741}
   - component: {fileID: 316697740}
   - component: {fileID: 316697739}
-  - component: {fileID: 316697738}
   m_Layer: 5
   m_Name: Language Settings Canvas
   m_TagString: Untagged
@@ -3386,25 +3385,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &316697738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316697737}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d33dc1e2325bfea4b9e0116d958d45de, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  help1: {fileID: 0}
-  help2: {fileID: 0}
-  help3: {fileID: 0}
-  helpBg: {fileID: 0}
-  languageSettings: {fileID: 0}
-  locationListScript: {fileID: 1854468871}
-  languageCanvasIsActivated: 0
 --- !u!114 &316697739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5580,7 +5560,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 979732808}
+      - m_Target: {fileID: 1588836016}
         m_TargetAssemblyTypeName: HelpCanvas, Assembly-CSharp
         m_MethodName: closeHelpCanvas
         m_Mode: 1
@@ -61618,33 +61598,13 @@ GameObject:
   - component: {fileID: 979732811}
   - component: {fileID: 979732810}
   - component: {fileID: 979732809}
-  - component: {fileID: 979732808}
   m_Layer: 5
   m_Name: Help Canvas - Norwegian
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &979732808
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 979732807}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d33dc1e2325bfea4b9e0116d958d45de, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  help1: {fileID: 1417540939}
-  help2: {fileID: 1111782389}
-  help3: {fileID: 498786997}
-  helpBg: {fileID: 2111917445}
-  languageSettings: {fileID: 316697737}
-  locationListScript: {fileID: 1854468871}
-  languageCanvasIsActivated: 0
+  m_IsActive: 1
 --- !u!114 &979732809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62129,7 +62089,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1732651770}
+      - m_Target: {fileID: 1588836016}
         m_TargetAssemblyTypeName: HelpCanvas, Assembly-CSharp
         m_MethodName: activateHelp2
         m_Mode: 1
@@ -63861,7 +63821,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 979732808}
+      - m_Target: {fileID: 1588836016}
         m_TargetAssemblyTypeName: HelpCanvas, Assembly-CSharp
         m_MethodName: activateHelp3
         m_Mode: 1
@@ -66209,7 +66169,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1732651770}
+      - m_Target: {fileID: 1588836016}
         m_TargetAssemblyTypeName: HelpCanvas, Assembly-CSharp
         m_MethodName: closeHelpCanvas
         m_Mode: 1
@@ -68762,7 +68722,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 979732808}
+      - m_Target: {fileID: 1588836016}
         m_TargetAssemblyTypeName: HelpCanvas, Assembly-CSharp
         m_MethodName: activateHelp2
         m_Mode: 1
@@ -70868,12 +70828,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d33dc1e2325bfea4b9e0116d958d45de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  help1: {fileID: 35219135}
-  help2: {fileID: 876039441}
-  help3: {fileID: 1591475960}
-  helpBg: {fileID: 1655178990}
+  engHelp1: {fileID: 35219135}
+  engHelp2: {fileID: 876039441}
+  engHelp3: {fileID: 1591475960}
+  engHelpBg: {fileID: 1655178990}
+  noHelp1: {fileID: 1417540939}
+  noHelp2: {fileID: 1111782389}
+  noHelp3: {fileID: 498786997}
+  noHelpBg: {fileID: 2111917445}
+  spaHelp1: {fileID: 1000185441}
+  spaHelp2: {fileID: 1843032257}
+  spaHelp3: {fileID: 1246280608}
+  spaHelpBg: {fileID: 1090883922}
   languageSettings: {fileID: 316697737}
   locationListScript: {fileID: 1854468871}
+  destinationManager: {fileID: 2027956304}
   languageCanvasIsActivated: 0
 --- !u!1 &1591475960
 GameObject:
@@ -72840,33 +72809,13 @@ GameObject:
   - component: {fileID: 1732651773}
   - component: {fileID: 1732651772}
   - component: {fileID: 1732651771}
-  - component: {fileID: 1732651770}
   m_Layer: 5
   m_Name: Help Canvas - Spanish
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1732651770
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1732651769}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d33dc1e2325bfea4b9e0116d958d45de, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  help1: {fileID: 1000185441}
-  help2: {fileID: 1843032257}
-  help3: {fileID: 1246280608}
-  helpBg: {fileID: 1090883922}
-  languageSettings: {fileID: 316697737}
-  locationListScript: {fileID: 1854468871}
-  languageCanvasIsActivated: 0
+  m_IsActive: 1
 --- !u!114 &1732651771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74118,7 +74067,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1732651770}
+      - m_Target: {fileID: 1588836016}
         m_TargetAssemblyTypeName: HelpCanvas, Assembly-CSharp
         m_MethodName: activateHelp3
         m_Mode: 1
