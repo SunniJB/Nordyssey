@@ -22,6 +22,13 @@ public class DestinationManager : MonoBehaviour
     public GameObject animationGroup;
 
     public ShowMessages sM;
+
+    public enum languages {
+        english,
+        norwegian,
+        spanish
+    }
+    public languages chosenLanguage = languages.english;
     //public Button button1;
 
 
@@ -71,15 +78,30 @@ public class DestinationManager : MonoBehaviour
     {
         foreach (Transform button in buttonsParent)
         {button.gameObject.SetActive(false);}
+        // chosenLanguage = languages.norwegian;
     }
 
-    
+    public void ChooseLanguage(int i)
+    {
+        switch (i)
+        {
+            case 0:
+                chosenLanguage = languages.english; break;
+            case 1:
+                chosenLanguage = languages.norwegian; break;
+            case 2:
+                chosenLanguage = languages.spanish; break;
+            case > 2:
+                Debug.LogError("Integer out of range!");
+                break;
+        }
+    }
 
     // The destination waypoint is moved to the Vector3 location when an entry is selected
     public void SwitchWaypoint(int des)
     {
         //arrow.waypoint.transform.position = destinations[des].position;
-        Debug.Log("Destination: " + destinations[des].name);
+        //Debug.Log("Destination: " + destinations[des].name);
         drawLineOnMinimap.SetTarget(destinations[des].position);
         pathfindingLineController.SetCurrentNavigationTarget(destinations[des]);
         pathfindingLineController.ToggleVisibility(true);
@@ -89,7 +111,7 @@ public class DestinationManager : MonoBehaviour
     public void SwitchWaypoint(Transform tran)
     {
         //arrow.waypoint.transform.position = tran.position;
-        Debug.Log("Destination: " + tran.name);
+        //Debug.Log("Destination: " + tran.name);
         drawLineOnMinimap.SetTarget(tran.position);
         pathfindingLineController.SetCurrentNavigationTarget(tran);
         pathfindingLineController.ToggleVisibility(true);
@@ -99,7 +121,7 @@ public class DestinationManager : MonoBehaviour
     public void SearchList(string input)
     {
         // Each waypoint will have a script that only exists to store the name of the-
-        // room in different languages. For now this will only be Norwegian and English.
+        // room in different languages. For now this will only be Norwegian, English and Spanish.
         // The script retrieves a reference to every single waypoint in the scene-
         // and does a comparison on their language appropriate name with the-
         // input from the input field.
@@ -109,7 +131,6 @@ public class DestinationManager : MonoBehaviour
 
         
         int desId = 0;
-
         
         foreach (Transform building in waypointsRoot)
         {
@@ -117,20 +138,53 @@ public class DestinationManager : MonoBehaviour
 
             foreach (Transform room in building)
             {
-                if (room.name.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
+                if (room.TryGetComponent<Alt_Languages>(out Alt_Languages altLang))
                 {
-                    if (desId > destinations.Length -1 || desId > buttonsParent.childCount -1)
-                    {return;} // For now we will only be able to display a limited number of options
-
-
-                    destinations[desId] = room;
-                    GameObject button = buttonsParent.GetChild(desId).gameObject;
-                    button.SetActive(true);
-                    button.transform.GetChild(0).GetComponent<TMP_Text>().text = room.name;
-                    if (room.TryGetComponent<Alt_Languages>(out Alt_Languages altLang))
+                    string comparisonName = 
+                    chosenLanguage switch
                     {
-                        //Debug.Log("Found Alternate Title");
-                        button.transform.GetChild(1).GetComponent<TMP_Text>().text = altLang.norwegian;
+                        languages.english => altLang.english,
+                        languages.norwegian => altLang.norwegian,
+                        languages.spanish => altLang.spanish
+                    };
+
+                    if (comparisonName.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
+                    {
+                        if (desId > destinations.Length -1 || desId > buttonsParent.childCount -1)
+                        {return;} // For now we will only be able to display a limited number of options
+
+                        destinations[desId] = room;
+                        GameObject button = buttonsParent.GetChild(desId).gameObject;
+                        button.SetActive(true);
+                        button.transform.GetChild(0).GetComponent<TMP_Text>().text = comparisonName;
+
+                        // If you are Norwegian, you probably want to know the english name
+                        // And if you are a different nationality, you probably want to know the norwegian name.
+                        button.transform.GetChild(1).gameObject.SetActive(true);
+                        button.transform.GetChild(1).GetComponent<TMP_Text>().text = chosenLanguage switch
+                        {
+                            languages.english => altLang.norwegian,
+                            languages.norwegian => altLang.english,
+                            languages.spanish => altLang.norwegian
+                        };
+                        
+                    }
+                    desId++;
+                }
+                else
+                {
+                    if (room.name.Contains(input, System.StringComparison.CurrentCultureIgnoreCase))
+                    {
+                        if (desId > destinations.Length -1 || desId > buttonsParent.childCount -1)
+                        {return;} // For now we will only be able to display a limited number of options
+
+                        destinations[desId] = room;
+                        GameObject button = buttonsParent.GetChild(desId).gameObject;
+                        button.SetActive(true);
+                        button.transform.GetChild(0).GetComponent<TMP_Text>().text = room.name;
+
+                        // There is no other name for this room, so displaying the secondary text is not necessary.
+                        button.transform.GetChild(1).gameObject.SetActive(false); 
                     }
                     desId++;
                 }

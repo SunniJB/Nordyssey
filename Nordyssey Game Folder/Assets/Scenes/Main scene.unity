@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -354,8 +354,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3101 - Kontor
   english: No 3101 - Office
+  norwegian: No 3101 - Kontor
   spanish: 
 --- !u!1 &12575937
 GameObject:
@@ -949,8 +949,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3116 A, B - Kontor
   english: No 3116 A, B - Office
+  norwegian: No 3116 A, B - Kontor
   spanish: 
 --- !u!1 &67155605
 GameObject:
@@ -1121,8 +1121,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.206 - Naturfag
   english: Ny 2.206 - Natural Sciences
+  norwegian: Ny 2.206 - Naturfag
   spanish: 
 --- !u!1 &115346487
 GameObject:
@@ -1231,8 +1231,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.215 - Kontor
   english: Ny 4.215 - Office
+  norwegian: Ny 4.215 - Kontor
   spanish: 
 --- !u!1 &123057760
 GameObject:
@@ -1528,8 +1528,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.208 - Seminarrom
   english: Ny 2.208 - Auditorium
+  norwegian: Ny 2.208 - Seminarrom
   spanish: 
 --- !u!1 &152612661
 GameObject:
@@ -1805,8 +1805,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny - Daniel Mortenssonsalen
   english: Ny - Daniel Mortensson Auditorium
+  norwegian: Ny - Daniel Mortenssonsalen
   spanish: 
 --- !u!1 &170581418
 GameObject:
@@ -1852,8 +1852,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.201 - Kontor
   english: Ny 3.201 - Office
+  norwegian: Ny 3.201 - Kontor
   spanish: 
 --- !u!1 &171410702
 GameObject:
@@ -2132,8 +2132,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.115 - Kontor
   english: Ny 1.115 - Office
+  norwegian: Ny 1.115 - Kontor
   spanish: 
 --- !u!1 &190041726
 GameObject:
@@ -2279,8 +2279,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3208 - Kontor
   english: No 3208 - Office
+  norwegian: No 3208 - Kontor
   spanish: 
 --- !u!1 &195099682
 GameObject:
@@ -2357,8 +2357,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3201 - Kontor
   english: No 3201 - Office
+  norwegian: No 3201 - Kontor
   spanish: 
 --- !u!1 &204133709
 GameObject:
@@ -2599,8 +2599,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.203 - Kontor
   english: Ny 4.203 - Office
+  norwegian: Ny 4.203 - Kontor
   spanish: 
 --- !u!1 &242491871
 GameObject:
@@ -2744,8 +2744,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.230 - Kontor
   english: Ny 4.230 - Office
+  norwegian: Ny 4.230 - Kontor
   spanish: 
 --- !u!1 &254287071
 GameObject:
@@ -2915,8 +2915,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3110 - Kontor
   english: No 3110 - Office
+  norwegian: No 3110 - Kontor
   spanish: 
 --- !u!1 &276801002
 GameObject:
@@ -2962,8 +2962,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3212 - Kontor
   english: No 3212 - Office
+  norwegian: No 3212 - Kontor
   spanish: 
 --- !u!1 &278860168
 GameObject:
@@ -3009,8 +3009,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.122 - Musikk
   english: Ny 3.122 - Music
+  norwegian: Ny 3.122 - Musikk
   spanish: 
 --- !u!1 &280805487
 GameObject:
@@ -3253,8 +3253,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.116 - Kontor
   english: Ny 1.116 - Office
+  norwegian: Ny 1.116 - Kontor
   spanish: 
 --- !u!1 &309900263
 GameObject:
@@ -3337,7 +3337,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &316697738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3356,6 +3356,7 @@ MonoBehaviour:
   helpBg: {fileID: 0}
   languageSettings: {fileID: 0}
   locationListScript: {fileID: 1854468871}
+  languageCanvasIsActivated: 0
 --- !u!114 &316697739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3429,9 +3430,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1917835226}
-  - {fileID: 1807854459}
-  - {fileID: 1415359478}
+  - {fileID: 1502284481}
   m_Father: {fileID: 0}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3484,8 +3483,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.225 - Kontor
   english: Ny 4.225 - Office
+  norwegian: Ny 4.225 - Kontor
   spanish: 
 --- !u!1 &347882320
 GameObject:
@@ -3531,8 +3530,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.112 - Kontor
   english: Ny 1.112 - Office
+  norwegian: Ny 1.112 - Kontor
   spanish: 
 --- !u!1 &352501736
 GameObject:
@@ -4004,8 +4003,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3202 - Kontor
   english: No 3202 - Office
+  norwegian: No 3202 - Kontor
   spanish: 
 --- !u!1 &399485503
 GameObject:
@@ -4082,8 +4081,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3213 - Kontor
   english: No 3213 - Office
+  norwegian: No 3213 - Kontor
   spanish: 
 --- !u!1 &405765777
 GameObject:
@@ -4129,8 +4128,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.221 - Kontor
   english: Ny 4.221 - Office
+  norwegian: Ny 4.221 - Kontor
   spanish: 
 --- !u!1 &415653293
 GameObject:
@@ -4176,8 +4175,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.225 - Kontor
   english: Ny 3.225 - Office
+  norwegian: Ny 3.225 - Kontor
   spanish: 
 --- !u!1 &416833249
 GameObject:
@@ -4223,8 +4222,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny Stille Lesesal
   english: Ny Silent Reading Hall
+  norwegian: Ny Stille Lesesal
   spanish: 
 --- !u!1 &417472635
 GameObject:
@@ -4270,8 +4269,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny Grupperom 4
   english: Ny Group Room 4
+  norwegian: Ny Grupperom 4
   spanish: 
 --- !u!1 &419422289
 GameObject:
@@ -4317,8 +4316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.202 - Kontor
   english: Ny 4.202 - Office
+  norwegian: Ny 4.202 - Kontor
   spanish: 
 --- !u!1 &428803492
 GameObject:
@@ -4592,8 +4591,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.206 - Kontor
   english: Ny 4.206 - Office
+  norwegian: Ny 4.206 - Kontor
   spanish: 
 --- !u!1 &459027141
 GameObject:
@@ -4774,8 +4773,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.230 - Okkenhaugsalen
   english: Ny 3.230 - Okkenhaug Auditorium
+  norwegian: Ny 3.230 - Okkenhaugsalen
   spanish: 
 --- !u!1 &462094929
 GameObject:
@@ -4950,8 +4949,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 1215 - Seminarrom
   english: No 1215 - Auditorium
+  norwegian: No 1215 - Seminarrom
   spanish: 
 --- !u!1 &469059544
 GameObject:
@@ -5028,8 +5027,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3211 - Kontor
   english: No 3211 - Office
+  norwegian: No 3211 - Kontor
   spanish: 
 --- !u!1 &475017456
 GameObject:
@@ -5137,8 +5136,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.209 - Lytterom
   english: Ny 3.209 - Listening Room
+  norwegian: Ny 3.209 - Lytterom
   spanish: 
 --- !u!1 &479105735
 GameObject:
@@ -5184,8 +5183,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3113 - Kontor
   english: No 3113 - Office
+  norwegian: No 3113 - Kontor
   spanish: 
 --- !u!1 &480809163
 GameObject:
@@ -5293,8 +5292,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3215 - Kontor
   english: No 3215 - Office
+  norwegian: No 3215 - Kontor
   spanish: 
 --- !u!1 &494931831
 GameObject:
@@ -5340,8 +5339,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3217 - Kontor
   english: No 3217 - Office
+  norwegian: No 3217 - Kontor
   spanish: 
 --- !u!1 &495837970
 GameObject:
@@ -5418,8 +5417,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.214 - Kontor
   english: Ny 4.214 - Office
+  norwegian: Ny 4.214 - Kontor
   spanish: 
 --- !u!1 &500904481
 GameObject:
@@ -5558,8 +5557,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Ny 3.203 - \xD8vingsrom 2"
   english: Ny 3.203 - Practice Room 2
+  norwegian: "Ny 3.203 - \xD8vingsrom 2"
   spanish: 
 --- !u!1 &524771471
 GameObject:
@@ -5605,8 +5604,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.224 - Kontor
   english: Ny 4.224 - Office
+  norwegian: Ny 4.224 - Kontor
   spanish: 
 --- !u!1 &526023989
 GameObject:
@@ -6055,8 +6054,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny Lesesal
   english: Ny Reading Hall
+  norwegian: Ny Lesesal
   spanish: 
 --- !u!1 &551792961
 GameObject:
@@ -6501,8 +6500,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3108 - Kontor
   english: No 3108 - Office
+  norwegian: No 3108 - Kontor
   spanish: 
 --- !u!1 &596511382
 GameObject:
@@ -6611,8 +6610,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3102 - Kontor
   english: No 3102 - Office
+  norwegian: No 3102 - Kontor
   spanish: 
 --- !u!1 &607017274
 GameObject:
@@ -6898,8 +6897,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.219 - Kontor
   english: Ny 4.219 - Office
+  norwegian: Ny 4.219 - Kontor
   spanish: 
 --- !u!1 &620916919
 GameObject:
@@ -7179,8 +7178,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.213 - Kontor
   english: Ny 4.213 - Office
+  norwegian: Ny 4.213 - Kontor
   spanish: 
 --- !u!1 &634641056
 GameObject:
@@ -7404,8 +7403,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny - Oransjesalen
   english: Ny - Orange Auditorium
+  norwegian: Ny - Oransjesalen
   spanish: 
 --- !u!1 &662397759
 GameObject:
@@ -7558,8 +7557,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3106 - Kontor
   english: No 3106 - Office
+  norwegian: No 3106 - Kontor
   spanish: 
 --- !u!1 &676272431
 GameObject:
@@ -7789,8 +7788,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.201 - Kontor
   english: Ny 4.201 - Office
+  norwegian: Ny 4.201 - Kontor
   spanish: 
 --- !u!1 &703266249
 GameObject:
@@ -7836,8 +7835,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3216 - Kontor
   english: No 3216 - Office
+  norwegian: No 3216 - Kontor
   spanish: 
 --- !u!1 &708313973
 GameObject:
@@ -7965,8 +7964,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3111 - Kontor
   english: No 3111 - Office
+  norwegian: No 3111 - Kontor
   spanish: 
 --- !u!1 &715830574
 GameObject:
@@ -8043,8 +8042,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 1115 - Kontor
   english: No 1115 - Office
+  norwegian: No 1115 - Kontor
   spanish: 
 --- !u!1 &723450968
 GameObject:
@@ -8224,8 +8223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3131-3132 - Kontor
   english: No 3131-3132 - Office
+  norwegian: No 3131-3132 - Kontor
   spanish: 
 --- !u!1 &733340425
 GameObject:
@@ -8406,8 +8405,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3115 A, B, C, D - Kontor
   english: No 3115 A, B, C, D - Office
+  norwegian: No 3115 A, B, C, D - Kontor
   spanish: 
 --- !u!1 &744730227
 GameObject:
@@ -8453,8 +8452,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.205 - Kontor
   english: Ny 4.205 - Office
+  norwegian: Ny 4.205 - Kontor
   spanish: 
 --- !u!1 &748013486
 GameObject:
@@ -8902,8 +8901,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.216 - Kontor
   english: Ny 4.216 - Office
+  norwegian: Ny 4.216 - Kontor
   spanish: 
 --- !u!1 &777747252
 GameObject:
@@ -8980,8 +8979,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.209 - Kontor
   english: Ny 4.209 - Office
+  norwegian: Ny 4.209 - Kontor
   spanish: 
 --- !u!1 &780529295
 GameObject:
@@ -58455,8 +58454,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.228 - Kontor
   english: Ny 4.228 - Office
+  norwegian: Ny 4.228 - Kontor
   spanish: 
 --- !u!1 &799510256
 GameObject:
@@ -58502,8 +58501,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.235 - Grupperom
   english: Ny 4.235 - Group Room
+  norwegian: Ny 4.235 - Grupperom
   spanish: 
 --- !u!1 &808803926
 GameObject:
@@ -58549,8 +58548,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.218 - Kontor
   english: Ny 4.218 - Office
+  norwegian: Ny 4.218 - Kontor
   spanish: 
 --- !u!1 &811165448
 GameObject:
@@ -58596,8 +58595,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.206 - Kontor
   english: Ny 3.206 - Office
+  norwegian: Ny 3.206 - Kontor
   spanish: 
 --- !u!1 &816373863
 GameObject:
@@ -58810,8 +58809,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.101 - Tegnesal
   english: Ny 3.101 - Drawing Room
+  norwegian: Ny 3.101 - Tegnesal
   spanish: 
 --- !u!1 &824150286
 GameObject:
@@ -58924,8 +58923,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.105 - Seminarrom
   english: Ny 2.105 - Auditorium
+  norwegian: Ny 2.105 - Seminarrom
   spanish: 
 --- !u!1 &829962660
 GameObject:
@@ -59571,8 +59570,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Nyl\xE5na Servicetorg"
   english: "Nyl\xE5na Service Hub"
+  norwegian: "Nyl\xE5na Servicetorg"
   spanish: 
 --- !u!1 &876039441
 GameObject:
@@ -60015,8 +60014,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.117 - Kontor
   english: Ny 1.117 - Office
+  norwegian: Ny 1.117 - Kontor
   spanish: 
 --- !u!1 &893236294
 GameObject:
@@ -60229,8 +60228,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.104 - Keramikkrom
   english: Ny 3.104 - Pottery Room
+  norwegian: Ny 3.104 - Keramikkrom
   spanish: 
 --- !u!1 &903537022
 GameObject:
@@ -60336,8 +60335,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.210 - Lyd og Opptak
   english: Ny 3.210 - Sound and Recording
+  norwegian: Ny 3.210 - Lyd og Opptak
   spanish: 
 --- !u!1 &908299387
 GameObject:
@@ -60508,8 +60507,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3220 - Kontor
   english: No 3220 - Office
+  norwegian: No 3220 - Kontor
   spanish: 
 --- !u!1 &923106470
 GameObject:
@@ -60648,8 +60647,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.113 - Kontor
   english: Ny 1.113 - Office
+  norwegian: Ny 1.113 - Kontor
   spanish: 
 --- !u!1 &937272196
 GameObject:
@@ -60695,8 +60694,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.208 - Kontor
   english: Ny 4.208 - Office
+  norwegian: Ny 4.208 - Kontor
   spanish: 
 --- !u!1 &940861962
 GameObject:
@@ -60742,8 +60741,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3219 - Kontor
   english: No 3219 - Office
+  norwegian: No 3219 - Kontor
   spanish: 
 --- !u!1 &942625561
 GameObject:
@@ -60789,8 +60788,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.224 - Kontor
   english: Ny 3.224 - Office
+  norwegian: Ny 3.224 - Kontor
   spanish: 
 --- !u!1 &946472033
 GameObject:
@@ -60873,8 +60872,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.106 - Seminarrom
   english: Ny 2.106 - Auditorium
+  norwegian: Ny 2.106 - Seminarrom
   spanish: 
 --- !u!1 &952019150
 GameObject:
@@ -61000,8 +60999,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.210 - Kontor
   english: Ny 4.210 - Office
+  norwegian: Ny 4.210 - Kontor
   spanish: 
 --- !u!1 &962892487
 GameObject:
@@ -61230,8 +61229,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny - Rosasalen
   english: Ny - Pink Auditorium
+  norwegian: Ny - Rosasalen
   spanish: 
 --- !u!1 &981052831
 GameObject:
@@ -61277,8 +61276,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.201 - Datasal 1
   english: Ny 2.201 - Datalab 1
+  norwegian: Ny 2.201 - Datasal 1
   spanish: 
 --- !u!1 &981357794
 GameObject:
@@ -61613,8 +61612,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3206 - Kontor
   english: No 3206 - Office
+  norwegian: No 3206 - Kontor
   spanish: 
 --- !u!1001 &1003426463
 PrefabInstance:
@@ -61625,19 +61624,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 61877305, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 61877305, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 61877305, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 61877305, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2856
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 61877306, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61645,19 +61644,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 81335749, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 81335749, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 81335749, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 81335749, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1076
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 81335750, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61665,19 +61664,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 188490008, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 188490008, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 188490008, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 188490008, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2678
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 188490009, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61685,19 +61684,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 298740357, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 298740357, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 298740357, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 298740357, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1966
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 298740358, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61705,19 +61704,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 517285200, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 517285200, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 517285200, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 517285200, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -186
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 517285201, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61725,19 +61724,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 538193496, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 538193496, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 538193496, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 538193496, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -542
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 538193497, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61745,19 +61744,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 551346358, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 551346358, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 551346358, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 551346358, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2144
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 551346359, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61765,19 +61764,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 569862311, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 569862311, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 569862311, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 569862311, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1610
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 569862312, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61785,19 +61784,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 628997602, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 628997602, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 628997602, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 628997602, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1432
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 628997603, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61805,19 +61804,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 732297882, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 732297882, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 732297882, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 732297882, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -898
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 732297883, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61825,19 +61824,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 773326876, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 773326876, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 773326876, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 773326876, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -3390
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 773326877, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61845,19 +61844,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 944453254, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 944453254, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 944453254, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 944453254, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -720
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 944453255, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61873,19 +61872,19 @@ PrefabInstance:
       objectReference: {fileID: 1554299795}
     - target: {fileID: 1016517131, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1016517131, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1016517131, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1016517131, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1788
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1016517132, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61893,19 +61892,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 1180833570, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1180833570, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1180833570, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1180833570, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1254
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1180833571, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61913,19 +61912,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 1303282541, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1303282541, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1303282541, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1303282541, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -3034
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1303282542, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61933,19 +61932,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 1363693767, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1363693767, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1363693767, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1363693767, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2322
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1363693768, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61977,19 +61976,19 @@ PrefabInstance:
       objectReference: {fileID: 1554299795}
     - target: {fileID: 1758373207, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1758373207, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1758373207, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1758373207, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -364
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1758373208, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -61997,19 +61996,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 2051313555, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2051313555, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2051313555, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2051313555, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -3212
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2051313556, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -62017,19 +62016,19 @@ PrefabInstance:
       objectReference: {fileID: 2027956304}
     - target: {fileID: 2125265493, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2125265493, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2125265493, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2125265493, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2500
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2125265494, guid: 66695b26e1393b740a93456ef4ebc5cd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -62043,22 +62042,22 @@ PrefabInstance:
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 540
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443478323388, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1829162443681042164, guid: 66695b26e1393b740a93456ef4ebc5cd,
         type: 3}
@@ -62259,8 +62258,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3131 - Kontor
   english: No 3131 - Office
+  norwegian: No 3131 - Kontor
   spanish: 
 --- !u!1 &1018409195
 GameObject:
@@ -62306,8 +62305,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.204 - Seminarrom
   english: Ny 2.204 - Auditorium
+  norwegian: Ny 2.204 - Seminarrom
   spanish: 
 --- !u!1 &1019753987
 GameObject:
@@ -62353,8 +62352,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.220 - Kontor
   english: Ny 4.220 - Office
+  norwegian: Ny 4.220 - Kontor
   spanish: 
 --- !u!1 &1020720033
 GameObject:
@@ -62400,8 +62399,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.119 - Kontor
   english: Ny 1.119 - Office
+  norwegian: Ny 1.119 - Kontor
   spanish: 
 --- !u!1 &1025888123
 GameObject:
@@ -63057,8 +63056,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Toaletter
   english: Bathrooms
+  norwegian: Toaletter
   spanish: 
 --- !u!1 &1113412757
 GameObject:
@@ -63180,8 +63179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3112 - Kontor
   english: No 3112 - Office
+  norwegian: No 3112 - Kontor
   spanish: 
 --- !u!1 &1117101652
 GameObject:
@@ -63258,8 +63257,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny Grupperom 3
   english: Ny Group Room 3
+  norwegian: Ny Grupperom 3
   spanish: 
 --- !u!1 &1121152266
 GameObject:
@@ -63860,8 +63859,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.118 - Kontor
   english: Ny 1.118 - Office
+  norwegian: Ny 1.118 - Kontor
   spanish: 
 --- !u!1 &1132541380
 GameObject:
@@ -64199,8 +64198,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.222 - Kontor
   english: Ny 4.222 - Office
+  norwegian: Ny 4.222 - Kontor
   spanish: 
 --- !u!1 &1168059637
 GameObject:
@@ -64376,8 +64375,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3130 - Kontor
   english: No 3130 - Office
+  norwegian: No 3130 - Kontor
   spanish: 
 --- !u!1 &1189302888
 GameObject:
@@ -64543,8 +64542,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3203 - Kontor
   english: No 3203 - Office
+  norwegian: No 3203 - Kontor
   spanish: 
 --- !u!1 &1202642373
 GameObject:
@@ -64697,8 +64696,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Ny M\xF8terom 2"
   english: Ny Meeting Room 2
+  norwegian: "Ny M\xF8terom 2"
   spanish: 
 --- !u!1 &1210947131
 GameObject:
@@ -64838,8 +64837,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3218 - Kontor
   english: No 3218 - Office
+  norwegian: No 3218 - Kontor
   spanish: 
 --- !u!1 &1225045306
 GameObject:
@@ -65053,8 +65052,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.205 - Seminarrom
   english: Ny 2.205 - Auditorium
+  norwegian: Ny 2.205 - Seminarrom
   spanish: 
 --- !u!1 &1232607967
 GameObject:
@@ -65100,8 +65099,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3219 - Kontor
   english: No 3219 - Office
+  norwegian: No 3219 - Kontor
   spanish: 
 --- !u!1 &1234131854
 GameObject:
@@ -65209,8 +65208,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.205 - Kontor
   english: Ny 3.205 - Office
+  norwegian: Ny 3.205 - Kontor
   spanish: 
 --- !u!1 &1244296111
 GameObject:
@@ -65256,8 +65255,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.212 - Kontor
   english: Ny 4.212 - Office
+  norwegian: Ny 4.212 - Kontor
   spanish: 
 --- !u!1 &1246484376
 GameObject:
@@ -65915,8 +65914,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.231 - Kontor
   english: Ny 4.231 - Office
+  norwegian: Ny 4.231 - Kontor
   spanish: 
 --- !u!1 &1312032608
 GameObject:
@@ -66513,8 +66512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 1116 - Datasal
   english: No 1116 - Datalab
+  norwegian: No 1116 - Datasal
   spanish: 
 --- !u!1 &1339642558
 GameObject:
@@ -66788,8 +66787,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.223 - Kontor
   english: Ny 3.223 - Office
+  norwegian: Ny 3.223 - Kontor
   spanish: 
 --- !u!1 &1365999051
 GameObject:
@@ -66898,8 +66897,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.207 - Kontor
   english: Ny 4.207 - Office
+  norwegian: Ny 4.207 - Kontor
   spanish: 
 --- !u!1 &1372422123
 GameObject:
@@ -67115,8 +67114,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.217 - Kontor
   english: Ny 4.217 - Office
+  norwegian: Ny 4.217 - Kontor
   spanish: 
 --- !u!1 &1401713089
 GameObject:
@@ -67468,18 +67467,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1415359477}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 316697742}
+  m_Father: {fileID: 1502284481}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.25, y: 0.25}
   m_AnchorMax: {x: 0.75, y: 0.35}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -128}
+  m_SizeDelta: {x: 288, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1415359479
 MonoBehaviour:
@@ -67524,7 +67523,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1415359480}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2027956304}
+        m_TargetAssemblyTypeName: DestinationManager, Assembly-CSharp
+        m_MethodName: ChooseLanguage
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 316697737}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1415359480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67936,8 +67959,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 1217 - Seminarrom
   english: No 1217 - Auditorium
+  norwegian: No 1217 - Seminarrom
   spanish: 
 --- !u!1 &1464597114
 GameObject:
@@ -68218,6 +68241,85 @@ Transform:
   m_Father: {fileID: 380241695}
   m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1502284480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1502284481}
+  - component: {fileID: 1502284483}
+  - component: {fileID: 1502284482}
+  m_Layer: 5
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1502284481
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502284480}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1917835226}
+  - {fileID: 1807854459}
+  - {fileID: 1415359478}
+  m_Father: {fileID: 316697742}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.2, y: 0.2}
+  m_AnchorMax: {x: 0.8, y: 0.7}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1502284482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502284480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.9019608}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1502284483
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502284480}
+  m_CullTransparentMesh: 1
 --- !u!1 &1503712253
 GameObject:
   m_ObjectHideFlags: 0
@@ -68361,8 +68463,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Kantine
   english: Cafeteria
+  norwegian: Kantine
   spanish: 
 --- !u!1 &1529409023
 GameObject:
@@ -68439,8 +68541,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.204 - Kontor
   english: Ny 3.204 - Office
+  norwegian: Ny 3.204 - Kontor
   spanish: 
 --- !u!1 &1534822932
 GameObject:
@@ -68486,8 +68588,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3204 - Kontor
   english: No 3204 - Office
+  norwegian: No 3204 - Kontor
   spanish: 
 --- !u!1 &1535979735
 GameObject:
@@ -68853,8 +68955,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3105 - Kontor
   english: No 3105 - Office
+  norwegian: No 3105 - Kontor
   spanish: 
 --- !u!1 &1552871681
 GameObject:
@@ -69077,8 +69179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.104 - Seminarrom
   english: Ny 2.104 - Auditorium
+  norwegian: Ny 2.104 - Seminarrom
   spanish: 
 --- !u!1 &1564054534
 GameObject:
@@ -69156,8 +69258,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.223 - Kontor
   english: Ny 4.223 - Office
+  norwegian: Ny 4.223 - Kontor
   spanish: 
 --- !u!1 &1577676990
 GameObject:
@@ -69447,6 +69549,7 @@ MonoBehaviour:
   helpBg: {fileID: 1655178990}
   languageSettings: {fileID: 316697737}
   locationListScript: {fileID: 1854468871}
+  languageCanvasIsActivated: 0
 --- !u!1 &1591475960
 GameObject:
   m_ObjectHideFlags: 0
@@ -69624,8 +69727,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Ny 3.207 - \xD8vingsrom 4"
   english: Ny 3.207 - Practice Room 4
+  norwegian: "Ny 3.207 - \xD8vingsrom 4"
   spanish: 
 --- !u!1 &1598536930
 GameObject:
@@ -70133,8 +70236,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 2.202 - Datasal 2
   english: Ny 2.202 - Datalab 2
+  norwegian: Ny 2.202 - Datasal 2
   spanish: 
 --- !u!1 &1663873700
 GameObject:
@@ -70705,8 +70808,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 1113 - Seminarrom
   english: No 1113 - Auditorium
+  norwegian: No 1113 - Seminarrom
   spanish: 
 --- !u!1 &1692619001
 GameObject:
@@ -71037,8 +71140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.226 - Kontor
   english: Ny 3.226 - Office
+  norwegian: Ny 3.226 - Kontor
   spanish: 
 --- !u!1 &1704818929
 GameObject:
@@ -71084,8 +71187,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Ny 3.202 - \xD8vingsrom 1"
   english: Ny 3.202 - Practice Room 1
+  norwegian: "Ny 3.202 - \xD8vingsrom 1"
   spanish: 
 --- !u!1 &1711244217
 GameObject:
@@ -71162,8 +71265,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.111 - Kontor
   english: Ny 1.111 - Office
+  norwegian: Ny 1.111 - Kontor
   spanish: 
 --- !u!1 &1713886347
 GameObject:
@@ -71240,8 +71343,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3209 - Kontor
   english: No 3209 - Office
+  norwegian: No 3209 - Kontor
   spanish: 
 --- !u!1 &1720088702
 GameObject:
@@ -71287,8 +71390,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3214 A, B, C, D - Kontor
   english: No 3214 A, B, C, D - Office
+  norwegian: No 3214 A, B, C, D - Kontor
   spanish: 
 --- !u!1 &1721966796
 GameObject:
@@ -71427,8 +71530,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 1.114 - Kontor
   english: Ny 1.114 - Office
+  norwegian: Ny 1.114 - Kontor
   spanish: 
 --- !u!1 &1752539397
 GameObject:
@@ -71474,8 +71577,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Ny 3.208 - \xD8vingsrom 3"
   english: Ny 3.208 - Practice Room 3
+  norwegian: "Ny 3.208 - \xD8vingsrom 3"
   spanish: 
 --- !u!1 &1756072565
 GameObject:
@@ -71521,8 +71624,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3103 - Kontor
   english: No 3103 - Office
+  norwegian: No 3103 - Kontor
   spanish: 
 --- !u!1 &1761453376
 GameObject:
@@ -71568,8 +71671,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "Ny - Bl\xE5salen"
   english: Ny - Blue Auditorium
+  norwegian: "Ny - Bl\xE5salen"
   spanish: 
 --- !u!1 &1763493299
 GameObject:
@@ -71854,8 +71957,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3104 - Kontor
   english: No 3104 - Office
+  norwegian: No 3104 - Kontor
   spanish: 
 --- !u!1 &1794415490
 GameObject:
@@ -72044,18 +72147,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1807854458}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 316697742}
+  m_Father: {fileID: 1502284481}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.25, y: 0.4}
   m_AnchorMax: {x: 0.75, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 64}
+  m_SizeDelta: {x: 288, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1807854460
 MonoBehaviour:
@@ -72100,7 +72203,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1807854461}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2027956304}
+        m_TargetAssemblyTypeName: DestinationManager, Assembly-CSharp
+        m_MethodName: ChooseLanguage
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 316697737}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1807854461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72183,8 +72310,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3210 - Kontor
   english: No 3210 - Office
+  norwegian: No 3210 - Kontor
   spanish: 
 --- !u!1 &1822508912
 GameObject:
@@ -72261,8 +72388,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny Grupperom 2
   english: Ny Group Room 2
+  norwegian: Ny Grupperom 2
   spanish: 
 --- !u!1 &1830055203
 GameObject:
@@ -72308,8 +72435,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 1114 - Seminarrom
   english: No 1114 - Auditorium
+  norwegian: No 1114 - Seminarrom
   spanish: 
 --- !u!1 &1842877682
 GameObject:
@@ -72608,8 +72735,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.227 - Kontor
   english: Ny 3.227 - Office
+  norwegian: Ny 3.227 - Kontor
   spanish: 
 --- !u!1 &1864840404
 GameObject:
@@ -72655,8 +72782,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.232 - Kontor
   english: Ny 4.232 - Office
+  norwegian: Ny 4.232 - Kontor
   spanish: 
 --- !u!1 &1867971725
 GameObject:
@@ -72857,8 +72984,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 3.228 - Kontor
   english: Ny 3.228 - Office
+  norwegian: Ny 3.228 - Kontor
   spanish: 
 --- !u!1 &1886954175
 GameObject:
@@ -72935,8 +73062,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.226 - Kontor
   english: Ny 4.226 - Office
+  norwegian: Ny 4.226 - Kontor
   spanish: 
 --- !u!1 &1899451831
 GameObject:
@@ -72982,8 +73109,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny Grupperom 1
   english: Ny Group Room 1
+  norwegian: Ny Grupperom 1
   spanish: 
 --- !u!1 &1901601757
 GameObject:
@@ -73060,8 +73187,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.211 - Kontor
   english: Ny 4.211 - Office
+  norwegian: Ny 4.211 - Kontor
   spanish: 
 --- !u!1 &1906159880
 GameObject:
@@ -73107,8 +73234,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: "No 1220 - Te-kj\xF8kken"
   english: No 1220 - Tea-kitchen
+  norwegian: "No 1220 - Te-kj\xF8kken"
   spanish: 
 --- !u!1 &1911022442
 GameObject:
@@ -73212,18 +73339,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1917835225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 316697742}
+  m_Father: {fileID: 1502284481}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.25, y: 0.55}
   m_AnchorMax: {x: 0.75, y: 0.65}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 256}
+  m_SizeDelta: {x: 288, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1917835227
 MonoBehaviour:
@@ -73268,7 +73395,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1917835228}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2027956304}
+        m_TargetAssemblyTypeName: DestinationManager, Assembly-CSharp
+        m_MethodName: ChooseLanguage
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 316697737}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1917835228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73864,8 +74015,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3205 - Kontor
   english: No 3205 - Office
+  norwegian: No 3205 - Kontor
   spanish: 
 --- !u!1 &1980906927
 GameObject:
@@ -74098,8 +74249,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny - Storsalen
   english: Ny - Big Auditorium
+  norwegian: Ny - Storsalen
   spanish: 
 --- !u!1 &1994818417
 GameObject:
@@ -74145,8 +74296,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.227 - Kontor
   english: Ny 4.227 - Office
+  norwegian: Ny 4.227 - Kontor
   spanish: 
 --- !u!1 &1994920477
 GameObject:
@@ -74254,8 +74405,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.204 - Kontor
   english: Ny 4.204 - Office
+  norwegian: Ny 4.204 - Kontor
   spanish: 
 --- !u!1 &2001352866
 GameObject:
@@ -74498,8 +74649,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: No 3109 - Kontor
   english: No 3109 - Office
+  norwegian: No 3109 - Kontor
   spanish: 
 --- !u!1 &2027809022
 GameObject:
@@ -74784,6 +74935,7 @@ MonoBehaviour:
   pathfindingLineController: {fileID: 1122526626}
   animationGroup: {fileID: 1616929091}
   sM: {fileID: 651590593}
+  chosenLanguage: 0
 --- !u!114 &2027956305
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75028,8 +75180,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d8fe3f363239234282e180c37ffa994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  norwegian: Ny 4.229 - Kontor
   english: Ny 4.229 - Office
+  norwegian: Ny 4.229 - Kontor
   spanish: 
 --- !u!1 &2038173127
 GameObject:

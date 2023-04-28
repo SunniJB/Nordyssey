@@ -6,8 +6,8 @@ public class Alt_Languages : MonoBehaviour
 {
 
 public string 
-norwegian,
 english,
+norwegian,
 spanish;
 
 }
