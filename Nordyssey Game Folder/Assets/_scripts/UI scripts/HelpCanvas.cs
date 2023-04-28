@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class HelpCanvas : MonoBehaviour
 {
-        public GameObject help1, help2, help3, helpBg;
+        public GameObject help1, help2, help3, helpBg, languageSettings;
         public LocationListScript locationListScript;
+        public bool languageCanvasIsActivated;
 
 
         public void activateHelp1()
@@ -35,5 +36,20 @@ public class HelpCanvas : MonoBehaviour
             help3.SetActive(false);
             helpBg.SetActive(false);
         }   
+
+        public void activateLanguageCanvas()
+        {
+            languageSettings.SetActive(true);
+            languageCanvasIsActivated = true;
+        }
+
+        public void closeLanguageCanvas()
+        {
+        if (languageCanvasIsActivated == true)
+            {
+            languageSettings.SetActive(false);
+            languageCanvasIsActivated = false;
+        }
+        }
 }
 
