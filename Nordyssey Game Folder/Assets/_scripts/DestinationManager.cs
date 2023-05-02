@@ -167,9 +167,9 @@ public class DestinationManager : MonoBehaviour
                             languages.norwegian => altLang.english,
                             languages.spanish => altLang.norwegian
                         };
-                        
+                        desId++;  
                     }
-                    desId++;
+                    
                 }
                 else
                 {
@@ -185,8 +185,9 @@ public class DestinationManager : MonoBehaviour
 
                         // There is no other name for this room, so displaying the secondary text is not necessary.
                         button.transform.GetChild(1).gameObject.SetActive(false); 
+                        desId++;
                     }
-                    desId++;
+                    
                 }
             }
         }
