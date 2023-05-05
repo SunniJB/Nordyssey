@@ -61,7 +61,7 @@ public class SetNavigationtarget : MonoBehaviour
     {
         targetPosition = Vector3.zero;
         line.enabled = lineToggle = false;
-        sM.ShowMessage("Destination Reached! :D", 2f);
+        sM.ShowMessage("Destination Reached! :D", 2f, Color.white);
     }
 
     public void ToggleVisibility(bool t)

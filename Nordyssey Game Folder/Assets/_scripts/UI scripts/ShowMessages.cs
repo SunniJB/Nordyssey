@@ -16,10 +16,11 @@ public class ShowMessages : MonoBehaviour
         HideMessage();
     }
 
-    public void ShowMessage(string message, float duration)
+    public void ShowMessage(string message, float duration, Color c)
     {
         messageBackground.gameObject.SetActive(true);
         messageText.text = message;
+        messageText.color = c;
         Invoke ("HideMessage", duration);
     }
 

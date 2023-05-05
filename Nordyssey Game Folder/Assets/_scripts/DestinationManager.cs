@@ -29,6 +29,7 @@ public class DestinationManager : MonoBehaviour
         spanish
     }
     public languages chosenLanguage = languages.english;
+    public Transform chosenTarget;
     //public Button button1;
 
 
@@ -105,7 +106,8 @@ public class DestinationManager : MonoBehaviour
         drawLineOnMinimap.SetTarget(destinations[des].position);
         pathfindingLineController.SetCurrentNavigationTarget(destinations[des]);
         pathfindingLineController.ToggleVisibility(true);
-        sM.ShowMessage("Current Destination: " + destinations[des].name, 2f);
+        sM.ShowMessage("Current Destination: " + destinations[des].name, 2f, Color.white);
+        chosenTarget = destinations[des];
     }
 
     public void SwitchWaypoint(Transform tran)
@@ -115,7 +117,8 @@ public class DestinationManager : MonoBehaviour
         drawLineOnMinimap.SetTarget(tran.position);
         pathfindingLineController.SetCurrentNavigationTarget(tran);
         pathfindingLineController.ToggleVisibility(true);
-        sM.ShowMessage("Current Destination: " + tran.name, 2f);
+        sM.ShowMessage("Current Destination: " + tran.name, 2f, Color.white);
+        chosenTarget = tran;
     }
 
     public void SearchList(string input)
