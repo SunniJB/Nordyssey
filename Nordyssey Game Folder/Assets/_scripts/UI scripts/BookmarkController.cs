@@ -10,6 +10,7 @@ public class BookmarkController : MonoBehaviour
     public Transform roomWaypointsRoot;
     public ShowMessages sM;
     public Transform bookmarkButtonsParent;
+    private bool cActive;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +21,8 @@ public class BookmarkController : MonoBehaviour
             bookmarkButtonsParent.GetChild(i).GetChild(0).GetComponent<TMP_Text>().text = bookmarks[i];
         }
 
+        cActive = false;
+        transform.GetChild(0).gameObject.SetActive(false);
     }
 
     public void FindBookmark(int j)
@@ -70,5 +73,11 @@ public class BookmarkController : MonoBehaviour
         PlayerPrefs.DeleteKey("BM"+h);
         PlayerPrefs.Save();
         bookmarkButtonsParent.GetChild(h).GetChild(0).GetComponent<TMP_Text>().text = bookmarks[h];
+    }
+
+    public void ShowCanvas()
+    {
+        cActive = !cActive;
+        transform.GetChild(0).gameObject.SetActive(cActive);
     }
 }
