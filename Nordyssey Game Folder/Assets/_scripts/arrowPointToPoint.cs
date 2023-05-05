@@ -14,7 +14,8 @@ public class arrowPointToPoint : MonoBehaviour
     public void Update()
     {
         waypoint = GameObject.FindGameObjectWithTag("waypoint");
-        gameObject.transform.LookAt(waypoint.transform, cam.transform.up);
+        Vector3 pointDir = new Vector3(waypoint.transform.position.x, gameObject.transform.position.y, waypoint.transform.position.z);
+        gameObject.transform.LookAt(pointDir, Vector3.up);
         
     }
  
