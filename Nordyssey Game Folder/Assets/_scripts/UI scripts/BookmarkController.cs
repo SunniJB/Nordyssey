@@ -12,6 +12,8 @@ public class BookmarkController : MonoBehaviour
     public Transform bookmarkButtonsParent;
     private bool cActive;
 
+    public GameObject searchCanvas;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -77,7 +79,9 @@ public class BookmarkController : MonoBehaviour
 
     public void ShowCanvas()
     {
+        Debug.Log ("Button was clicked.");
         cActive = !cActive;
         transform.GetChild(0).gameObject.SetActive(cActive);
+        searchCanvas.SetActive(!cActive);
     }
 }
