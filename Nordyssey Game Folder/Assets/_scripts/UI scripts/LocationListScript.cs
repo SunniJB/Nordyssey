@@ -45,6 +45,7 @@ public class LocationListScript : MonoBehaviour
     public void closeBuildingList()
     {
         buildingList.SetActive(false);
+        Debug.Log("Whole building list should be closed");
     }
 
 }

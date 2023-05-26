@@ -31,6 +31,7 @@ public class HelpCanvas : MonoBehaviour
     public LocationListScript locationListScript;
     public DestinationManager destinationManager;
     public bool languageCanvasIsActivated;
+    public GameObject bookmarkButton;
 
     private int IsFirst;
     /// <summary>
@@ -38,6 +39,7 @@ public class HelpCanvas : MonoBehaviour
     /// </summary>
     public void activateHelp1()
     {
+        bookmarkButton.SetActive(false);
         if (destinationManager.chosenLanguage == DestinationManager.languages.english)
         {
             engHelpBg.SetActive(true);
@@ -104,6 +106,7 @@ public class HelpCanvas : MonoBehaviour
 
     public void closeHelpCanvas()
     {
+        bookmarkButton.SetActive(true);
         if (destinationManager.chosenLanguage == DestinationManager.languages.english)
         {
             engHelp1.SetActive(false);
