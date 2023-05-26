@@ -16,6 +16,7 @@ public class DrawLineOnMinimap : MonoBehaviour
     public Transform sessionCamera;
 
     public bool lineToggle = true;
+    private float t;
 
     //public Text debugLogText;
 
@@ -29,8 +30,10 @@ public class DrawLineOnMinimap : MonoBehaviour
 
     private void Update()
     {
-        if (lineToggle && targetPosition!= Vector3.zero) 
+        t += Time.deltaTime;
+        if (lineToggle && targetPosition!= Vector3.zero && t > 0.2f) 
         {
+            t = 0f;
             NavMesh.CalculatePath(sessionCamera.transform.position, targetPosition, NavMesh.AllAreas, path);
             //line.positionCount = path.corners.Length;
             //line.SetPositions(path.corners);

@@ -13,9 +13,9 @@ public class MoveMinimap : MonoBehaviour
 
 
     private float mX, mY;
-    private float scaleCompensationSmall = 7.23f;
-    private float scaleCompensationBig = 12.9f;
-    private float scaleCompensationLineSmall = 2.85f;
+    private float scaleCompensationSmall = 7.15f;
+    private float scaleCompensationBig = 10.8f;
+    private float scaleCompensationLineSmall = 2.35f;
 
 
     public bool bigMap = false;
@@ -40,11 +40,11 @@ public class MoveMinimap : MonoBehaviour
 
         if (!bigMap)
         {
-            offset = new Vector3((mX * scaleCompensationSmall) - 574f, (mY * scaleCompensationSmall) + 584f, 0f); 
+            offset = new Vector3((mX * scaleCompensationSmall) - 592f, (mY * scaleCompensationSmall) + 584f, 0f); 
         }
         else 
         {
-            offset = new Vector3((mX * scaleCompensationBig) - 1034f, (mY * scaleCompensationBig) + 1052f, 0f); 
+            offset = new Vector3((mX * scaleCompensationBig) - 904f, (mY * scaleCompensationBig) + 888f, 0f);
         }
 
         minimap.GetComponent<RectTransform>().anchoredPosition = offset;
@@ -72,7 +72,7 @@ public class MoveMinimap : MonoBehaviour
         {
             float objX = -corners[i].z;
             float objY = corners[i].x;
-            Vector3 offset = new Vector3((objX * scaleCompensationLineSmall), (objY * scaleCompensationLineSmall), 0f);
+            Vector3 offset = new Vector3(((objX + 12f) * scaleCompensationLineSmall), (objY * scaleCompensationLineSmall), 0f);
 
             Image point = GameObject.Instantiate(miniIcon, Vector3.zero, Quaternion.identity);
             point.color = new Color(0f, 0f, 1f, 0f);
@@ -96,8 +96,18 @@ public class MoveMinimap : MonoBehaviour
             line.transform.localScale = 
                 new Vector3(Vector2.Distance(linePoints[g].GetComponent<RectTransform>().anchoredPosition, 
                 linePoints[g+1].GetComponent<RectTransform>().anchoredPosition) / -100, 1.5f, 1f);
-            Vector3 dif = linePoints[g+1].GetComponent<RectTransform>().anchoredPosition - linePoints[g].GetComponent<RectTransform>().anchoredPosition;
-            line.rectTransform.rotation = Quaternion.Euler(new Vector3(0, 0, 180 * Mathf.Atan(dif.y / dif.x) / Mathf.PI));
+            Vector3 dif = linePoints[g+1].transform.localPosition - linePoints[g].transform.localPosition;
+            //line.rectTransform.rotation = Quaternion.Euler(new Vector3(0, 0, 180 * Mathf.Atan(dif.y / dif.x) / Mathf.PI));
+            float zAngle = Vector3.SignedAngle(dif, transform.right, transform.forward);
+            /*if (zAngle <= 0f)
+            {
+                line.rectTransform.Rotate(new Vector3(0f, 0f, zAngle - 180f));
+            }
+            else
+            {*/
+                line.rectTransform.Rotate(new Vector3(0f, 0f, -zAngle + 180f));
+            //}
+            
 
             lineLines[g] = line.gameObject;
         }
@@ -115,7 +125,7 @@ public class MoveMinimap : MonoBehaviour
         {
             bigMap = false;
             gameObject.GetComponent<RectTransform>().sizeDelta = new Vector2(400, 400);
-            minimap.localScale = new Vector3(2.5f, 2.5f, 2.5f);
+            minimap.localScale = new Vector3(2.95f, 2.95f, 2.95f);
         }
     }
 
