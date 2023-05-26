@@ -10,21 +10,23 @@ public class BookmarkController : MonoBehaviour
     public Transform roomWaypointsRoot;
     public ShowMessages sM;
     public Transform bookmarkButtonsParent;
+    public GameObject bookmarksPanel;
     private bool cActive;
+    public int maxNumBookmarks = 7;
 
     public GameObject searchCanvas;
 
     // Start is called before the first frame update
     void Start()
     {
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i < maxNumBookmarks; i++)
         {
             bookmarks[i] = PlayerPrefs.GetString("BM"+i, "Not Set");
             bookmarkButtonsParent.GetChild(i).GetChild(0).GetComponent<TMP_Text>().text = bookmarks[i];
         }
 
         cActive = false;
-        transform.GetChild(0).gameObject.SetActive(false);
+        bookmarksPanel.SetActive(false);
     }
 
     public void FindBookmark(int j)
@@ -54,7 +56,7 @@ public class BookmarkController : MonoBehaviour
             return;
         }
         string s = dManager.chosenTarget.name;
-        for (int g = 0; g < 20; g++)
+        for (int g = 0; g < maxNumBookmarks; g++)
         {
             if (bookmarks[g] == "Not Set")
             {
