@@ -22,6 +22,8 @@ public class QRCodeRecenter : MonoBehaviour
     private IBarcodeReader reader = new BarcodeReader(); // create a barcode reader instance
     private bool scanningEnabled = false;
 
+    public ShowMessages sm;
+
     private void OnEnable()
     {
         cameraManager.frameReceived += OnCameraFrameReceived;
@@ -106,8 +108,8 @@ public class QRCodeRecenter : MonoBehaviour
     {
         scanningEnabled = !scanningEnabled;
         qrCodeScanningPanel.SetActive(scanningEnabled);
-       qrCodeNotYetScanned.SetActive(false);
-        CancelInvoke("QrScann");
+        qrCodeNotYetScanned.SetActive(false);
+        //CancelInvoke("QrScann");
     }
 
     private void SetQrCodeRecenterTarget(string targetText)
@@ -116,11 +118,22 @@ public class QRCodeRecenter : MonoBehaviour
         if (currentTarget != null)
         {
             // Reset position and rotation of ARSession
+            sessionOrigin.transform.position = currentTarget.positionObject.transform.position;
+            sessionOrigin.transform.rotation = currentTarget.positionObject.transform.rotation;
+            Invoke("SafeToMove", 2f);
             session.Reset();
 
             // Add offset for recentering
-            sessionOrigin.transform.position = currentTarget.positionObject.transform.position;
-            sessionOrigin.transform.rotation = currentTarget.positionObject.transform.rotation;
+            
+            //sm.ShowMessage("Position: " + cameraManager.transform.localPosition + " Rotation: " + cameraManager.transform.localRotation, 2f, Color.yellow);
+            //cameraManager.transform.position = sessionOrigin.transform.position;
+            //cameraManager.transform.rotation = sessionOrigin.transform.rotation;
+
         }
+    }
+
+    private void SafeToMove()
+    {
+        sm.ShowMessage("Position Reset! You can now continue.", 2f, Color.white);
     }
 }
